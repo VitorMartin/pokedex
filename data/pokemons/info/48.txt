@@ -1,0 +1,4 @@
+id:48
+name:venonat
+types:bug,poison
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png

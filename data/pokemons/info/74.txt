@@ -1,0 +1,4 @@
+id:74
+name:geodude
+types:rock,ground
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png

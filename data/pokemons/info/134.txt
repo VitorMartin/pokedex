@@ -1,0 +1,4 @@
+id:134
+name:vaporeon
+types:water
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png

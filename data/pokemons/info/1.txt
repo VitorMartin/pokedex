@@ -1,0 +1,4 @@
+id:1
+name:bulbasaur
+types:grass,poison
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png

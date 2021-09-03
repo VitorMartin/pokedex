@@ -1,0 +1,4 @@
+id:142
+name:aerodactyl
+types:rock,flying
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png

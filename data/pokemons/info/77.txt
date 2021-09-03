@@ -1,0 +1,4 @@
+id:77
+name:ponyta
+types:fire
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png

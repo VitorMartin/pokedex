@@ -1,0 +1,4 @@
+id:58
+name:growlithe
+types:fire
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png

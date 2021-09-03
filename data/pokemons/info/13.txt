@@ -1,0 +1,4 @@
+id:13
+name:weedle
+types:bug,poison
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png

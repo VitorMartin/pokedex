@@ -1,0 +1,4 @@
+id:23
+name:ekans
+types:poison
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png

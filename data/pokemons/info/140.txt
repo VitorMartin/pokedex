@@ -1,0 +1,4 @@
+id:140
+name:kabuto
+types:rock,water
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png

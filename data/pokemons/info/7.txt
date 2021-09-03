@@ -1,0 +1,4 @@
+id:7
+name:squirtle
+types:water
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png

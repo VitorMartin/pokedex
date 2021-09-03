@@ -1,0 +1,4 @@
+id:106
+name:hitmonlee
+types:fighting
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png

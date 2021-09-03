@@ -1,0 +1,4 @@
+id:67
+name:machoke
+types:fighting
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png

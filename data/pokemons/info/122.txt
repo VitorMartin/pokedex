@@ -1,0 +1,4 @@
+id:122
+name:mr-mime
+types:psychic,fairy
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png

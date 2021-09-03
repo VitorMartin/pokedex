@@ -1,0 +1,4 @@
+id:104
+name:cubone
+types:ground
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png

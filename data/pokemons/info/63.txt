@@ -1,0 +1,4 @@
+id:63
+name:abra
+types:psychic
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png

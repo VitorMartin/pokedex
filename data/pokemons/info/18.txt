@@ -1,0 +1,4 @@
+id:18
+name:pidgeot
+types:normal,flying
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png

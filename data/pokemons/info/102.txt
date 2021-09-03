@@ -1,0 +1,4 @@
+id:102
+name:exeggcute
+types:grass,psychic
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png

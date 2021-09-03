@@ -1,0 +1,4 @@
+id:130
+name:gyarados
+types:water,flying
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png

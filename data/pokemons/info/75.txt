@@ -1,0 +1,4 @@
+id:75
+name:graveler
+types:rock,ground
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png

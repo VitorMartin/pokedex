@@ -1,0 +1,4 @@
+id:46
+name:paras
+types:bug,grass
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png

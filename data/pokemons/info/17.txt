@@ -1,0 +1,4 @@
+id:17
+name:pidgeotto
+types:normal,flying
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png

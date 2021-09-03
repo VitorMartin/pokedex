@@ -1,0 +1,4 @@
+id:8
+name:wartortle
+types:water
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png

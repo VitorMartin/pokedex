@@ -1,0 +1,4 @@
+id:26
+name:raichu
+types:electric
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png

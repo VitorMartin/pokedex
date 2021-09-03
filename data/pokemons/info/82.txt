@@ -1,0 +1,4 @@
+id:82
+name:magneton
+types:electric,steel
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png

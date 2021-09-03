@@ -1,0 +1,4 @@
+id:34
+name:nidoking
+types:poison,ground
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png

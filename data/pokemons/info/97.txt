@@ -1,0 +1,4 @@
+id:97
+name:hypno
+types:psychic
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png

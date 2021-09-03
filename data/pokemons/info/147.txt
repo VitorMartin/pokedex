@@ -1,0 +1,4 @@
+id:147
+name:dratini
+types:dragon
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png

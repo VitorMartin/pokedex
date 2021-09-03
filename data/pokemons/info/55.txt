@@ -1,0 +1,4 @@
+id:55
+name:golduck
+types:water
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png

@@ -1,0 +1,4 @@
+id:121
+name:starmie
+types:water,psychic
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png

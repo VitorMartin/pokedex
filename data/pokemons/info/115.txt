@@ -1,0 +1,4 @@
+id:115
+name:kangaskhan
+types:normal
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png

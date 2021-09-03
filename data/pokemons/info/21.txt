@@ -1,0 +1,4 @@
+id:21
+name:spearow
+types:normal,flying
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png

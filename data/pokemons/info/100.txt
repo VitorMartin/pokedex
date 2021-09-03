@@ -1,0 +1,4 @@
+id:100
+name:voltorb
+types:electric
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png

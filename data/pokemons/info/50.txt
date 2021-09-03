@@ -1,0 +1,4 @@
+id:50
+name:diglett
+types:ground
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png

@@ -1,0 +1,4 @@
+id:15
+name:beedrill
+types:bug,poison
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png

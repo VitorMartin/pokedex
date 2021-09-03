@@ -1,0 +1,4 @@
+id:95
+name:onix
+types:rock,ground
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png

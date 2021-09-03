@@ -1,0 +1,4 @@
+id:99
+name:kingler
+types:water
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png

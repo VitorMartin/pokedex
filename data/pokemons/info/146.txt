@@ -1,0 +1,4 @@
+id:146
+name:moltres
+types:fire,flying
+sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png
