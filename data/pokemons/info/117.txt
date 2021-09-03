@@ -1,4 +1,4 @@
 id:117
 name:seadra
 types:water
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png
+sprite:./pokedex/data/pokemons/sprites/117.png

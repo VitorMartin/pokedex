@@ -1,4 +1,4 @@
 id:28
 name:sandslash
 types:ground
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png
+sprite:./pokedex/data/pokemons/sprites/28.png

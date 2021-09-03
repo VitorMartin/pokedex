@@ -1,4 +1,4 @@
 id:27
 name:sandshrew
 types:ground
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png
+sprite:./pokedex/data/pokemons/sprites/27.png

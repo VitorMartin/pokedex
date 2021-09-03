@@ -1,4 +1,4 @@
 id:86
 name:seel
 types:water
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png
+sprite:./pokedex/data/pokemons/sprites/86.png

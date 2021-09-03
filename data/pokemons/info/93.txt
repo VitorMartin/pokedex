@@ -1,4 +1,4 @@
 id:93
 name:haunter
 types:ghost,poison
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png
+sprite:./pokedex/data/pokemons/sprites/93.png

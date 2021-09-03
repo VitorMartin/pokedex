@@ -1,4 +1,4 @@
 id:128
 name:tauros
 types:normal
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png
+sprite:./pokedex/data/pokemons/sprites/128.png

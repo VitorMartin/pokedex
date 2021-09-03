@@ -1,4 +1,4 @@
 id:38
 name:ninetales
 types:fire
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png
+sprite:./pokedex/data/pokemons/sprites/38.png

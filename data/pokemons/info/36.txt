@@ -1,4 +1,4 @@
 id:36
 name:clefable
 types:fairy
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png
+sprite:./pokedex/data/pokemons/sprites/36.png

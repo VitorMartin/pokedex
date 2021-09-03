@@ -1,4 +1,4 @@
 id:20
 name:raticate
 types:normal
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png
+sprite:./pokedex/data/pokemons/sprites/20.png

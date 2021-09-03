@@ -1,4 +1,4 @@
 id:6
 name:charizard
 types:fire,flying
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png
+sprite:./pokedex/data/pokemons/sprites/6.png

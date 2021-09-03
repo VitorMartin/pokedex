@@ -1,4 +1,4 @@
 id:84
 name:doduo
 types:normal,flying
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png
+sprite:./pokedex/data/pokemons/sprites/84.png

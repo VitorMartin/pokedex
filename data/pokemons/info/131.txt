@@ -1,4 +1,4 @@
 id:131
 name:lapras
 types:water,ice
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png
+sprite:./pokedex/data/pokemons/sprites/131.png

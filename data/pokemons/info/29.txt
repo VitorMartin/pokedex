@@ -1,4 +1,4 @@
 id:29
 name:nidoran-f
 types:poison
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png
+sprite:./pokedex/data/pokemons/sprites/29.png

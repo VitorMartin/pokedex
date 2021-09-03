@@ -1,4 +1,4 @@
 id:4
 name:charmander
 types:fire
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png
+sprite:./pokedex/data/pokemons/sprites/4.png

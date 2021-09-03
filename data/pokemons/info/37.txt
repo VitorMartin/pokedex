@@ -1,4 +1,4 @@
 id:37
 name:vulpix
 types:fire
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png
+sprite:./pokedex/data/pokemons/sprites/37.png

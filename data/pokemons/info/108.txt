@@ -1,4 +1,4 @@
 id:108
 name:lickitung
 types:normal
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png
+sprite:./pokedex/data/pokemons/sprites/108.png

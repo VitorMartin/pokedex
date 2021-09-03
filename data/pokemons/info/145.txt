@@ -1,4 +1,4 @@
 id:145
 name:zapdos
 types:electric,flying
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png
+sprite:./pokedex/data/pokemons/sprites/145.png

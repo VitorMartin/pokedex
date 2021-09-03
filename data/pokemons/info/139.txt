@@ -1,4 +1,4 @@
 id:139
 name:omastar
 types:rock,water
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png
+sprite:./pokedex/data/pokemons/sprites/139.png

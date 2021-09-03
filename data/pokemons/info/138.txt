@@ -1,4 +1,4 @@
 id:138
 name:omanyte
 types:rock,water
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png
+sprite:./pokedex/data/pokemons/sprites/138.png

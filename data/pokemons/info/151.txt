@@ -1,4 +1,4 @@
 id:151
 name:mew
 types:psychic
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png
+sprite:./pokedex/data/pokemons/sprites/151.png

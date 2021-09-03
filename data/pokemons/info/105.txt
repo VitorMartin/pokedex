@@ -1,4 +1,4 @@
 id:105
 name:marowak
 types:ground
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png
+sprite:./pokedex/data/pokemons/sprites/105.png

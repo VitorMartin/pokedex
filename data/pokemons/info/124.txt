@@ -1,4 +1,4 @@
 id:124
 name:jynx
 types:ice,psychic
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png
+sprite:./pokedex/data/pokemons/sprites/124.png

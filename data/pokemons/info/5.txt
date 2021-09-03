@@ -1,4 +1,4 @@
 id:5
 name:charmeleon
 types:fire
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png
+sprite:./pokedex/data/pokemons/sprites/5.png

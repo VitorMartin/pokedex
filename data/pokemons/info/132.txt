@@ -1,4 +1,4 @@
 id:132
 name:ditto
 types:normal
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png
+sprite:./pokedex/data/pokemons/sprites/132.png

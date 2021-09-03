@@ -1,4 +1,4 @@
 id:109
 name:koffing
 types:poison
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png
+sprite:./pokedex/data/pokemons/sprites/109.png

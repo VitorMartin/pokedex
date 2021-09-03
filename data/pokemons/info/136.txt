@@ -1,4 +1,4 @@
 id:136
 name:flareon
 types:fire
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png
+sprite:./pokedex/data/pokemons/sprites/136.png

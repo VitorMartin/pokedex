@@ -1,4 +1,4 @@
 id:59
 name:arcanine
 types:fire
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png
+sprite:./pokedex/data/pokemons/sprites/59.png

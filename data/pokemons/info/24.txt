@@ -1,4 +1,4 @@
 id:24
 name:arbok
 types:poison
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png
+sprite:./pokedex/data/pokemons/sprites/24.png

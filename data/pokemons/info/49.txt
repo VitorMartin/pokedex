@@ -1,4 +1,4 @@
 id:49
 name:venomoth
 types:bug,poison
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png
+sprite:./pokedex/data/pokemons/sprites/49.png

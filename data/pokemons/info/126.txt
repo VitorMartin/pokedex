@@ -1,4 +1,4 @@
 id:126
 name:magmar
 types:fire
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png
+sprite:./pokedex/data/pokemons/sprites/126.png

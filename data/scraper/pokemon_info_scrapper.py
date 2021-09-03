@@ -9,7 +9,7 @@ if __name__ == '__main__':
         pkm_id = pkm['id']
         pkm_name = pkm['name']
 
-        with open(f'../pokemons/{pkm_id}.txt', 'w') as file:
+        with open(f'../pokemons/info/{pkm_id}.txt', 'w') as file:
             # ID e nome
             write_str = (
                 f'id:{pkm_id}\n'
@@ -24,7 +24,7 @@ if __name__ == '__main__':
             write_str += f'types:{pkm_types}\n'
 
             # Sprite
-            sprite_url = pkm['sprites']['front_default']
-            write_str += f'sprite:{sprite_url}'
+            sprite_path = f'./pokedex/data/pokemons/sprites/{pkm_id}.png'
+            write_str += f'sprite:{sprite_path}'
 
             file.write(write_str)

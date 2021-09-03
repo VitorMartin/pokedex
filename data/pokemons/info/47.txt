@@ -1,4 +1,4 @@
 id:47
 name:parasect
 types:bug,grass
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png
+sprite:./pokedex/data/pokemons/sprites/47.png

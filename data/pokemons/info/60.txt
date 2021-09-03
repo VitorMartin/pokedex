@@ -1,4 +1,4 @@
 id:60
 name:poliwag
 types:water
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png
+sprite:./pokedex/data/pokemons/sprites/60.png

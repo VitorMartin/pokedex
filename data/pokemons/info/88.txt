@@ -1,4 +1,4 @@
 id:88
 name:grimer
 types:poison
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png
+sprite:./pokedex/data/pokemons/sprites/88.png

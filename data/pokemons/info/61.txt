@@ -1,4 +1,4 @@
 id:61
 name:poliwhirl
 types:water
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png
+sprite:./pokedex/data/pokemons/sprites/61.png

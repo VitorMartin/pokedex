@@ -1,4 +1,4 @@
 id:143
 name:snorlax
 types:normal
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png
+sprite:./pokedex/data/pokemons/sprites/143.png

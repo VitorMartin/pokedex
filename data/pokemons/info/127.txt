@@ -1,4 +1,4 @@
 id:127
 name:pinsir
 types:bug
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png
+sprite:./pokedex/data/pokemons/sprites/127.png

@@ -1,4 +1,4 @@
 id:52
 name:meowth
 types:normal
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png
+sprite:./pokedex/data/pokemons/sprites/52.png

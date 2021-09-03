@@ -1,4 +1,4 @@
 id:129
 name:magikarp
 types:water
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png
+sprite:./pokedex/data/pokemons/sprites/129.png

@@ -1,4 +1,4 @@
 id:150
 name:mewtwo
 types:psychic
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png
+sprite:./pokedex/data/pokemons/sprites/150.png

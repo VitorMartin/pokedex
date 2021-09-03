@@ -1,4 +1,4 @@
 id:22
 name:fearow
 types:normal,flying
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png
+sprite:./pokedex/data/pokemons/sprites/22.png

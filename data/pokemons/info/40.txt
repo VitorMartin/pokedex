@@ -1,4 +1,4 @@
 id:40
 name:wigglytuff
 types:normal,fairy
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png
+sprite:./pokedex/data/pokemons/sprites/40.png

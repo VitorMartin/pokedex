@@ -1,4 +1,4 @@
 id:16
 name:pidgey
 types:normal,flying
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png
+sprite:./pokedex/data/pokemons/sprites/16.png

@@ -1,4 +1,4 @@
 id:39
 name:jigglypuff
 types:normal,fairy
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png
+sprite:./pokedex/data/pokemons/sprites/39.png

@@ -1,4 +1,4 @@
 id:94
 name:gengar
 types:ghost,poison
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png
+sprite:./pokedex/data/pokemons/sprites/94.png

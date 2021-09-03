@@ -1,4 +1,4 @@
 id:96
 name:drowzee
 types:psychic
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png
+sprite:./pokedex/data/pokemons/sprites/96.png

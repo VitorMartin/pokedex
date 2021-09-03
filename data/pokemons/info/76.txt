@@ -1,4 +1,4 @@
 id:76
 name:golem
 types:rock,ground
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png
+sprite:./pokedex/data/pokemons/sprites/76.png

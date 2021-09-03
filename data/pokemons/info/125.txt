@@ -1,4 +1,4 @@
 id:125
 name:electabuzz
 types:electric
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png
+sprite:./pokedex/data/pokemons/sprites/125.png

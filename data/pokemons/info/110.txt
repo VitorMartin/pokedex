@@ -1,4 +1,4 @@
 id:110
 name:weezing
 types:poison
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png
+sprite:./pokedex/data/pokemons/sprites/110.png

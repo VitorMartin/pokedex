@@ -1,4 +1,4 @@
 id:72
 name:tentacool
 types:water,poison
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png
+sprite:./pokedex/data/pokemons/sprites/72.png

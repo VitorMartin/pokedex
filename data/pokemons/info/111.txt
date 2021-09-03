@@ -1,4 +1,4 @@
 id:111
 name:rhyhorn
 types:ground,rock
-sprite:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png
+sprite:./pokedex/data/pokemons/sprites/111.png
