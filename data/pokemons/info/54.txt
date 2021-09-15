@@ -1,0 +1,4 @@
+id:54
+name:psyduck
+types:water
+sprite:./pokedex/data/pokemons/sprites/54.png

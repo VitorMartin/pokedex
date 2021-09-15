@@ -1,0 +1,4 @@
+id:119
+name:seaking
+types:water
+sprite:./pokedex/data/pokemons/sprites/119.png

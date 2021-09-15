@@ -1,0 +1,4 @@
+id:107
+name:hitmonchan
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/107.png

@@ -1,0 +1,4 @@
+id:133
+name:eevee
+types:normal
+sprite:./pokedex/data/pokemons/sprites/133.png

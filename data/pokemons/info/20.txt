@@ -1,0 +1,4 @@
+id:20
+name:raticate
+types:normal
+sprite:./pokedex/data/pokemons/sprites/20.png

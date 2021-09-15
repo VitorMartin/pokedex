@@ -1,0 +1,4 @@
+id:53
+name:persian
+types:normal
+sprite:./pokedex/data/pokemons/sprites/53.png

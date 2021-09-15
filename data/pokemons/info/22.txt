@@ -1,0 +1,4 @@
+id:22
+name:fearow
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/22.png

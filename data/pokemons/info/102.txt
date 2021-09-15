@@ -1,0 +1,4 @@
+id:102
+name:exeggcute
+types:grass,psychic
+sprite:./pokedex/data/pokemons/sprites/102.png

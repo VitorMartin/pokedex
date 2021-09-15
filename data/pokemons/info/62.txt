@@ -1,0 +1,4 @@
+id:62
+name:poliwrath
+types:water,fighting
+sprite:./pokedex/data/pokemons/sprites/62.png

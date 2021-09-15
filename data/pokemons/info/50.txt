@@ -1,0 +1,4 @@
+id:50
+name:diglett
+types:ground
+sprite:./pokedex/data/pokemons/sprites/50.png

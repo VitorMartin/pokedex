@@ -1,0 +1,4 @@
+id:40
+name:wigglytuff
+types:normal,fairy
+sprite:./pokedex/data/pokemons/sprites/40.png

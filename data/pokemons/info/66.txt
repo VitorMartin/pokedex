@@ -1,0 +1,4 @@
+id:66
+name:machop
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/66.png

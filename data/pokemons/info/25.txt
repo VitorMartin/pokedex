@@ -1,0 +1,4 @@
+id:25
+name:pikachu
+types:electric
+sprite:./pokedex/data/pokemons/sprites/25.png

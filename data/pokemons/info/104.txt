@@ -1,0 +1,4 @@
+id:104
+name:cubone
+types:ground
+sprite:./pokedex/data/pokemons/sprites/104.png

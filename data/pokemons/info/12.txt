@@ -1,0 +1,4 @@
+id:12
+name:butterfree
+types:bug,flying
+sprite:./pokedex/data/pokemons/sprites/12.png

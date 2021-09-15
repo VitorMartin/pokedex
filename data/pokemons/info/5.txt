@@ -1,0 +1,4 @@
+id:5
+name:charmeleon
+types:fire
+sprite:./pokedex/data/pokemons/sprites/5.png

@@ -1,0 +1,4 @@
+id:123
+name:scyther
+types:bug,flying
+sprite:./pokedex/data/pokemons/sprites/123.png

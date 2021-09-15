@@ -1,0 +1,4 @@
+id:35
+name:clefairy
+types:fairy
+sprite:./pokedex/data/pokemons/sprites/35.png

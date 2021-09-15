@@ -1,0 +1,4 @@
+id:141
+name:kabutops
+types:rock,water
+sprite:./pokedex/data/pokemons/sprites/141.png

@@ -1,0 +1,4 @@
+id:13
+name:weedle
+types:bug,poison
+sprite:./pokedex/data/pokemons/sprites/13.png

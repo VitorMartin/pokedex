@@ -1,0 +1,4 @@
+id:120
+name:staryu
+types:water
+sprite:./pokedex/data/pokemons/sprites/120.png

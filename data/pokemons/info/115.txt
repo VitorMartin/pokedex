@@ -1,0 +1,4 @@
+id:115
+name:kangaskhan
+types:normal
+sprite:./pokedex/data/pokemons/sprites/115.png

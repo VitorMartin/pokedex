@@ -1,0 +1,4 @@
+id:19
+name:rattata
+types:normal
+sprite:./pokedex/data/pokemons/sprites/19.png

@@ -1,0 +1,4 @@
+id:24
+name:arbok
+types:poison
+sprite:./pokedex/data/pokemons/sprites/24.png

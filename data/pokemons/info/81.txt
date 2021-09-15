@@ -1,0 +1,4 @@
+id:81
+name:magnemite
+types:electric,steel
+sprite:./pokedex/data/pokemons/sprites/81.png

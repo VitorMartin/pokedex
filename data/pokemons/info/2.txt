@@ -1,0 +1,4 @@
+id:2
+name:ivysaur
+types:grass,poison
+sprite:./pokedex/data/pokemons/sprites/2.png

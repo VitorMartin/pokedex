@@ -1,0 +1,4 @@
+id:97
+name:hypno
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/97.png

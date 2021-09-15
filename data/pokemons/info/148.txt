@@ -1,0 +1,4 @@
+id:148
+name:dragonair
+types:dragon
+sprite:./pokedex/data/pokemons/sprites/148.png

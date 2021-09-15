@@ -1,0 +1,4 @@
+id:135
+name:jolteon
+types:electric
+sprite:./pokedex/data/pokemons/sprites/135.png

@@ -1,0 +1,4 @@
+id:9
+name:blastoise
+types:water
+sprite:./pokedex/data/pokemons/sprites/9.png

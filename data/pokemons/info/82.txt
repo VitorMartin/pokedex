@@ -1,0 +1,4 @@
+id:82
+name:magneton
+types:electric,steel
+sprite:./pokedex/data/pokemons/sprites/82.png

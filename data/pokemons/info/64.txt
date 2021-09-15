@@ -1,0 +1,4 @@
+id:64
+name:kadabra
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/64.png

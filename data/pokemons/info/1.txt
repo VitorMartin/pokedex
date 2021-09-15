@@ -1,0 +1,4 @@
+id:1
+name:bulbasaur
+types:grass,poison
+sprite:./pokedex/data/pokemons/sprites/1.png

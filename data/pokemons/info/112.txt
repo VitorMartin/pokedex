@@ -1,0 +1,4 @@
+id:112
+name:rhydon
+types:ground,rock
+sprite:./pokedex/data/pokemons/sprites/112.png

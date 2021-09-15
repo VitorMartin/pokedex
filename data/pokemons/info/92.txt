@@ -1,0 +1,4 @@
+id:92
+name:gastly
+types:ghost,poison
+sprite:./pokedex/data/pokemons/sprites/92.png

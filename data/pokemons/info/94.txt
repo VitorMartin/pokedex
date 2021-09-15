@@ -1,0 +1,4 @@
+id:94
+name:gengar
+types:ghost,poison
+sprite:./pokedex/data/pokemons/sprites/94.png

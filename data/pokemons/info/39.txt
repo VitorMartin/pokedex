@@ -1,0 +1,4 @@
+id:39
+name:jigglypuff
+types:normal,fairy
+sprite:./pokedex/data/pokemons/sprites/39.png

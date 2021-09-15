@@ -1,0 +1,4 @@
+id:56
+name:mankey
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/56.png

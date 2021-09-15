@@ -1,0 +1,4 @@
+id:36
+name:clefable
+types:fairy
+sprite:./pokedex/data/pokemons/sprites/36.png

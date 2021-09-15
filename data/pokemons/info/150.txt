@@ -1,0 +1,4 @@
+id:150
+name:mewtwo
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/150.png

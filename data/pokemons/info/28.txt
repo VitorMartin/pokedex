@@ -1,0 +1,4 @@
+id:28
+name:sandslash
+types:ground
+sprite:./pokedex/data/pokemons/sprites/28.png

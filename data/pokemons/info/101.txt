@@ -1,0 +1,4 @@
+id:101
+name:electrode
+types:electric
+sprite:./pokedex/data/pokemons/sprites/101.png

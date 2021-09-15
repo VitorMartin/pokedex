@@ -1,0 +1,4 @@
+id:149
+name:dragonite
+types:dragon,flying
+sprite:./pokedex/data/pokemons/sprites/149.png

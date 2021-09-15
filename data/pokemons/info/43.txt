@@ -1,0 +1,4 @@
+id:43
+name:oddish
+types:grass,poison
+sprite:./pokedex/data/pokemons/sprites/43.png

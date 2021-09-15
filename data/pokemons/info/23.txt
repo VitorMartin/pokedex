@@ -1,0 +1,4 @@
+id:23
+name:ekans
+types:poison
+sprite:./pokedex/data/pokemons/sprites/23.png

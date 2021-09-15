@@ -1,0 +1,4 @@
+id:87
+name:dewgong
+types:water,ice
+sprite:./pokedex/data/pokemons/sprites/87.png

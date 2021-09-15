@@ -1,0 +1,4 @@
+id:122
+name:mr-mime
+types:psychic,fairy
+sprite:./pokedex/data/pokemons/sprites/122.png

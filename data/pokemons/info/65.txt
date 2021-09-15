@@ -1,0 +1,4 @@
+id:65
+name:alakazam
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/65.png

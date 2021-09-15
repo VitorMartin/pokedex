@@ -1,0 +1,4 @@
+id:49
+name:venomoth
+types:bug,poison
+sprite:./pokedex/data/pokemons/sprites/49.png

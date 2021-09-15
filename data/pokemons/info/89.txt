@@ -1,0 +1,4 @@
+id:89
+name:muk
+types:poison
+sprite:./pokedex/data/pokemons/sprites/89.png

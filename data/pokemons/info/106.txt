@@ -1,0 +1,4 @@
+id:106
+name:hitmonlee
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/106.png

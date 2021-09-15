@@ -1,0 +1,4 @@
+id:42
+name:golbat
+types:poison,flying
+sprite:./pokedex/data/pokemons/sprites/42.png

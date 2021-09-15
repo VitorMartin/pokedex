@@ -1,0 +1,4 @@
+id:98
+name:krabby
+types:water
+sprite:./pokedex/data/pokemons/sprites/98.png

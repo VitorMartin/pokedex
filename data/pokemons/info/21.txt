@@ -1,0 +1,4 @@
+id:21
+name:spearow
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/21.png

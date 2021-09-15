@@ -1,0 +1,4 @@
+id:151
+name:mew
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/151.png

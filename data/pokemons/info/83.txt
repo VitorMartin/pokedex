@@ -1,0 +1,4 @@
+id:83
+name:farfetchd
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/83.png

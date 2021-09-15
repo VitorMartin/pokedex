@@ -1,0 +1,4 @@
+id:72
+name:tentacool
+types:water,poison
+sprite:./pokedex/data/pokemons/sprites/72.png

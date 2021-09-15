@@ -1,0 +1,4 @@
+id:4
+name:charmander
+types:fire
+sprite:./pokedex/data/pokemons/sprites/4.png

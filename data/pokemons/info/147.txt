@@ -1,0 +1,4 @@
+id:147
+name:dratini
+types:dragon
+sprite:./pokedex/data/pokemons/sprites/147.png

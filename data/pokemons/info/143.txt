@@ -1,0 +1,4 @@
+id:143
+name:snorlax
+types:normal
+sprite:./pokedex/data/pokemons/sprites/143.png

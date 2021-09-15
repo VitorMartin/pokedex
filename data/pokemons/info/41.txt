@@ -1,0 +1,4 @@
+id:41
+name:zubat
+types:poison,flying
+sprite:./pokedex/data/pokemons/sprites/41.png

@@ -1,0 +1,4 @@
+id:114
+name:tangela
+types:grass
+sprite:./pokedex/data/pokemons/sprites/114.png

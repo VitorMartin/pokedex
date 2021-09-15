@@ -1,0 +1,4 @@
+id:6
+name:charizard
+types:fire,flying
+sprite:./pokedex/data/pokemons/sprites/6.png

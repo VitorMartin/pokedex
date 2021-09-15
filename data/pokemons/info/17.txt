@@ -1,0 +1,4 @@
+id:17
+name:pidgeotto
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/17.png

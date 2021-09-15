@@ -1,0 +1,4 @@
+id:146
+name:moltres
+types:fire,flying
+sprite:./pokedex/data/pokemons/sprites/146.png

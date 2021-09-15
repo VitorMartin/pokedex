@@ -1,0 +1,4 @@
+id:31
+name:nidoqueen
+types:poison,ground
+sprite:./pokedex/data/pokemons/sprites/31.png

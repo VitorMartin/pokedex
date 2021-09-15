@@ -1,0 +1,4 @@
+id:55
+name:golduck
+types:water
+sprite:./pokedex/data/pokemons/sprites/55.png

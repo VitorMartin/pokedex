@@ -1,0 +1,4 @@
+id:126
+name:magmar
+types:fire
+sprite:./pokedex/data/pokemons/sprites/126.png

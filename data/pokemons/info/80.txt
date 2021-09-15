@@ -1,0 +1,4 @@
+id:80
+name:slowbro
+types:water,psychic
+sprite:./pokedex/data/pokemons/sprites/80.png

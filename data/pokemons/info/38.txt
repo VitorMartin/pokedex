@@ -1,0 +1,4 @@
+id:38
+name:ninetales
+types:fire
+sprite:./pokedex/data/pokemons/sprites/38.png

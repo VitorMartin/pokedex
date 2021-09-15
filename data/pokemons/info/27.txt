@@ -1,0 +1,4 @@
+id:27
+name:sandshrew
+types:ground
+sprite:./pokedex/data/pokemons/sprites/27.png

@@ -1,0 +1,4 @@
+id:26
+name:raichu
+types:electric
+sprite:./pokedex/data/pokemons/sprites/26.png

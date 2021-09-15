@@ -1,0 +1,4 @@
+id:30
+name:nidorina
+types:poison
+sprite:./pokedex/data/pokemons/sprites/30.png

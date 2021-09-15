@@ -1,0 +1,4 @@
+id:14
+name:kakuna
+types:bug,poison
+sprite:./pokedex/data/pokemons/sprites/14.png

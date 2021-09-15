@@ -1,0 +1,4 @@
+id:79
+name:slowpoke
+types:water,psychic
+sprite:./pokedex/data/pokemons/sprites/79.png

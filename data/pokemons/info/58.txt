@@ -1,0 +1,4 @@
+id:58
+name:growlithe
+types:fire
+sprite:./pokedex/data/pokemons/sprites/58.png

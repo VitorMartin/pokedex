@@ -1,0 +1,4 @@
+id:142
+name:aerodactyl
+types:rock,flying
+sprite:./pokedex/data/pokemons/sprites/142.png

@@ -1,0 +1,4 @@
+id:47
+name:parasect
+types:bug,grass
+sprite:./pokedex/data/pokemons/sprites/47.png

@@ -1,0 +1,4 @@
+id:113
+name:chansey
+types:normal
+sprite:./pokedex/data/pokemons/sprites/113.png

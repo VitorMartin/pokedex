@@ -1,0 +1,4 @@
+id:127
+name:pinsir
+types:bug
+sprite:./pokedex/data/pokemons/sprites/127.png

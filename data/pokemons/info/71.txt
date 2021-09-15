@@ -1,0 +1,4 @@
+id:71
+name:victreebel
+types:grass,poison
+sprite:./pokedex/data/pokemons/sprites/71.png

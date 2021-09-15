@@ -1,0 +1,4 @@
+id:57
+name:primeape
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/57.png

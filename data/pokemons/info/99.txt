@@ -1,0 +1,4 @@
+id:99
+name:kingler
+types:water
+sprite:./pokedex/data/pokemons/sprites/99.png

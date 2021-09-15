@@ -1,0 +1,4 @@
+id:128
+name:tauros
+types:normal
+sprite:./pokedex/data/pokemons/sprites/128.png

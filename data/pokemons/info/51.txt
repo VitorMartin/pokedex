@@ -1,0 +1,4 @@
+id:51
+name:dugtrio
+types:ground
+sprite:./pokedex/data/pokemons/sprites/51.png

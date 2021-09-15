@@ -1,0 +1,4 @@
+id:105
+name:marowak
+types:ground
+sprite:./pokedex/data/pokemons/sprites/105.png

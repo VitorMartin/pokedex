@@ -1,0 +1,4 @@
+id:75
+name:graveler
+types:rock,ground
+sprite:./pokedex/data/pokemons/sprites/75.png

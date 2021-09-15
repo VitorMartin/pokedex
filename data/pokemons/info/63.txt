@@ -1,0 +1,4 @@
+id:63
+name:abra
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/63.png

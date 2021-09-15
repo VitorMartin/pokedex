@@ -1,0 +1,4 @@
+id:73
+name:tentacruel
+types:water,poison
+sprite:./pokedex/data/pokemons/sprites/73.png

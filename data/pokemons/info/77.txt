@@ -1,0 +1,4 @@
+id:77
+name:ponyta
+types:fire
+sprite:./pokedex/data/pokemons/sprites/77.png

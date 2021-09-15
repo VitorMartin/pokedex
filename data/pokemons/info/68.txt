@@ -1,0 +1,4 @@
+id:68
+name:machamp
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/68.png

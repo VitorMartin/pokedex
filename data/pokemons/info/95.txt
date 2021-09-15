@@ -1,0 +1,4 @@
+id:95
+name:onix
+types:rock,ground
+sprite:./pokedex/data/pokemons/sprites/95.png

@@ -1,0 +1,4 @@
+id:44
+name:gloom
+types:grass,poison
+sprite:./pokedex/data/pokemons/sprites/44.png

@@ -1,0 +1,4 @@
+id:103
+name:exeggutor
+types:grass,psychic
+sprite:./pokedex/data/pokemons/sprites/103.png

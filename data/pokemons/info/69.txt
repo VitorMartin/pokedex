@@ -1,0 +1,4 @@
+id:69
+name:bellsprout
+types:grass,poison
+sprite:./pokedex/data/pokemons/sprites/69.png

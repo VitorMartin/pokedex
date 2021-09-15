@@ -1,0 +1,4 @@
+id:59
+name:arcanine
+types:fire
+sprite:./pokedex/data/pokemons/sprites/59.png

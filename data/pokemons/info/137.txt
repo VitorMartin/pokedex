@@ -1,0 +1,4 @@
+id:137
+name:porygon
+types:normal
+sprite:./pokedex/data/pokemons/sprites/137.png

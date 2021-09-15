@@ -1,0 +1,4 @@
+id:74
+name:geodude
+types:rock,ground
+sprite:./pokedex/data/pokemons/sprites/74.png

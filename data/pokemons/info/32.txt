@@ -1,0 +1,4 @@
+id:32
+name:nidoran-m
+types:poison
+sprite:./pokedex/data/pokemons/sprites/32.png

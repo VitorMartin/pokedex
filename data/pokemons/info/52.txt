@@ -1,0 +1,4 @@
+id:52
+name:meowth
+types:normal
+sprite:./pokedex/data/pokemons/sprites/52.png

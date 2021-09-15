@@ -1,0 +1,4 @@
+id:11
+name:metapod
+types:bug
+sprite:./pokedex/data/pokemons/sprites/11.png

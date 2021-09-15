@@ -1,0 +1,4 @@
+id:96
+name:drowzee
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/96.png
