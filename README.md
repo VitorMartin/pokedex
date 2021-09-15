@@ -29,8 +29,12 @@ conda activate {nome_env}
 
 3. Atualizar:
 
+Devido a um bug no comando `conda env update`, caso o env possua uma dependência que não consta no `environment.yml`,
+ela não será removida. Portanto, para garantirmos que **apenas as dependências do `.yml` sejam incluídas, usamos o
+comando:**
+
 ```
-conda env update
+conda env create --force
 ```
 
 ### Listando todos os envs:
