@@ -1,4 +1,5 @@
 import os
+from copy import copy
 
 from app.back.src.interfaces.i_repo import I_Repo
 from app.back.src.models.pkm import Pkm
@@ -27,7 +28,7 @@ class Repo_Txt(I_Repo):
         _pkms: list[Pkm] = []
         for filename in os.listdir(self.path_to_pkms):
             _pkms.append(self.load_pkm_from_file(filename))
-        return _pkms
+        return sorted(_pkms, key=lambda pkm: pkm.id)
 
     def loadMaps(self) -> (dict[int, str], dict[str, int]):  # retorna "DICT[ID] = NOME" e "DICT[NOME] = ID"
         _id_to_name: dict[int, str] = {}
@@ -52,6 +53,9 @@ class Repo_Txt(I_Repo):
         return Pkm(_id, name, types, sprite_filename)
 
     # ========== EXTERNAL METHODS ========== #
+    def get_all_pkms(self):
+        return copy(self.pkms)  # retorna copia da lista para evitar memory leak
+
     def get_pkm_by_id(self, _id: int):
         for pkm in self.pkms:
             if _id == pkm.id:

@@ -8,6 +8,9 @@ class Fact_Ctrl_Func:
     def __init__(self, repo: I_Repo):
         self.repo = repo
 
+    def get_all_pkms(self):
+        return Ctrl_Func_Getters(self.repo).get_all_pkms()
+
     def get_pkm_by_id(self, _id: int):
         return Ctrl_Func_Getters(self.repo).get_pkm_by_id(_id)
 

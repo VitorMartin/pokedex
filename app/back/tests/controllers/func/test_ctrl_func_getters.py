@@ -7,6 +7,18 @@ ctrl = Ctrl_Func_Getters(Repo_Txt())
 
 
 class Test_Ctrl_Func_Getters:
+    def test_get_all_pkms(self):
+        exp_pkm_1 = Mocks.pkm_1()
+        exp_pkm_2 = Mocks.pkm_2()
+        exp_pkm_3 = Mocks.pkm_3()
+
+        pkms = ctrl.get_all_pkms()
+
+        assert len(pkms) == 151
+        assert pkms[0].toDict() == exp_pkm_1.toDict()
+        assert pkms[1].toDict() == exp_pkm_2.toDict()
+        assert pkms[2].toDict() == exp_pkm_3.toDict()
+
     def test_get_pkm_by_id(self):
         exp_pkm = Mocks.pkm_1()
 
