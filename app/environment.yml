@@ -1,4 +1,5 @@
 name: pokedex
 dependencies:
   - python=3.9
+  - pytest
   - requests
