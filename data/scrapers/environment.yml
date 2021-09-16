@@ -1,4 +1,0 @@
-name: scraper
-dependencies:
-  - python=3.9.6
-  - requests
