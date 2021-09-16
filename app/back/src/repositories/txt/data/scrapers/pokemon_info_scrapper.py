@@ -18,8 +18,8 @@ if __name__ == '__main__':
 
             # Tipos
             pkm_types = ''
-            for type in pkm['types']:
-                pkm_types += type['type']['name'] + ','
+            for _type in pkm['types']:
+                pkm_types += _type['type']['name'] + ','
             pkm_types = pkm_types[:-1]
             write_str += f'types:{pkm_types}\n'
 

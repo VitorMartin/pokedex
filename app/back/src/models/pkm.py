@@ -1,4 +1,5 @@
 from copy import copy
+from typing import List
 
 from app.back.src.models.enums.en_pkm_key import PKM_KEY
 
@@ -6,10 +7,10 @@ from app.back.src.models.enums.en_pkm_key import PKM_KEY
 class Pkm:
     id: int
     name: str
-    types: list[str]
+    types: List[str]
     sprite_filename: str  # caminho do arquivo
 
-    def __init__(self, _id: int, name: str, types: list[str], sprite_filename: str):
+    def __init__(self, _id: int, name: str, types: List[str], sprite_filename: str):
         self.id = _id
         self.name = name
         self.types = copy(types)  # copiar lista para evitar memory leak

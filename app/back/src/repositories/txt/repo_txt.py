@@ -1,5 +1,6 @@
 import os
 from copy import copy
+from typing import Dict, List
 
 from app.back.src.interfaces.i_repo import I_Repo
 from app.back.src.models.pkm import Pkm
@@ -10,9 +11,9 @@ class Repo_Txt(I_Repo):
     path_to_pkms: str
     path_to_sprites: str
     path_to_maps: str
-    pkms: list[Pkm]
-    id_to_name: dict[int, str]
-    name_to_id: dict[str, int]
+    pkms: List[Pkm]
+    id_to_name: Dict[int, str]
+    name_to_id: Dict[str, int]
 
     def __init__(self):
         self.path_to_data = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
@@ -24,15 +25,15 @@ class Repo_Txt(I_Repo):
         (self.id_to_name, self.name_to_id) = self.loadMaps()
 
     # ========== INTERNAL METHODS ========== #
-    def loadPkms(self) -> list[Pkm]:
-        _pkms: list[Pkm] = []
+    def loadPkms(self) -> List[Pkm]:
+        _pkms: List[Pkm] = []
         for filename in os.listdir(self.path_to_pkms):
             _pkms.append(self.load_pkm_from_file(filename))
         return sorted(_pkms, key=lambda pkm: pkm.id)
 
-    def loadMaps(self) -> (dict[int, str], dict[str, int]):  # retorna "DICT[ID] = NOME" e "DICT[NOME] = ID"
-        _id_to_name: dict[int, str] = {}
-        _name_to_id: dict[str, int] = {}
+    def loadMaps(self) -> (Dict[int, str], Dict[str, int]):  # retorna "DICT[ID] = NOME" e "DICT[NOME] = ID"
+        _id_to_name: Dict[int, str] = {}
+        _name_to_id: Dict[str, int] = {}
 
         for filename in os.listdir(self.path_to_pkms):
             pkm = self.load_pkm_from_file(filename)
