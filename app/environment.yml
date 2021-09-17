@@ -1,5 +1,7 @@
 name: pokedex
 dependencies:
   - python=3.7.9
+  - pip
   - pytest
+  - typing
   - requests
