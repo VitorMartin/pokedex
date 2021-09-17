@@ -4,8 +4,18 @@ from app.back.src.test_mcc_connection.blink import Blink
 
 
 class Init:
-    def __call__(self, test_pico_connection: bool = False):
-        if test_pico_connection:
-            return Blink()
+    def __call__(self, test_ctrl: bool = False, test_pico_connection: bool = False):
+        if test_ctrl:
+            ctrl = Fact_Ctrl_Func(Repo_Txt())
+            print(ctrl.get_pkm_by_id(1))
+            print(ctrl.get_pkm_by_name('ivysaur'))
+            [print(pkm) for pkm in ctrl.get_all_pkms()[2:4]]
+            return ctrl
+
+        elif test_pico_connection:
+            ctrl = Blink()
+            return ctrl
+
         else:
-            return Fact_Ctrl_Func(Repo_Txt())
+            ctrl = Fact_Ctrl_Func(Repo_Txt())
+            return ctrl

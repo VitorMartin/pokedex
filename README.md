@@ -70,7 +70,8 @@ controle de baixo nível de microcontroladores.
 ### Circuit Python
 
 CircuitPython é semelhante ao MicroPython, porém com mais funcionalidades, como poder acessar os arquivos armazenados
-dentro do Raspberry Pi Pico diretamente via USB, como se fosse um pen-drive.
+dentro do Raspberry Pi Pico diretamente via USB, como se fosse um pen-drive. **Atenção! A versão do Python é 3.4.0,
+portanto é preciso ter cuidado extra com compatibilidade de código.**
 
 Essa instalação consta em duas partes: driver e bundle
 
