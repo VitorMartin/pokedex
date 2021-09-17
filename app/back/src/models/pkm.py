@@ -5,11 +5,6 @@ from app.back.src.models.enums.en_pkm_key import PKM_KEY
 
 
 class Pkm:
-    id: int
-    name: str
-    types: List[str]
-    sprite_filename: str  # caminho do arquivo
-
     def __init__(self, _id: int, name: str, types: List[str], sprite_filename: str):
         self.id = _id
         self.name = name
@@ -17,14 +12,19 @@ class Pkm:
         self.sprite_filename = sprite_filename
 
     def __str__(self):
-        return (
-            f'{{\n'
-            f'\t"{PKM_KEY.ID.value}": {self.id},\n'
-            f'\t"{PKM_KEY.NAME.value}": "{self.name}",\n'
-            f'\t"{PKM_KEY.TYPES.value}": {self.types},\n'
-            f'\t"{PKM_KEY.SPRITE_FILENAME.value}": "{self.sprite_filename}"\n'
-            f'}}'
+        ret = (
+            '{\n' +
+            '\t"' + PKM_KEY.ID.value + '": ' + str(self.id) + ',\n' +
+            '\t"' + PKM_KEY.NAME.value + '": "' + self.name + '",\n' +
+            '\t"' + PKM_KEY.TYPES.value + '": ['
         )
+        for _type in self.types:
+            ret += _type + ', '
+        ret = ret[:-2]
+        ret += '], \n'
+        ret += '\t"' + PKM_KEY.SPRITE_FILENAME.value + '": "' + self.sprite_filename + '"\n}'
+
+        return ret
 
     @staticmethod
     def fromDict(d: dict):

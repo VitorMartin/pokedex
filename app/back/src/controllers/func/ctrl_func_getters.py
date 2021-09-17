@@ -5,8 +5,6 @@ from app.back.src.usecases.uc_getters import *
 
 
 class Ctrl_Func_Getters:
-    repo: I_Repo
-
     def __init__(self, repo: I_Repo):
         self.repo = repo
 

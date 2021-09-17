@@ -90,7 +90,7 @@ Para ter acesso a diversos módulos Python dentro do CircuitPython, é preciso b
 
 Baixe o bundle, descompacte o arquivo, navegue até a pasta `lib` e escolha quais dependências quer utilizar.
 
-Para carregar as dependências no Raspberry Pi Pico, basta colar os módulos desejados dentro da pasta `lib` da placa.
+Para carregar as dependências no Raspberry Pi Pico, basta colar os módulos desejados na pasta `lib` da placa.
 
 **Usar esse ao invés do MicroPython.**
 

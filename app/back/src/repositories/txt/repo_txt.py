@@ -7,14 +7,6 @@ from app.back.src.models.pkm import Pkm
 
 
 class Repo_Txt(I_Repo):
-    path_to_data: str
-    path_to_pkms: str
-    path_to_sprites: str
-    path_to_maps: str
-    pkms: List[Pkm]
-    id_to_name: Dict[int, str]
-    name_to_id: Dict[str, int]
-
     def __init__(self):
         self.path_to_data = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
         self.path_to_pkms = os.path.join(self.path_to_data, 'pokemons', 'info')
@@ -26,14 +18,14 @@ class Repo_Txt(I_Repo):
 
     # ========== INTERNAL METHODS ========== #
     def loadPkms(self) -> List[Pkm]:
-        _pkms: List[Pkm] = []
+        _pkms = []
         for filename in os.listdir(self.path_to_pkms):
             _pkms.append(self.load_pkm_from_file(filename))
         return sorted(_pkms, key=lambda pkm: pkm.id)
 
     def loadMaps(self) -> (Dict[int, str], Dict[str, int]):  # retorna "DICT[ID] = NOME" e "DICT[NOME] = ID"
-        _id_to_name: Dict[int, str] = {}
-        _name_to_id: Dict[str, int] = {}
+        _id_to_name = {}
+        _name_to_id = {}
 
         for filename in os.listdir(self.path_to_pkms):
             pkm = self.load_pkm_from_file(filename)
@@ -48,9 +40,9 @@ class Repo_Txt(I_Repo):
             for i in range(len(lines)):
                 lines[i] = lines[i].strip()
             _id = int(lines[0].split(':')[1])
-            name = lines[1].split(':')[1]
-            types = lines[2].split(':')[1].split(',')
-            sprite_filename = lines[3].split(':')[1]
+            name = str(lines[1].split(':')[1])
+            types = str(lines[2].split(':')[1]).split(',')
+            sprite_filename = str(lines[3].split(':')[1])
         return Pkm(_id, name, types, sprite_filename)
 
     # ========== EXTERNAL METHODS ========== #
