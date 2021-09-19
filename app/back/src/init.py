@@ -14,6 +14,7 @@ class Init:
 
         elif test_pico_connection:
             ctrl = Blink()
+            ctrl.blink()
             return ctrl
 
         else:
