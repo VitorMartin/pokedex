@@ -2,8 +2,6 @@ from app.back.src.interfaces.i_repo import I_Repo
 
 
 class UC_Get_All_Pkms:
-    repo: I_Repo
-
     def __init__(self, repo: I_Repo):
         self.repo = repo
 
@@ -12,8 +10,6 @@ class UC_Get_All_Pkms:
 
 
 class UC_Get_Pkm_By_Id:
-    repo: I_Repo
-
     def __init__(self, repo: I_Repo):
         self.repo = repo
 
@@ -22,8 +18,6 @@ class UC_Get_Pkm_By_Id:
 
 
 class UC_Get_Pkm_By_Name:
-    repo: I_Repo
-
     def __init__(self, repo: I_Repo):
         self.repo = repo
 

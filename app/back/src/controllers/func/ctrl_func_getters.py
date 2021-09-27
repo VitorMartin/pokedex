@@ -1,14 +1,14 @@
+from typing import List
+
 from app.back.src.models.pkm import Pkm
 from app.back.src.usecases.uc_getters import *
 
 
 class Ctrl_Func_Getters:
-    repo: I_Repo
-
     def __init__(self, repo: I_Repo):
         self.repo = repo
 
-    def get_all_pkms(self) -> list[Pkm]:
+    def get_all_pkms(self) -> List[Pkm]:
         return UC_Get_All_Pkms(self.repo)()
 
     def get_pkm_by_name(self, name: str) -> Pkm:

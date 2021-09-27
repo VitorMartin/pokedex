@@ -3,8 +3,6 @@ from app.back.src.interfaces.i_repo import I_Repo
 
 
 class Fact_Ctrl_Func:
-    repo: I_Repo
-
     def __init__(self, repo: I_Repo):
         self.repo = repo
 

@@ -6,4 +6,5 @@ if __name__ == '__main__':
     for i in range(1, 899):
         url = base_url_all_pkms.replace('%ID%', str(i))
         pkm_sprite = requests.get(url=url)
-        open(f'../pokemons/sprites/{i}.png', 'wb').write(pkm_sprite.content)
+        with open('../pokemons/sprites/' + str(i) + '.png', 'wb') as file:
+            file.write(pkm_sprite.content)
