@@ -1,0 +1,4 @@
+id:595
+name:joltik
+types:bug,electric
+sprite:./pokedex/data/pokemons/sprites/595.png

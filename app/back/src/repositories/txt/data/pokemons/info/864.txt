@@ -1,0 +1,4 @@
+id:864
+name:cursola
+types:ghost
+sprite:./pokedex/data/pokemons/sprites/864.png

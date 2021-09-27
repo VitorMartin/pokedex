@@ -1,0 +1,4 @@
+id:782
+name:jangmo-o
+types:dragon
+sprite:./pokedex/data/pokemons/sprites/782.png

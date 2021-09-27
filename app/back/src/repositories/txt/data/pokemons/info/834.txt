@@ -1,0 +1,4 @@
+id:834
+name:drednaw
+types:water,rock
+sprite:./pokedex/data/pokemons/sprites/834.png

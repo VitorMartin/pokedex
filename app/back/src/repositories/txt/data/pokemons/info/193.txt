@@ -1,0 +1,4 @@
+id:193
+name:yanma
+types:bug,flying
+sprite:./pokedex/data/pokemons/sprites/193.png

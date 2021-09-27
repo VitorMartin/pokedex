@@ -1,0 +1,4 @@
+id:665
+name:spewpa
+types:bug
+sprite:./pokedex/data/pokemons/sprites/665.png

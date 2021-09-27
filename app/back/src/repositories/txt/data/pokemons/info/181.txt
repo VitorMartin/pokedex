@@ -1,0 +1,4 @@
+id:181
+name:ampharos
+types:electric
+sprite:./pokedex/data/pokemons/sprites/181.png

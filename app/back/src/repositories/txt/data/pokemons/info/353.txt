@@ -1,0 +1,4 @@
+id:353
+name:shuppet
+types:ghost
+sprite:./pokedex/data/pokemons/sprites/353.png

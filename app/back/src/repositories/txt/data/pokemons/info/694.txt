@@ -1,0 +1,4 @@
+id:694
+name:helioptile
+types:electric,normal
+sprite:./pokedex/data/pokemons/sprites/694.png

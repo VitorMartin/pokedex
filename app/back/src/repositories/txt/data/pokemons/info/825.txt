@@ -1,0 +1,4 @@
+id:825
+name:dottler
+types:bug,psychic
+sprite:./pokedex/data/pokemons/sprites/825.png

@@ -1,0 +1,4 @@
+id:615
+name:cryogonal
+types:ice
+sprite:./pokedex/data/pokemons/sprites/615.png

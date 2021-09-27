@@ -1,0 +1,4 @@
+id:561
+name:sigilyph
+types:psychic,flying
+sprite:./pokedex/data/pokemons/sprites/561.png

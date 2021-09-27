@@ -1,0 +1,4 @@
+id:293
+name:whismur
+types:normal
+sprite:./pokedex/data/pokemons/sprites/293.png

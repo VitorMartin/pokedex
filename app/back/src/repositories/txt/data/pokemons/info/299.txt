@@ -1,0 +1,4 @@
+id:299
+name:nosepass
+types:rock
+sprite:./pokedex/data/pokemons/sprites/299.png

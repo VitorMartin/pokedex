@@ -1,0 +1,4 @@
+id:222
+name:corsola
+types:water,rock
+sprite:./pokedex/data/pokemons/sprites/222.png

@@ -1,0 +1,4 @@
+id:464
+name:rhyperior
+types:ground,rock
+sprite:./pokedex/data/pokemons/sprites/464.png

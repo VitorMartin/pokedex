@@ -1,0 +1,4 @@
+id:857
+name:hattrem
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/857.png

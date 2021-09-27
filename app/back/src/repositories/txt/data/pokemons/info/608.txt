@@ -1,0 +1,4 @@
+id:608
+name:lampent
+types:ghost,fire
+sprite:./pokedex/data/pokemons/sprites/608.png

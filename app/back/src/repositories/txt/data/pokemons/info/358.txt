@@ -1,0 +1,4 @@
+id:358
+name:chimecho
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/358.png

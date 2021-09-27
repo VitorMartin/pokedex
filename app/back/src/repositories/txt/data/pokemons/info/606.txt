@@ -1,0 +1,4 @@
+id:606
+name:beheeyem
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/606.png

@@ -1,0 +1,4 @@
+id:234
+name:stantler
+types:normal
+sprite:./pokedex/data/pokemons/sprites/234.png

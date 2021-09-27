@@ -1,0 +1,4 @@
+id:630
+name:mandibuzz
+types:dark,flying
+sprite:./pokedex/data/pokemons/sprites/630.png

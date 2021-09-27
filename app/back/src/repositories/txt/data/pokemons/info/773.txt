@@ -1,0 +1,4 @@
+id:773
+name:silvally
+types:normal
+sprite:./pokedex/data/pokemons/sprites/773.png

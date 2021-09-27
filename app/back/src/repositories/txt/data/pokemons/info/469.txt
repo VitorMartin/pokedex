@@ -1,0 +1,4 @@
+id:469
+name:yanmega
+types:bug,flying
+sprite:./pokedex/data/pokemons/sprites/469.png

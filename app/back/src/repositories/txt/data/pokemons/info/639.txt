@@ -1,0 +1,4 @@
+id:639
+name:terrakion
+types:rock,fighting
+sprite:./pokedex/data/pokemons/sprites/639.png

@@ -1,0 +1,4 @@
+id:791
+name:solgaleo
+types:psychic,steel
+sprite:./pokedex/data/pokemons/sprites/791.png

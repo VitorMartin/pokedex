@@ -1,0 +1,4 @@
+id:626
+name:bouffalant
+types:normal
+sprite:./pokedex/data/pokemons/sprites/626.png

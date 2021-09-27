@@ -1,0 +1,4 @@
+id:734
+name:yungoos
+types:normal
+sprite:./pokedex/data/pokemons/sprites/734.png

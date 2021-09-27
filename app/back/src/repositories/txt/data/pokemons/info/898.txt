@@ -1,0 +1,4 @@
+id:898
+name:calyrex
+types:psychic,grass
+sprite:./pokedex/data/pokemons/sprites/898.png

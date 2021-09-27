@@ -1,0 +1,4 @@
+id:323
+name:camerupt
+types:fire,ground
+sprite:./pokedex/data/pokemons/sprites/323.png

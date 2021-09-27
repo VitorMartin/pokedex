@@ -1,0 +1,4 @@
+id:356
+name:dusclops
+types:ghost
+sprite:./pokedex/data/pokemons/sprites/356.png

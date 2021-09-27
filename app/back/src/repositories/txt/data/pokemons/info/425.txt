@@ -1,0 +1,4 @@
+id:425
+name:drifloon
+types:ghost,flying
+sprite:./pokedex/data/pokemons/sprites/425.png

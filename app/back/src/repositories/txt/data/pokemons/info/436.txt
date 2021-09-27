@@ -1,0 +1,4 @@
+id:436
+name:bronzor
+types:steel,psychic
+sprite:./pokedex/data/pokemons/sprites/436.png

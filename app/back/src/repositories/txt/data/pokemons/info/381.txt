@@ -1,0 +1,4 @@
+id:381
+name:latios
+types:dragon,psychic
+sprite:./pokedex/data/pokemons/sprites/381.png

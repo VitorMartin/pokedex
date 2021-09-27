@@ -1,0 +1,4 @@
+id:524
+name:roggenrola
+types:rock
+sprite:./pokedex/data/pokemons/sprites/524.png

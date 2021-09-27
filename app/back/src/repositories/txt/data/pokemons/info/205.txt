@@ -1,0 +1,4 @@
+id:205
+name:forretress
+types:bug,steel
+sprite:./pokedex/data/pokemons/sprites/205.png

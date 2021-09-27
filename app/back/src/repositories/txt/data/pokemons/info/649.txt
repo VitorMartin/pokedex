@@ -1,0 +1,4 @@
+id:649
+name:genesect
+types:bug,steel
+sprite:./pokedex/data/pokemons/sprites/649.png

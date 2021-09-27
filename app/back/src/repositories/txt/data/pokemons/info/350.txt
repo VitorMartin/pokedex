@@ -1,0 +1,4 @@
+id:350
+name:milotic
+types:water
+sprite:./pokedex/data/pokemons/sprites/350.png

@@ -1,0 +1,4 @@
+id:383
+name:groudon
+types:ground
+sprite:./pokedex/data/pokemons/sprites/383.png

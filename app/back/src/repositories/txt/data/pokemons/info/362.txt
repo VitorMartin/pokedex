@@ -1,0 +1,4 @@
+id:362
+name:glalie
+types:ice
+sprite:./pokedex/data/pokemons/sprites/362.png

@@ -1,0 +1,4 @@
+id:272
+name:ludicolo
+types:water,grass
+sprite:./pokedex/data/pokemons/sprites/272.png

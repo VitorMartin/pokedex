@@ -1,0 +1,4 @@
+id:498
+name:tepig
+types:fire
+sprite:./pokedex/data/pokemons/sprites/498.png

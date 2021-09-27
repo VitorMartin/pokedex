@@ -1,0 +1,4 @@
+id:620
+name:mienshao
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/620.png

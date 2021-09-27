@@ -1,0 +1,4 @@
+id:716
+name:xerneas
+types:fairy
+sprite:./pokedex/data/pokemons/sprites/716.png

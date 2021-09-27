@@ -1,0 +1,4 @@
+id:895
+name:regidrago
+types:dragon
+sprite:./pokedex/data/pokemons/sprites/895.png

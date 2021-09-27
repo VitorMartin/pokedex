@@ -1,0 +1,4 @@
+id:496
+name:servine
+types:grass
+sprite:./pokedex/data/pokemons/sprites/496.png

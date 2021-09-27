@@ -1,0 +1,4 @@
+id:300
+name:skitty
+types:normal
+sprite:./pokedex/data/pokemons/sprites/300.png

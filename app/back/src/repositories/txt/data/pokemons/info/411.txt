@@ -1,0 +1,4 @@
+id:411
+name:bastiodon
+types:rock,steel
+sprite:./pokedex/data/pokemons/sprites/411.png

@@ -1,0 +1,4 @@
+id:408
+name:cranidos
+types:rock
+sprite:./pokedex/data/pokemons/sprites/408.png

@@ -1,0 +1,4 @@
+id:590
+name:foongus
+types:grass,poison
+sprite:./pokedex/data/pokemons/sprites/590.png

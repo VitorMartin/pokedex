@@ -1,0 +1,4 @@
+id:296
+name:makuhita
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/296.png

@@ -1,0 +1,4 @@
+id:540
+name:sewaddle
+types:bug,grass
+sprite:./pokedex/data/pokemons/sprites/540.png

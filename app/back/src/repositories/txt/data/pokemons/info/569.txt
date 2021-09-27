@@ -1,0 +1,4 @@
+id:569
+name:garbodor
+types:poison
+sprite:./pokedex/data/pokemons/sprites/569.png

@@ -1,0 +1,4 @@
+id:249
+name:lugia
+types:psychic,flying
+sprite:./pokedex/data/pokemons/sprites/249.png

@@ -1,0 +1,4 @@
+id:761
+name:bounsweet
+types:grass
+sprite:./pokedex/data/pokemons/sprites/761.png

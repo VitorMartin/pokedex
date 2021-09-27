@@ -1,0 +1,4 @@
+id:796
+name:xurkitree
+types:electric
+sprite:./pokedex/data/pokemons/sprites/796.png

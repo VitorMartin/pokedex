@@ -1,0 +1,4 @@
+id:800
+name:necrozma
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/800.png

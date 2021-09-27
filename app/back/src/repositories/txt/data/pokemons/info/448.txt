@@ -1,0 +1,4 @@
+id:448
+name:lucario
+types:fighting,steel
+sprite:./pokedex/data/pokemons/sprites/448.png

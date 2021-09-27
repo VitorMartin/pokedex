@@ -1,0 +1,4 @@
+id:460
+name:abomasnow
+types:grass,ice
+sprite:./pokedex/data/pokemons/sprites/460.png

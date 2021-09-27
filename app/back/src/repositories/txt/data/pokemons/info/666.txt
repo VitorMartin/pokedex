@@ -1,0 +1,4 @@
+id:666
+name:vivillon
+types:bug,flying
+sprite:./pokedex/data/pokemons/sprites/666.png

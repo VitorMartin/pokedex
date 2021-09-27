@@ -1,0 +1,4 @@
+id:479
+name:rotom
+types:electric,ghost
+sprite:./pokedex/data/pokemons/sprites/479.png

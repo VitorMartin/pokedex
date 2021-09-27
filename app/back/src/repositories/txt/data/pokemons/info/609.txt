@@ -1,0 +1,4 @@
+id:609
+name:chandelure
+types:ghost,fire
+sprite:./pokedex/data/pokemons/sprites/609.png

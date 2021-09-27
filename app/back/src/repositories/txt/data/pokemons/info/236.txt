@@ -1,0 +1,4 @@
+id:236
+name:tyrogue
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/236.png

@@ -1,0 +1,4 @@
+id:803
+name:poipole
+types:poison
+sprite:./pokedex/data/pokemons/sprites/803.png

@@ -1,0 +1,4 @@
+id:428
+name:lopunny
+types:normal
+sprite:./pokedex/data/pokemons/sprites/428.png

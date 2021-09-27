@@ -1,0 +1,4 @@
+id:756
+name:shiinotic
+types:grass,fairy
+sprite:./pokedex/data/pokemons/sprites/756.png

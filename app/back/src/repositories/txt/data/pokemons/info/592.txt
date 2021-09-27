@@ -1,0 +1,4 @@
+id:592
+name:frillish
+types:water,ghost
+sprite:./pokedex/data/pokemons/sprites/592.png

@@ -1,0 +1,4 @@
+id:601
+name:klinklang
+types:steel
+sprite:./pokedex/data/pokemons/sprites/601.png

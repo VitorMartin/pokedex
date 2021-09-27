@@ -1,0 +1,4 @@
+id:776
+name:turtonator
+types:fire,dragon
+sprite:./pokedex/data/pokemons/sprites/776.png

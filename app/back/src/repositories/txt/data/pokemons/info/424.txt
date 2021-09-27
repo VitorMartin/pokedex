@@ -1,0 +1,4 @@
+id:424
+name:ambipom
+types:normal
+sprite:./pokedex/data/pokemons/sprites/424.png

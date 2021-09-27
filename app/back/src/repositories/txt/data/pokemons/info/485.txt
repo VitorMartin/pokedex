@@ -1,0 +1,4 @@
+id:485
+name:heatran
+types:fire,steel
+sprite:./pokedex/data/pokemons/sprites/485.png

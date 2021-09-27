@@ -1,0 +1,4 @@
+id:555
+name:darmanitan-standard
+types:fire
+sprite:./pokedex/data/pokemons/sprites/555.png

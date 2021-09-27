@@ -1,0 +1,4 @@
+id:348
+name:armaldo
+types:rock,bug
+sprite:./pokedex/data/pokemons/sprites/348.png

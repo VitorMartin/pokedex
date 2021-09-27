@@ -1,0 +1,4 @@
+id:587
+name:emolga
+types:electric,flying
+sprite:./pokedex/data/pokemons/sprites/587.png

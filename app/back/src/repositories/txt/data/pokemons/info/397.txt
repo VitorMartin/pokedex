@@ -1,0 +1,4 @@
+id:397
+name:staravia
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/397.png

@@ -1,0 +1,4 @@
+id:278
+name:wingull
+types:water,flying
+sprite:./pokedex/data/pokemons/sprites/278.png

@@ -1,0 +1,4 @@
+id:340
+name:whiscash
+types:water,ground
+sprite:./pokedex/data/pokemons/sprites/340.png

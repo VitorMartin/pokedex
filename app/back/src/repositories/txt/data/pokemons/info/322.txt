@@ -1,0 +1,4 @@
+id:322
+name:numel
+types:fire,ground
+sprite:./pokedex/data/pokemons/sprites/322.png

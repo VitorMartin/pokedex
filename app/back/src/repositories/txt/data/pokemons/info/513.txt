@@ -1,0 +1,4 @@
+id:513
+name:pansear
+types:fire
+sprite:./pokedex/data/pokemons/sprites/513.png

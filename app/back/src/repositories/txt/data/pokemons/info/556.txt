@@ -1,0 +1,4 @@
+id:556
+name:maractus
+types:grass
+sprite:./pokedex/data/pokemons/sprites/556.png

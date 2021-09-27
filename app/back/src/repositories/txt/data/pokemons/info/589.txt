@@ -1,0 +1,4 @@
+id:589
+name:escavalier
+types:bug,steel
+sprite:./pokedex/data/pokemons/sprites/589.png

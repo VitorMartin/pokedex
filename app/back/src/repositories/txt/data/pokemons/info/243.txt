@@ -1,0 +1,4 @@
+id:243
+name:raikou
+types:electric
+sprite:./pokedex/data/pokemons/sprites/243.png

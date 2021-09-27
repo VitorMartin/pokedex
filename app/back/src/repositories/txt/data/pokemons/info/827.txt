@@ -1,0 +1,4 @@
+id:827
+name:nickit
+types:dark
+sprite:./pokedex/data/pokemons/sprites/827.png

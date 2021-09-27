@@ -1,0 +1,4 @@
+id:888
+name:zacian-hero
+types:fairy
+sprite:./pokedex/data/pokemons/sprites/888.png

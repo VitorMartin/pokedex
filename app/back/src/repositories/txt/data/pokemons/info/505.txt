@@ -1,0 +1,4 @@
+id:505
+name:watchog
+types:normal
+sprite:./pokedex/data/pokemons/sprites/505.png

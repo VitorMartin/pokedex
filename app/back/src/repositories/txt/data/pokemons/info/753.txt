@@ -1,0 +1,4 @@
+id:753
+name:fomantis
+types:grass
+sprite:./pokedex/data/pokemons/sprites/753.png

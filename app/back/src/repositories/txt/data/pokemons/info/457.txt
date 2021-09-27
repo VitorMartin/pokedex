@@ -1,0 +1,4 @@
+id:457
+name:lumineon
+types:water
+sprite:./pokedex/data/pokemons/sprites/457.png

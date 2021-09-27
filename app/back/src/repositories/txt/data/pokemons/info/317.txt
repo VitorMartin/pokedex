@@ -1,0 +1,4 @@
+id:317
+name:swalot
+types:poison
+sprite:./pokedex/data/pokemons/sprites/317.png

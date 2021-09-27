@@ -1,0 +1,4 @@
+id:697
+name:tyrantrum
+types:rock,dragon
+sprite:./pokedex/data/pokemons/sprites/697.png

@@ -1,0 +1,4 @@
+id:642
+name:thundurus-incarnate
+types:electric,flying
+sprite:./pokedex/data/pokemons/sprites/642.png

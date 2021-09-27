@@ -1,0 +1,4 @@
+id:673
+name:gogoat
+types:grass
+sprite:./pokedex/data/pokemons/sprites/673.png

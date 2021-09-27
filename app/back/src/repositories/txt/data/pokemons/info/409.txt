@@ -1,0 +1,4 @@
+id:409
+name:rampardos
+types:rock
+sprite:./pokedex/data/pokemons/sprites/409.png

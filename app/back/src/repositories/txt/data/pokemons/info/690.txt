@@ -1,0 +1,4 @@
+id:690
+name:skrelp
+types:poison,water
+sprite:./pokedex/data/pokemons/sprites/690.png

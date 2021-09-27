@@ -1,0 +1,4 @@
+id:710
+name:pumpkaboo-average
+types:ghost,grass
+sprite:./pokedex/data/pokemons/sprites/710.png

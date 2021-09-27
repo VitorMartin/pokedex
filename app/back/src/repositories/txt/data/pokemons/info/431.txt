@@ -1,0 +1,4 @@
+id:431
+name:glameow
+types:normal
+sprite:./pokedex/data/pokemons/sprites/431.png

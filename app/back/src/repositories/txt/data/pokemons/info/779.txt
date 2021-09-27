@@ -1,0 +1,4 @@
+id:779
+name:bruxish
+types:water,psychic
+sprite:./pokedex/data/pokemons/sprites/779.png

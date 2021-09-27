@@ -1,0 +1,4 @@
+id:551
+name:sandile
+types:ground,dark
+sprite:./pokedex/data/pokemons/sprites/551.png

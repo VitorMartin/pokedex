@@ -1,0 +1,4 @@
+id:637
+name:volcarona
+types:bug,fire
+sprite:./pokedex/data/pokemons/sprites/637.png

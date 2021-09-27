@@ -1,0 +1,4 @@
+id:502
+name:dewott
+types:water
+sprite:./pokedex/data/pokemons/sprites/502.png

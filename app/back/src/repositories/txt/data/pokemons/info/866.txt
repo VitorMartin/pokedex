@@ -1,0 +1,4 @@
+id:866
+name:mr-rime
+types:ice,psychic
+sprite:./pokedex/data/pokemons/sprites/866.png

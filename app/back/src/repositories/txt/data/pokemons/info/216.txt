@@ -1,0 +1,4 @@
+id:216
+name:teddiursa
+types:normal
+sprite:./pokedex/data/pokemons/sprites/216.png

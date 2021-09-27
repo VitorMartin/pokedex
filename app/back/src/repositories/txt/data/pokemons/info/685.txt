@@ -1,0 +1,4 @@
+id:685
+name:slurpuff
+types:fairy
+sprite:./pokedex/data/pokemons/sprites/685.png

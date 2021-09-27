@@ -1,0 +1,4 @@
+id:396
+name:starly
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/396.png

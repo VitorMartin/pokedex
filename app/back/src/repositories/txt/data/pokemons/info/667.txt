@@ -1,0 +1,4 @@
+id:667
+name:litleo
+types:fire,normal
+sprite:./pokedex/data/pokemons/sprites/667.png

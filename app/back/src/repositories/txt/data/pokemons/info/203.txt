@@ -1,0 +1,4 @@
+id:203
+name:girafarig
+types:normal,psychic
+sprite:./pokedex/data/pokemons/sprites/203.png

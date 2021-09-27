@@ -1,0 +1,4 @@
+id:328
+name:trapinch
+types:ground
+sprite:./pokedex/data/pokemons/sprites/328.png

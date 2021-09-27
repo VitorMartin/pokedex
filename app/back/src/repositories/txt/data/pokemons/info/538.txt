@@ -1,0 +1,4 @@
+id:538
+name:throh
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/538.png

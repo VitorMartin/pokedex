@@ -1,0 +1,4 @@
+id:369
+name:relicanth
+types:water,rock
+sprite:./pokedex/data/pokemons/sprites/369.png

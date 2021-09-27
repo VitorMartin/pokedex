@@ -1,0 +1,4 @@
+id:212
+name:scizor
+types:bug,steel
+sprite:./pokedex/data/pokemons/sprites/212.png

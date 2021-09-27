@@ -1,0 +1,4 @@
+id:863
+name:perrserker
+types:steel
+sprite:./pokedex/data/pokemons/sprites/863.png

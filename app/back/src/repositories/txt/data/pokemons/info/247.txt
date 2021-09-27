@@ -1,0 +1,4 @@
+id:247
+name:pupitar
+types:rock,ground
+sprite:./pokedex/data/pokemons/sprites/247.png

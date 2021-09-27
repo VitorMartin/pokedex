@@ -1,0 +1,4 @@
+id:638
+name:cobalion
+types:steel,fighting
+sprite:./pokedex/data/pokemons/sprites/638.png

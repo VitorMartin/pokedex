@@ -1,0 +1,4 @@
+id:286
+name:breloom
+types:grass,fighting
+sprite:./pokedex/data/pokemons/sprites/286.png

@@ -1,0 +1,4 @@
+id:618
+name:stunfisk
+types:ground,electric
+sprite:./pokedex/data/pokemons/sprites/618.png

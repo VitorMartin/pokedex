@@ -1,0 +1,4 @@
+id:696
+name:tyrunt
+types:rock,dragon
+sprite:./pokedex/data/pokemons/sprites/696.png

@@ -1,0 +1,4 @@
+id:578
+name:duosion
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/578.png

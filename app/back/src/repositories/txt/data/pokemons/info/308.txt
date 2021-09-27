@@ -1,0 +1,4 @@
+id:308
+name:medicham
+types:fighting,psychic
+sprite:./pokedex/data/pokemons/sprites/308.png

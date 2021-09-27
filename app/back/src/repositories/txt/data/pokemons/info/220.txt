@@ -1,0 +1,4 @@
+id:220
+name:swinub
+types:ice,ground
+sprite:./pokedex/data/pokemons/sprites/220.png

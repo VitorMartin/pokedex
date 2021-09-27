@@ -1,0 +1,4 @@
+id:177
+name:natu
+types:psychic,flying
+sprite:./pokedex/data/pokemons/sprites/177.png

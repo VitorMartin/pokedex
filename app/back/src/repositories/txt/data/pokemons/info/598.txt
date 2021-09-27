@@ -1,0 +1,4 @@
+id:598
+name:ferrothorn
+types:grass,steel
+sprite:./pokedex/data/pokemons/sprites/598.png

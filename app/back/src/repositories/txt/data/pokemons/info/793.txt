@@ -1,0 +1,4 @@
+id:793
+name:nihilego
+types:rock,poison
+sprite:./pokedex/data/pokemons/sprites/793.png

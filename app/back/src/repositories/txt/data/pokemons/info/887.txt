@@ -1,0 +1,4 @@
+id:887
+name:dragapult
+types:dragon,ghost
+sprite:./pokedex/data/pokemons/sprites/887.png

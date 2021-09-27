@@ -1,0 +1,4 @@
+id:669
+name:flabebe
+types:fairy
+sprite:./pokedex/data/pokemons/sprites/669.png

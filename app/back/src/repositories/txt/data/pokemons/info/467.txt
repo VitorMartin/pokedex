@@ -1,0 +1,4 @@
+id:467
+name:magmortar
+types:fire
+sprite:./pokedex/data/pokemons/sprites/467.png

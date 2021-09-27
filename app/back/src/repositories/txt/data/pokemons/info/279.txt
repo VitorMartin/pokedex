@@ -1,0 +1,4 @@
+id:279
+name:pelipper
+types:water,flying
+sprite:./pokedex/data/pokemons/sprites/279.png

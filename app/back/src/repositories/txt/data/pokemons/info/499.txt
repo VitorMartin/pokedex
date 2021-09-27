@@ -1,0 +1,4 @@
+id:499
+name:pignite
+types:fire,fighting
+sprite:./pokedex/data/pokemons/sprites/499.png

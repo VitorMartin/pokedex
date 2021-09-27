@@ -1,0 +1,4 @@
+id:456
+name:finneon
+types:water
+sprite:./pokedex/data/pokemons/sprites/456.png

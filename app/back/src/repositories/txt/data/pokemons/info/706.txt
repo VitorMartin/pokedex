@@ -1,0 +1,4 @@
+id:706
+name:goodra
+types:dragon
+sprite:./pokedex/data/pokemons/sprites/706.png

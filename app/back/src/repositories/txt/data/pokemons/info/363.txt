@@ -1,0 +1,4 @@
+id:363
+name:spheal
+types:ice,water
+sprite:./pokedex/data/pokemons/sprites/363.png

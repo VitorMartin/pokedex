@@ -1,0 +1,4 @@
+id:169
+name:crobat
+types:poison,flying
+sprite:./pokedex/data/pokemons/sprites/169.png

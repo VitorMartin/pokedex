@@ -1,0 +1,4 @@
+id:778
+name:mimikyu-disguised
+types:ghost,fairy
+sprite:./pokedex/data/pokemons/sprites/778.png

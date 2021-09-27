@@ -1,0 +1,4 @@
+id:260
+name:swampert
+types:water,ground
+sprite:./pokedex/data/pokemons/sprites/260.png

@@ -1,0 +1,4 @@
+id:822
+name:corvisquire
+types:flying
+sprite:./pokedex/data/pokemons/sprites/822.png

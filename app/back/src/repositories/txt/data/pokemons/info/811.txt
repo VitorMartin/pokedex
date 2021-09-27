@@ -1,0 +1,4 @@
+id:811
+name:thwackey
+types:grass
+sprite:./pokedex/data/pokemons/sprites/811.png

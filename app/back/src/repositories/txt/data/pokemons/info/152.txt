@@ -1,0 +1,4 @@
+id:152
+name:chikorita
+types:grass
+sprite:./pokedex/data/pokemons/sprites/152.png

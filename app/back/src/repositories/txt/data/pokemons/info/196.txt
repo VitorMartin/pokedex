@@ -1,0 +1,4 @@
+id:196
+name:espeon
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/196.png

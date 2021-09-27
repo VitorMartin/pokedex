@@ -1,0 +1,4 @@
+id:876
+name:indeedee-male
+types:psychic,normal
+sprite:./pokedex/data/pokemons/sprites/876.png

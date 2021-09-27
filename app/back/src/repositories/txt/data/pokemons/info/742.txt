@@ -1,0 +1,4 @@
+id:742
+name:cutiefly
+types:bug,fairy
+sprite:./pokedex/data/pokemons/sprites/742.png

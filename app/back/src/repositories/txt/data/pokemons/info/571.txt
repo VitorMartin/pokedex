@@ -1,0 +1,4 @@
+id:571
+name:zoroark
+types:dark
+sprite:./pokedex/data/pokemons/sprites/571.png

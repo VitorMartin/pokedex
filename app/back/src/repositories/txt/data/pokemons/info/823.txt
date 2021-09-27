@@ -1,0 +1,4 @@
+id:823
+name:corviknight
+types:flying,steel
+sprite:./pokedex/data/pokemons/sprites/823.png

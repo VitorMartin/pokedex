@@ -1,0 +1,4 @@
+id:239
+name:elekid
+types:electric
+sprite:./pokedex/data/pokemons/sprites/239.png

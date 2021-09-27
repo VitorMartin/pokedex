@@ -1,0 +1,4 @@
+id:828
+name:thievul
+types:dark
+sprite:./pokedex/data/pokemons/sprites/828.png

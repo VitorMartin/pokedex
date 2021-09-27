@@ -1,0 +1,4 @@
+id:744
+name:rockruff
+types:rock
+sprite:./pokedex/data/pokemons/sprites/744.png

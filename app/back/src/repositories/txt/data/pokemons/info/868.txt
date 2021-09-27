@@ -1,0 +1,4 @@
+id:868
+name:milcery
+types:fairy
+sprite:./pokedex/data/pokemons/sprites/868.png

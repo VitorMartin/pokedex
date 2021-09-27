@@ -1,0 +1,4 @@
+id:210
+name:granbull
+types:fairy
+sprite:./pokedex/data/pokemons/sprites/210.png

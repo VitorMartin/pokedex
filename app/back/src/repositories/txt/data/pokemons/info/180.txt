@@ -1,0 +1,4 @@
+id:180
+name:flaaffy
+types:electric
+sprite:./pokedex/data/pokemons/sprites/180.png

@@ -1,0 +1,4 @@
+id:445
+name:garchomp
+types:dragon,ground
+sprite:./pokedex/data/pokemons/sprites/445.png

@@ -1,0 +1,4 @@
+id:889
+name:zamazenta-hero
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/889.png

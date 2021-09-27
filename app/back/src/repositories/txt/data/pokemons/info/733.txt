@@ -1,0 +1,4 @@
+id:733
+name:toucannon
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/733.png

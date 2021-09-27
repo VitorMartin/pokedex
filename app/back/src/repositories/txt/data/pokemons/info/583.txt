@@ -1,0 +1,4 @@
+id:583
+name:vanillish
+types:ice
+sprite:./pokedex/data/pokemons/sprites/583.png

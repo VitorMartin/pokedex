@@ -1,0 +1,4 @@
+id:687
+name:malamar
+types:dark,psychic
+sprite:./pokedex/data/pokemons/sprites/687.png

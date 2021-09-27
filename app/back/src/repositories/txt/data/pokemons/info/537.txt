@@ -1,0 +1,4 @@
+id:537
+name:seismitoad
+types:water,ground
+sprite:./pokedex/data/pokemons/sprites/537.png

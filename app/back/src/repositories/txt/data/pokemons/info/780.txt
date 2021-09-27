@@ -1,0 +1,4 @@
+id:780
+name:drampa
+types:normal,dragon
+sprite:./pokedex/data/pokemons/sprites/780.png

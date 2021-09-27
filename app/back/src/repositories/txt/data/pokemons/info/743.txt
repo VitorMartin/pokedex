@@ -1,0 +1,4 @@
+id:743
+name:ribombee
+types:bug,fairy
+sprite:./pokedex/data/pokemons/sprites/743.png

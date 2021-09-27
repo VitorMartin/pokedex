@@ -1,0 +1,4 @@
+id:416
+name:vespiquen
+types:bug,flying
+sprite:./pokedex/data/pokemons/sprites/416.png

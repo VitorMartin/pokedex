@@ -1,0 +1,4 @@
+id:574
+name:gothita
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/574.png

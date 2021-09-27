@@ -1,0 +1,4 @@
+id:254
+name:sceptile
+types:grass
+sprite:./pokedex/data/pokemons/sprites/254.png

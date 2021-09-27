@@ -1,0 +1,4 @@
+id:465
+name:tangrowth
+types:grass
+sprite:./pokedex/data/pokemons/sprites/465.png

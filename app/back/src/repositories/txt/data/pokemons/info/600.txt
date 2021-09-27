@@ -1,0 +1,4 @@
+id:600
+name:klang
+types:steel
+sprite:./pokedex/data/pokemons/sprites/600.png

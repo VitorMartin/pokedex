@@ -1,0 +1,4 @@
+id:514
+name:simisear
+types:fire
+sprite:./pokedex/data/pokemons/sprites/514.png

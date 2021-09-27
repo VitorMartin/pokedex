@@ -1,0 +1,4 @@
+id:572
+name:minccino
+types:normal
+sprite:./pokedex/data/pokemons/sprites/572.png

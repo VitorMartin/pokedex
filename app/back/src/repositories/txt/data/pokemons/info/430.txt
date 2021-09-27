@@ -1,0 +1,4 @@
+id:430
+name:honchkrow
+types:dark,flying
+sprite:./pokedex/data/pokemons/sprites/430.png

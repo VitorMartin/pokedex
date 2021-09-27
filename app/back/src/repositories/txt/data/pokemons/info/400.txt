@@ -1,0 +1,4 @@
+id:400
+name:bibarel
+types:normal,water
+sprite:./pokedex/data/pokemons/sprites/400.png

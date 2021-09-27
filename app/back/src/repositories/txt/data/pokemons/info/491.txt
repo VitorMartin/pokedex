@@ -1,0 +1,4 @@
+id:491
+name:darkrai
+types:dark
+sprite:./pokedex/data/pokemons/sprites/491.png

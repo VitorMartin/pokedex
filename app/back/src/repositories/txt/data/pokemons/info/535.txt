@@ -1,0 +1,4 @@
+id:535
+name:tympole
+types:water
+sprite:./pokedex/data/pokemons/sprites/535.png

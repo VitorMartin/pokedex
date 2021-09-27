@@ -1,0 +1,4 @@
+id:398
+name:staraptor
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/398.png

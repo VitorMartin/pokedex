@@ -1,0 +1,4 @@
+id:532
+name:timburr
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/532.png

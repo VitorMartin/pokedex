@@ -1,0 +1,4 @@
+id:384
+name:rayquaza
+types:dragon,flying
+sprite:./pokedex/data/pokemons/sprites/384.png

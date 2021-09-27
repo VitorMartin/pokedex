@@ -1,0 +1,4 @@
+id:452
+name:drapion
+types:poison,dark
+sprite:./pokedex/data/pokemons/sprites/452.png

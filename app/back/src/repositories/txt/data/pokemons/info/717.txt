@@ -1,0 +1,4 @@
+id:717
+name:yveltal
+types:dark,flying
+sprite:./pokedex/data/pokemons/sprites/717.png

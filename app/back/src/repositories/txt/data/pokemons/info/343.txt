@@ -1,0 +1,4 @@
+id:343
+name:baltoy
+types:ground,psychic
+sprite:./pokedex/data/pokemons/sprites/343.png

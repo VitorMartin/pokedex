@@ -1,0 +1,4 @@
+id:190
+name:aipom
+types:normal
+sprite:./pokedex/data/pokemons/sprites/190.png

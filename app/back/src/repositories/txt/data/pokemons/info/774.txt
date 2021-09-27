@@ -1,0 +1,4 @@
+id:774
+name:minior-red-meteor
+types:rock,flying
+sprite:./pokedex/data/pokemons/sprites/774.png

@@ -1,0 +1,4 @@
+id:307
+name:meditite
+types:fighting,psychic
+sprite:./pokedex/data/pokemons/sprites/307.png

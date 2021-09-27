@@ -1,0 +1,4 @@
+id:805
+name:stakataka
+types:rock,steel
+sprite:./pokedex/data/pokemons/sprites/805.png

@@ -1,0 +1,4 @@
+id:394
+name:prinplup
+types:water
+sprite:./pokedex/data/pokemons/sprites/394.png

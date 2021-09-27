@@ -1,0 +1,4 @@
+id:444
+name:gabite
+types:dragon,ground
+sprite:./pokedex/data/pokemons/sprites/444.png

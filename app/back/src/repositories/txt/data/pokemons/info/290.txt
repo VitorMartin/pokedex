@@ -1,0 +1,4 @@
+id:290
+name:nincada
+types:bug,ground
+sprite:./pokedex/data/pokemons/sprites/290.png

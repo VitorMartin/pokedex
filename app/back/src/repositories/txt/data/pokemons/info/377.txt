@@ -1,0 +1,4 @@
+id:377
+name:regirock
+types:rock
+sprite:./pokedex/data/pokemons/sprites/377.png

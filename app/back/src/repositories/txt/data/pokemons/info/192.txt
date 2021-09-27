@@ -1,0 +1,4 @@
+id:192
+name:sunflora
+types:grass
+sprite:./pokedex/data/pokemons/sprites/192.png

@@ -1,0 +1,4 @@
+id:419
+name:floatzel
+types:water
+sprite:./pokedex/data/pokemons/sprites/419.png

@@ -1,0 +1,4 @@
+id:341
+name:corphish
+types:water
+sprite:./pokedex/data/pokemons/sprites/341.png

@@ -1,0 +1,4 @@
+id:704
+name:goomy
+types:dragon
+sprite:./pokedex/data/pokemons/sprites/704.png

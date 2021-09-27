@@ -1,0 +1,4 @@
+id:656
+name:froakie
+types:water
+sprite:./pokedex/data/pokemons/sprites/656.png

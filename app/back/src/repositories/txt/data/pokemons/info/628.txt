@@ -1,0 +1,4 @@
+id:628
+name:braviary
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/628.png

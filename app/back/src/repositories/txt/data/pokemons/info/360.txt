@@ -1,0 +1,4 @@
+id:360
+name:wynaut
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/360.png

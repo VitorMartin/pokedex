@@ -1,0 +1,4 @@
+id:826
+name:orbeetle
+types:bug,psychic
+sprite:./pokedex/data/pokemons/sprites/826.png

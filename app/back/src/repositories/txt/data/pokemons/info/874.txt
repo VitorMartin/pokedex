@@ -1,0 +1,4 @@
+id:874
+name:stonjourner
+types:rock
+sprite:./pokedex/data/pokemons/sprites/874.png

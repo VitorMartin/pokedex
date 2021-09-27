@@ -1,0 +1,4 @@
+id:374
+name:beldum
+types:steel,psychic
+sprite:./pokedex/data/pokemons/sprites/374.png

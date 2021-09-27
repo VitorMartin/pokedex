@@ -1,0 +1,4 @@
+id:817
+name:drizzile
+types:water
+sprite:./pokedex/data/pokemons/sprites/817.png

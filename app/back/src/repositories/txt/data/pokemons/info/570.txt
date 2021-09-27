@@ -1,0 +1,4 @@
+id:570
+name:zorua
+types:dark
+sprite:./pokedex/data/pokemons/sprites/570.png

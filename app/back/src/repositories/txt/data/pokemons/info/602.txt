@@ -1,0 +1,4 @@
+id:602
+name:tynamo
+types:electric
+sprite:./pokedex/data/pokemons/sprites/602.png

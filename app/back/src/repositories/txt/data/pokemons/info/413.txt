@@ -1,0 +1,4 @@
+id:413
+name:wormadam-plant
+types:bug,grass
+sprite:./pokedex/data/pokemons/sprites/413.png

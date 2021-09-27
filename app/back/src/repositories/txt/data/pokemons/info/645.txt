@@ -1,0 +1,4 @@
+id:645
+name:landorus-incarnate
+types:ground,flying
+sprite:./pokedex/data/pokemons/sprites/645.png

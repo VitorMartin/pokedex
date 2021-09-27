@@ -1,0 +1,4 @@
+id:246
+name:larvitar
+types:rock,ground
+sprite:./pokedex/data/pokemons/sprites/246.png

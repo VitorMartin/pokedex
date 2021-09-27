@@ -1,0 +1,4 @@
+id:379
+name:registeel
+types:steel
+sprite:./pokedex/data/pokemons/sprites/379.png

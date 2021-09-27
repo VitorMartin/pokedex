@@ -1,0 +1,4 @@
+id:865
+name:sirfetchd
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/865.png

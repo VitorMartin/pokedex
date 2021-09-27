@@ -1,0 +1,4 @@
+id:842
+name:appletun
+types:grass,dragon
+sprite:./pokedex/data/pokemons/sprites/842.png

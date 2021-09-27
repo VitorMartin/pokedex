@@ -1,0 +1,4 @@
+id:388
+name:grotle
+types:grass
+sprite:./pokedex/data/pokemons/sprites/388.png

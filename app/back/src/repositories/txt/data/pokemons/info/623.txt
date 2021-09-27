@@ -1,0 +1,4 @@
+id:623
+name:golurk
+types:ground,ghost
+sprite:./pokedex/data/pokemons/sprites/623.png

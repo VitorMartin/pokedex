@@ -1,0 +1,4 @@
+id:712
+name:bergmite
+types:ice
+sprite:./pokedex/data/pokemons/sprites/712.png

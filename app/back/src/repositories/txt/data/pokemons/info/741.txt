@@ -1,0 +1,4 @@
+id:741
+name:oricorio-baile
+types:fire,flying
+sprite:./pokedex/data/pokemons/sprites/741.png

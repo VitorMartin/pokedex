@@ -1,0 +1,4 @@
+id:661
+name:fletchling
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/661.png

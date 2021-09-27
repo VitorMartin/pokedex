@@ -1,0 +1,4 @@
+id:851
+name:centiskorch
+types:fire,bug
+sprite:./pokedex/data/pokemons/sprites/851.png

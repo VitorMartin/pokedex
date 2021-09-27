@@ -1,0 +1,4 @@
+id:668
+name:pyroar
+types:fire,normal
+sprite:./pokedex/data/pokemons/sprites/668.png

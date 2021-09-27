@@ -1,0 +1,4 @@
+id:176
+name:togetic
+types:fairy,flying
+sprite:./pokedex/data/pokemons/sprites/176.png

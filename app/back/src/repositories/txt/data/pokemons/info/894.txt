@@ -1,0 +1,4 @@
+id:894
+name:regieleki
+types:electric
+sprite:./pokedex/data/pokemons/sprites/894.png

@@ -1,0 +1,4 @@
+id:476
+name:probopass
+types:rock,steel
+sprite:./pokedex/data/pokemons/sprites/476.png

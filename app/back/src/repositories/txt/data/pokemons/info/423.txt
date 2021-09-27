@@ -1,0 +1,4 @@
+id:423
+name:gastrodon
+types:water,ground
+sprite:./pokedex/data/pokemons/sprites/423.png

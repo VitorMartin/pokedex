@@ -1,0 +1,4 @@
+id:245
+name:suicune
+types:water
+sprite:./pokedex/data/pokemons/sprites/245.png

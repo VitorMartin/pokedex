@@ -1,0 +1,4 @@
+id:382
+name:kyogre
+types:water
+sprite:./pokedex/data/pokemons/sprites/382.png

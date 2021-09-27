@@ -1,0 +1,4 @@
+id:527
+name:woobat
+types:psychic,flying
+sprite:./pokedex/data/pokemons/sprites/527.png

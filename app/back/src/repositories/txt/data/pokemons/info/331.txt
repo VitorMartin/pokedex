@@ -1,0 +1,4 @@
+id:331
+name:cacnea
+types:grass
+sprite:./pokedex/data/pokemons/sprites/331.png

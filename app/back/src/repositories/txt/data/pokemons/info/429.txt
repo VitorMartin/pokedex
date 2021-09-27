@@ -1,0 +1,4 @@
+id:429
+name:mismagius
+types:ghost
+sprite:./pokedex/data/pokemons/sprites/429.png

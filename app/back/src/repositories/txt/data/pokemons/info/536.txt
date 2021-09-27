@@ -1,0 +1,4 @@
+id:536
+name:palpitoad
+types:water,ground
+sprite:./pokedex/data/pokemons/sprites/536.png

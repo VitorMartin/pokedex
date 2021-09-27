@@ -1,0 +1,4 @@
+id:404
+name:luxio
+types:electric
+sprite:./pokedex/data/pokemons/sprites/404.png

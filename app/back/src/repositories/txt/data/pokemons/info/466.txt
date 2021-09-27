@@ -1,0 +1,4 @@
+id:466
+name:electivire
+types:electric
+sprite:./pokedex/data/pokemons/sprites/466.png

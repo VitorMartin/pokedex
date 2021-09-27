@@ -1,0 +1,4 @@
+id:605
+name:elgyem
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/605.png

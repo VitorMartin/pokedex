@@ -1,0 +1,4 @@
+id:447
+name:riolu
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/447.png

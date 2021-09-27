@@ -1,0 +1,4 @@
+id:715
+name:noivern
+types:flying,dragon
+sprite:./pokedex/data/pokemons/sprites/715.png

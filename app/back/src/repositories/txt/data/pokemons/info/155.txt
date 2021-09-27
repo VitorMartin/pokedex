@@ -1,0 +1,4 @@
+id:155
+name:cyndaquil
+types:fire
+sprite:./pokedex/data/pokemons/sprites/155.png

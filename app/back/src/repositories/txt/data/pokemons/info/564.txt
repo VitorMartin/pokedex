@@ -1,0 +1,4 @@
+id:564
+name:tirtouga
+types:water,rock
+sprite:./pokedex/data/pokemons/sprites/564.png

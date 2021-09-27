@@ -1,0 +1,4 @@
+id:772
+name:type-null
+types:normal
+sprite:./pokedex/data/pokemons/sprites/772.png

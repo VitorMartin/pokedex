@@ -1,0 +1,4 @@
+id:437
+name:bronzong
+types:steel,psychic
+sprite:./pokedex/data/pokemons/sprites/437.png

@@ -1,0 +1,4 @@
+id:267
+name:beautifly
+types:bug,flying
+sprite:./pokedex/data/pokemons/sprites/267.png

@@ -1,0 +1,4 @@
+id:156
+name:quilava
+types:fire
+sprite:./pokedex/data/pokemons/sprites/156.png

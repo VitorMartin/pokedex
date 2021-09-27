@@ -1,0 +1,4 @@
+id:622
+name:golett
+types:ground,ghost
+sprite:./pokedex/data/pokemons/sprites/622.png

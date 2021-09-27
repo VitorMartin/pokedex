@@ -1,0 +1,4 @@
+id:276
+name:taillow
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/276.png

@@ -1,0 +1,4 @@
+id:625
+name:bisharp
+types:dark,steel
+sprite:./pokedex/data/pokemons/sprites/625.png

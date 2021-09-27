@@ -1,0 +1,4 @@
+id:703
+name:carbink
+types:rock,fairy
+sprite:./pokedex/data/pokemons/sprites/703.png

@@ -1,0 +1,4 @@
+id:702
+name:dedenne
+types:electric,fairy
+sprite:./pokedex/data/pokemons/sprites/702.png

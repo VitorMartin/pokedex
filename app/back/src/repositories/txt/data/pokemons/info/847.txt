@@ -1,0 +1,4 @@
+id:847
+name:barraskewda
+types:water
+sprite:./pokedex/data/pokemons/sprites/847.png

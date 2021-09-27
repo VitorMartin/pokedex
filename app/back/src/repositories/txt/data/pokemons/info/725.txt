@@ -1,0 +1,4 @@
+id:725
+name:litten
+types:fire
+sprite:./pokedex/data/pokemons/sprites/725.png

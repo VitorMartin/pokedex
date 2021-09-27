@@ -1,0 +1,4 @@
+id:440
+name:happiny
+types:normal
+sprite:./pokedex/data/pokemons/sprites/440.png

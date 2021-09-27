@@ -1,0 +1,4 @@
+id:897
+name:spectrier
+types:ghost
+sprite:./pokedex/data/pokemons/sprites/897.png

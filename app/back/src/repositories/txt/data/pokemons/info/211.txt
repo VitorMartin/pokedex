@@ -1,0 +1,4 @@
+id:211
+name:qwilfish
+types:water,poison
+sprite:./pokedex/data/pokemons/sprites/211.png

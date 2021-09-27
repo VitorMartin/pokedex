@@ -1,0 +1,4 @@
+id:664
+name:scatterbug
+types:bug
+sprite:./pokedex/data/pokemons/sprites/664.png

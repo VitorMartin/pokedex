@@ -1,0 +1,4 @@
+id:434
+name:stunky
+types:poison,dark
+sprite:./pokedex/data/pokemons/sprites/434.png

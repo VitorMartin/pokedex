@@ -1,0 +1,4 @@
+id:403
+name:shinx
+types:electric
+sprite:./pokedex/data/pokemons/sprites/403.png

@@ -1,0 +1,4 @@
+id:522
+name:blitzle
+types:electric
+sprite:./pokedex/data/pokemons/sprites/522.png

@@ -1,0 +1,4 @@
+id:282
+name:gardevoir
+types:psychic,fairy
+sprite:./pokedex/data/pokemons/sprites/282.png

@@ -1,0 +1,4 @@
+id:795
+name:pheromosa
+types:bug,fighting
+sprite:./pokedex/data/pokemons/sprites/795.png

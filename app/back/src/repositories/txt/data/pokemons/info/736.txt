@@ -1,0 +1,4 @@
+id:736
+name:grubbin
+types:bug
+sprite:./pokedex/data/pokemons/sprites/736.png

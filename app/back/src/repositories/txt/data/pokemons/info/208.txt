@@ -1,0 +1,4 @@
+id:208
+name:steelix
+types:steel,ground
+sprite:./pokedex/data/pokemons/sprites/208.png

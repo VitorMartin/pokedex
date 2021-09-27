@@ -1,0 +1,4 @@
+id:309
+name:electrike
+types:electric
+sprite:./pokedex/data/pokemons/sprites/309.png

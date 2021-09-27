@@ -1,0 +1,4 @@
+id:345
+name:lileep
+types:rock,grass
+sprite:./pokedex/data/pokemons/sprites/345.png

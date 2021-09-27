@@ -1,0 +1,4 @@
+id:859
+name:impidimp
+types:dark,fairy
+sprite:./pokedex/data/pokemons/sprites/859.png

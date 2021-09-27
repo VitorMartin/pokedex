@@ -1,0 +1,4 @@
+id:821
+name:rookidee
+types:flying
+sprite:./pokedex/data/pokemons/sprites/821.png

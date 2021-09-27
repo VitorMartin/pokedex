@@ -1,0 +1,4 @@
+id:468
+name:togekiss
+types:fairy,flying
+sprite:./pokedex/data/pokemons/sprites/468.png

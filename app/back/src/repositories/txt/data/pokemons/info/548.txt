@@ -1,0 +1,4 @@
+id:548
+name:petilil
+types:grass
+sprite:./pokedex/data/pokemons/sprites/548.png

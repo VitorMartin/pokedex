@@ -1,0 +1,4 @@
+id:488
+name:cresselia
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/488.png

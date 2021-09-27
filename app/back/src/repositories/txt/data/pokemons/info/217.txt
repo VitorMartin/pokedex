@@ -1,0 +1,4 @@
+id:217
+name:ursaring
+types:normal
+sprite:./pokedex/data/pokemons/sprites/217.png

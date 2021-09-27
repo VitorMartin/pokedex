@@ -1,0 +1,4 @@
+id:670
+name:floette
+types:fairy
+sprite:./pokedex/data/pokemons/sprites/670.png

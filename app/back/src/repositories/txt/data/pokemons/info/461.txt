@@ -1,0 +1,4 @@
+id:461
+name:weavile
+types:dark,ice
+sprite:./pokedex/data/pokemons/sprites/461.png

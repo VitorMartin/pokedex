@@ -1,0 +1,4 @@
+id:201
+name:unown
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/201.png

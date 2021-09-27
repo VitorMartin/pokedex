@@ -1,0 +1,4 @@
+id:882
+name:dracovish
+types:water,dragon
+sprite:./pokedex/data/pokemons/sprites/882.png

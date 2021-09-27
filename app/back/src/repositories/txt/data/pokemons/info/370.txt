@@ -1,0 +1,4 @@
+id:370
+name:luvdisc
+types:water
+sprite:./pokedex/data/pokemons/sprites/370.png

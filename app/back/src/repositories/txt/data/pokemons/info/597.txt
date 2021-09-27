@@ -1,0 +1,4 @@
+id:597
+name:ferroseed
+types:grass,steel
+sprite:./pokedex/data/pokemons/sprites/597.png

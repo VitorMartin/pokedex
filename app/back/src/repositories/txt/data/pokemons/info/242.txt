@@ -1,0 +1,4 @@
+id:242
+name:blissey
+types:normal
+sprite:./pokedex/data/pokemons/sprites/242.png

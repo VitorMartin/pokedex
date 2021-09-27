@@ -1,0 +1,4 @@
+id:784
+name:kommo-o
+types:dragon,fighting
+sprite:./pokedex/data/pokemons/sprites/784.png

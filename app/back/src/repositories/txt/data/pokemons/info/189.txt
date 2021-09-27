@@ -1,0 +1,4 @@
+id:189
+name:jumpluff
+types:grass,flying
+sprite:./pokedex/data/pokemons/sprites/189.png

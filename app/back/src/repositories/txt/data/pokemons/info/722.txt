@@ -1,0 +1,4 @@
+id:722
+name:rowlet
+types:grass,flying
+sprite:./pokedex/data/pokemons/sprites/722.png

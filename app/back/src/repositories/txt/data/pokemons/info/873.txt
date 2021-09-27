@@ -1,0 +1,4 @@
+id:873
+name:frosmoth
+types:ice,bug
+sprite:./pokedex/data/pokemons/sprites/873.png

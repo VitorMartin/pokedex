@@ -1,0 +1,4 @@
+id:173
+name:cleffa
+types:fairy
+sprite:./pokedex/data/pokemons/sprites/173.png

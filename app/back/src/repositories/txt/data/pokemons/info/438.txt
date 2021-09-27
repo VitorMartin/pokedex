@@ -1,0 +1,4 @@
+id:438
+name:bonsly
+types:rock
+sprite:./pokedex/data/pokemons/sprites/438.png

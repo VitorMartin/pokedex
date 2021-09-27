@@ -1,0 +1,4 @@
+id:701
+name:hawlucha
+types:fighting,flying
+sprite:./pokedex/data/pokemons/sprites/701.png

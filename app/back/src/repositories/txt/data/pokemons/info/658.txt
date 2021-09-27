@@ -1,0 +1,4 @@
+id:658
+name:greninja
+types:water,dark
+sprite:./pokedex/data/pokemons/sprites/658.png

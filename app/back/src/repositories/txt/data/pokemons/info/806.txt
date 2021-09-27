@@ -1,0 +1,4 @@
+id:806
+name:blacephalon
+types:fire,ghost
+sprite:./pokedex/data/pokemons/sprites/806.png

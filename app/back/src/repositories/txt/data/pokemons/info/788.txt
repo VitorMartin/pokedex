@@ -1,0 +1,4 @@
+id:788
+name:tapu-fini
+types:water,fairy
+sprite:./pokedex/data/pokemons/sprites/788.png

@@ -1,0 +1,4 @@
+id:650
+name:chespin
+types:grass
+sprite:./pokedex/data/pokemons/sprites/650.png

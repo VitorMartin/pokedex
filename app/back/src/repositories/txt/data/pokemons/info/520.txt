@@ -1,0 +1,4 @@
+id:520
+name:tranquill
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/520.png

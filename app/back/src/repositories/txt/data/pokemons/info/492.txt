@@ -1,0 +1,4 @@
+id:492
+name:shaymin-land
+types:grass
+sprite:./pokedex/data/pokemons/sprites/492.png

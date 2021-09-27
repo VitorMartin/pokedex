@@ -1,0 +1,4 @@
+id:758
+name:salazzle
+types:poison,fire
+sprite:./pokedex/data/pokemons/sprites/758.png

@@ -1,0 +1,4 @@
+id:235
+name:smeargle
+types:normal
+sprite:./pokedex/data/pokemons/sprites/235.png

@@ -1,0 +1,4 @@
+id:693
+name:clawitzer
+types:water
+sprite:./pokedex/data/pokemons/sprites/693.png

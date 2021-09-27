@@ -1,0 +1,4 @@
+id:746
+name:wishiwashi-solo
+types:water
+sprite:./pokedex/data/pokemons/sprites/746.png

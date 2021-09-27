@@ -1,0 +1,4 @@
+id:869
+name:alcremie
+types:fairy
+sprite:./pokedex/data/pokemons/sprites/869.png

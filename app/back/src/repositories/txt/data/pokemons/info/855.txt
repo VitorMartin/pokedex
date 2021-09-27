@@ -1,0 +1,4 @@
+id:855
+name:polteageist
+types:ghost
+sprite:./pokedex/data/pokemons/sprites/855.png

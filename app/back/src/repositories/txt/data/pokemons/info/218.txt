@@ -1,0 +1,4 @@
+id:218
+name:slugma
+types:fire
+sprite:./pokedex/data/pokemons/sprites/218.png

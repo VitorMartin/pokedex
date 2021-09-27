@@ -1,0 +1,4 @@
+id:877
+name:morpeko
+types:electric,dark
+sprite:./pokedex/data/pokemons/sprites/877.png

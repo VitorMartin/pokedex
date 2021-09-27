@@ -1,0 +1,4 @@
+id:523
+name:zebstrika
+types:electric
+sprite:./pokedex/data/pokemons/sprites/523.png

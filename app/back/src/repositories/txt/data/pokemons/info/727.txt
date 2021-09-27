@@ -1,0 +1,4 @@
+id:727
+name:incineroar
+types:fire,dark
+sprite:./pokedex/data/pokemons/sprites/727.png

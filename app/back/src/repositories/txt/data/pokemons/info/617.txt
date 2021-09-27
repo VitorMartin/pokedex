@@ -1,0 +1,4 @@
+id:617
+name:accelgor
+types:bug
+sprite:./pokedex/data/pokemons/sprites/617.png

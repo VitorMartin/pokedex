@@ -1,0 +1,4 @@
+id:610
+name:axew
+types:dragon
+sprite:./pokedex/data/pokemons/sprites/610.png

@@ -1,0 +1,4 @@
+id:730
+name:primarina
+types:water,fairy
+sprite:./pokedex/data/pokemons/sprites/730.png

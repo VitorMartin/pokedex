@@ -1,0 +1,4 @@
+id:462
+name:magnezone
+types:electric,steel
+sprite:./pokedex/data/pokemons/sprites/462.png

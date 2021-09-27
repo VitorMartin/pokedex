@@ -1,0 +1,4 @@
+id:157
+name:typhlosion
+types:fire
+sprite:./pokedex/data/pokemons/sprites/157.png

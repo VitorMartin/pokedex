@@ -1,0 +1,4 @@
+id:755
+name:morelull
+types:grass,fairy
+sprite:./pokedex/data/pokemons/sprites/755.png

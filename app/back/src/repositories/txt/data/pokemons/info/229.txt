@@ -1,0 +1,4 @@
+id:229
+name:houndoom
+types:dark,fire
+sprite:./pokedex/data/pokemons/sprites/229.png

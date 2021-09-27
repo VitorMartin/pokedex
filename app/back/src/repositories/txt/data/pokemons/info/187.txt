@@ -1,0 +1,4 @@
+id:187
+name:hoppip
+types:grass,flying
+sprite:./pokedex/data/pokemons/sprites/187.png

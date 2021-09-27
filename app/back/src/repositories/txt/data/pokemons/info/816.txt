@@ -1,0 +1,4 @@
+id:816
+name:sobble
+types:water
+sprite:./pokedex/data/pokemons/sprites/816.png

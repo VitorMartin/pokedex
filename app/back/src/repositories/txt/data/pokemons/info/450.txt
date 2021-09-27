@@ -1,0 +1,4 @@
+id:450
+name:hippowdon
+types:ground
+sprite:./pokedex/data/pokemons/sprites/450.png

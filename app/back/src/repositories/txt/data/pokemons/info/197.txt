@@ -1,0 +1,4 @@
+id:197
+name:umbreon
+types:dark
+sprite:./pokedex/data/pokemons/sprites/197.png

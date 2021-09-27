@@ -1,0 +1,4 @@
+id:252
+name:treecko
+types:grass
+sprite:./pokedex/data/pokemons/sprites/252.png

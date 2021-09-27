@@ -1,0 +1,4 @@
+id:641
+name:tornadus-incarnate
+types:flying
+sprite:./pokedex/data/pokemons/sprites/641.png

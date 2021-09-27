@@ -1,0 +1,4 @@
+id:631
+name:heatmor
+types:fire
+sprite:./pokedex/data/pokemons/sprites/631.png

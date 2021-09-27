@@ -1,0 +1,4 @@
+id:433
+name:chingling
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/433.png

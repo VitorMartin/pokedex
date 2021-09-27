@@ -1,0 +1,4 @@
+id:407
+name:roserade
+types:grass,poison
+sprite:./pokedex/data/pokemons/sprites/407.png

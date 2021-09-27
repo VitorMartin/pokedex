@@ -1,0 +1,4 @@
+id:648
+name:meloetta-aria
+types:normal,psychic
+sprite:./pokedex/data/pokemons/sprites/648.png

@@ -1,0 +1,4 @@
+id:303
+name:mawile
+types:steel,fairy
+sprite:./pokedex/data/pokemons/sprites/303.png

@@ -1,0 +1,4 @@
+id:858
+name:hatterene
+types:psychic,fairy
+sprite:./pokedex/data/pokemons/sprites/858.png

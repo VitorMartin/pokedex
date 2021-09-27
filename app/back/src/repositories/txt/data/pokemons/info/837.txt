@@ -1,0 +1,4 @@
+id:837
+name:rolycoly
+types:rock
+sprite:./pokedex/data/pokemons/sprites/837.png

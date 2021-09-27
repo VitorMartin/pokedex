@@ -1,0 +1,4 @@
+id:521
+name:unfezant
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/521.png

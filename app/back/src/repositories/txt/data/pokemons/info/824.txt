@@ -1,0 +1,4 @@
+id:824
+name:blipbug
+types:bug
+sprite:./pokedex/data/pokemons/sprites/824.png

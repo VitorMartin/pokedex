@@ -1,0 +1,4 @@
+id:266
+name:silcoon
+types:bug
+sprite:./pokedex/data/pokemons/sprites/266.png

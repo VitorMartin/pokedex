@@ -1,0 +1,4 @@
+id:291
+name:ninjask
+types:bug,flying
+sprite:./pokedex/data/pokemons/sprites/291.png

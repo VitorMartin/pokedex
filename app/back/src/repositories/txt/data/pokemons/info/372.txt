@@ -1,0 +1,4 @@
+id:372
+name:shelgon
+types:dragon
+sprite:./pokedex/data/pokemons/sprites/372.png

@@ -1,0 +1,4 @@
+id:567
+name:archeops
+types:rock,flying
+sprite:./pokedex/data/pokemons/sprites/567.png

@@ -1,0 +1,4 @@
+id:250
+name:ho-oh
+types:fire,flying
+sprite:./pokedex/data/pokemons/sprites/250.png

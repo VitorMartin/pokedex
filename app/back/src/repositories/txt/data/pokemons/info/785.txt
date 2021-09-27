@@ -1,0 +1,4 @@
+id:785
+name:tapu-koko
+types:electric,fairy
+sprite:./pokedex/data/pokemons/sprites/785.png

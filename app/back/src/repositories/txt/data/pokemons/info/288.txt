@@ -1,0 +1,4 @@
+id:288
+name:vigoroth
+types:normal
+sprite:./pokedex/data/pokemons/sprites/288.png

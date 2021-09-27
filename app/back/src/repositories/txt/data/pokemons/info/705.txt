@@ -1,0 +1,4 @@
+id:705
+name:sliggoo
+types:dragon
+sprite:./pokedex/data/pokemons/sprites/705.png

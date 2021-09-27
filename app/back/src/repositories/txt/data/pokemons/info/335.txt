@@ -1,0 +1,4 @@
+id:335
+name:zangoose
+types:normal
+sprite:./pokedex/data/pokemons/sprites/335.png

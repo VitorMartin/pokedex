@@ -1,0 +1,4 @@
+id:568
+name:trubbish
+types:poison
+sprite:./pokedex/data/pokemons/sprites/568.png

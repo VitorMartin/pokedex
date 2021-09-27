@@ -1,0 +1,4 @@
+id:763
+name:tsareena
+types:grass
+sprite:./pokedex/data/pokemons/sprites/763.png

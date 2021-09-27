@@ -1,0 +1,4 @@
+id:747
+name:mareanie
+types:poison,water
+sprite:./pokedex/data/pokemons/sprites/747.png

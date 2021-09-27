@@ -1,0 +1,4 @@
+id:775
+name:komala
+types:normal
+sprite:./pokedex/data/pokemons/sprites/775.png

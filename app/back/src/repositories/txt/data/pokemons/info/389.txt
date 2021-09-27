@@ -1,0 +1,4 @@
+id:389
+name:torterra
+types:grass,ground
+sprite:./pokedex/data/pokemons/sprites/389.png

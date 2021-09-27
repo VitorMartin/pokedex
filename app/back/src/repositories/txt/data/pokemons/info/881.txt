@@ -1,0 +1,4 @@
+id:881
+name:arctozolt
+types:electric,ice
+sprite:./pokedex/data/pokemons/sprites/881.png

@@ -1,0 +1,4 @@
+id:315
+name:roselia
+types:grass,poison
+sprite:./pokedex/data/pokemons/sprites/315.png

@@ -1,0 +1,4 @@
+id:541
+name:swadloon
+types:bug,grass
+sprite:./pokedex/data/pokemons/sprites/541.png

@@ -1,0 +1,4 @@
+id:718
+name:zygarde
+types:dragon,ground
+sprite:./pokedex/data/pokemons/sprites/718.png

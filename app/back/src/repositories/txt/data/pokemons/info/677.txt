@@ -1,0 +1,4 @@
+id:677
+name:espurr
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/677.png

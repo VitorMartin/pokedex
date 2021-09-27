@@ -1,0 +1,4 @@
+id:183
+name:marill
+types:water,fairy
+sprite:./pokedex/data/pokemons/sprites/183.png

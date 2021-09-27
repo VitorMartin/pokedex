@@ -1,0 +1,4 @@
+id:604
+name:eelektross
+types:electric
+sprite:./pokedex/data/pokemons/sprites/604.png

@@ -1,0 +1,4 @@
+id:352
+name:kecleon
+types:normal
+sprite:./pokedex/data/pokemons/sprites/352.png

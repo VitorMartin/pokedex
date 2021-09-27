@@ -1,0 +1,4 @@
+id:850
+name:sizzlipede
+types:fire,bug
+sprite:./pokedex/data/pokemons/sprites/850.png

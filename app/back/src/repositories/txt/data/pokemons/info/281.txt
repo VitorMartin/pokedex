@@ -1,0 +1,4 @@
+id:281
+name:kirlia
+types:psychic,fairy
+sprite:./pokedex/data/pokemons/sprites/281.png

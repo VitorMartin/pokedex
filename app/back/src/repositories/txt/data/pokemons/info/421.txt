@@ -1,0 +1,4 @@
+id:421
+name:cherrim
+types:grass
+sprite:./pokedex/data/pokemons/sprites/421.png

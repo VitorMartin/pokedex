@@ -1,0 +1,4 @@
+id:714
+name:noibat
+types:flying,dragon
+sprite:./pokedex/data/pokemons/sprites/714.png

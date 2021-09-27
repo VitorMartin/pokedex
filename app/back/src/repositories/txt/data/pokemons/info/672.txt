@@ -1,0 +1,4 @@
+id:672
+name:skiddo
+types:grass
+sprite:./pokedex/data/pokemons/sprites/672.png

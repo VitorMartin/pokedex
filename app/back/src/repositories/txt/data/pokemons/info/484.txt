@@ -1,0 +1,4 @@
+id:484
+name:palkia
+types:water,dragon
+sprite:./pokedex/data/pokemons/sprites/484.png

@@ -1,0 +1,4 @@
+id:391
+name:monferno
+types:fire,fighting
+sprite:./pokedex/data/pokemons/sprites/391.png

@@ -1,0 +1,4 @@
+id:390
+name:chimchar
+types:fire
+sprite:./pokedex/data/pokemons/sprites/390.png

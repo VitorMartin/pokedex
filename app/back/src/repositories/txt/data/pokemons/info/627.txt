@@ -1,0 +1,4 @@
+id:627
+name:rufflet
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/627.png

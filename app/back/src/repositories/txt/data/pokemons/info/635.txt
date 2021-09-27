@@ -1,0 +1,4 @@
+id:635
+name:hydreigon
+types:dark,dragon
+sprite:./pokedex/data/pokemons/sprites/635.png

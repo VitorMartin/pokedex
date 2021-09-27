@@ -1,0 +1,4 @@
+id:349
+name:feebas
+types:water
+sprite:./pokedex/data/pokemons/sprites/349.png

@@ -1,0 +1,4 @@
+id:295
+name:exploud
+types:normal
+sprite:./pokedex/data/pokemons/sprites/295.png

@@ -1,0 +1,4 @@
+id:329
+name:vibrava
+types:ground,dragon
+sprite:./pokedex/data/pokemons/sprites/329.png

@@ -1,0 +1,4 @@
+id:841
+name:flapple
+types:grass,dragon
+sprite:./pokedex/data/pokemons/sprites/841.png

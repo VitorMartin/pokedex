@@ -1,0 +1,4 @@
+id:406
+name:budew
+types:grass,poison
+sprite:./pokedex/data/pokemons/sprites/406.png

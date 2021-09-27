@@ -1,0 +1,4 @@
+id:699
+name:aurorus
+types:rock,ice
+sprite:./pokedex/data/pokemons/sprites/699.png

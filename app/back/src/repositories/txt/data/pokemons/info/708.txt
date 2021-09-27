@@ -1,0 +1,4 @@
+id:708
+name:phantump
+types:ghost,grass
+sprite:./pokedex/data/pokemons/sprites/708.png

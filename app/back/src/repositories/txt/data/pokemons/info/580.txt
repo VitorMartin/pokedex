@@ -1,0 +1,4 @@
+id:580
+name:ducklett
+types:water,flying
+sprite:./pokedex/data/pokemons/sprites/580.png

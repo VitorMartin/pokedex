@@ -1,0 +1,4 @@
+id:584
+name:vanilluxe
+types:ice
+sprite:./pokedex/data/pokemons/sprites/584.png

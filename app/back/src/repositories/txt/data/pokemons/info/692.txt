@@ -1,0 +1,4 @@
+id:692
+name:clauncher
+types:water
+sprite:./pokedex/data/pokemons/sprites/692.png

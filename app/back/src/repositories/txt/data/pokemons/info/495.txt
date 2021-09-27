@@ -1,0 +1,4 @@
+id:495
+name:snivy
+types:grass
+sprite:./pokedex/data/pokemons/sprites/495.png

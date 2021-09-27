@@ -1,0 +1,4 @@
+id:313
+name:volbeat
+types:bug
+sprite:./pokedex/data/pokemons/sprites/313.png

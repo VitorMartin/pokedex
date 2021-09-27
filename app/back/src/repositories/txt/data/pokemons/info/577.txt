@@ -1,0 +1,4 @@
+id:577
+name:solosis
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/577.png

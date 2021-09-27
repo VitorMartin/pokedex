@@ -1,0 +1,4 @@
+id:304
+name:aron
+types:steel,rock
+sprite:./pokedex/data/pokemons/sprites/304.png

@@ -1,0 +1,4 @@
+id:613
+name:cubchoo
+types:ice
+sprite:./pokedex/data/pokemons/sprites/613.png

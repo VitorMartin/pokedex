@@ -1,0 +1,4 @@
+id:553
+name:krookodile
+types:ground,dark
+sprite:./pokedex/data/pokemons/sprites/553.png

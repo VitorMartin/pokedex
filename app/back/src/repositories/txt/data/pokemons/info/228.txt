@@ -1,0 +1,4 @@
+id:228
+name:houndour
+types:dark,fire
+sprite:./pokedex/data/pokemons/sprites/228.png

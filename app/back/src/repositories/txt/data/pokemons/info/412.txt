@@ -1,0 +1,4 @@
+id:412
+name:burmy
+types:bug
+sprite:./pokedex/data/pokemons/sprites/412.png

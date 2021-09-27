@@ -1,0 +1,4 @@
+id:162
+name:furret
+types:normal
+sprite:./pokedex/data/pokemons/sprites/162.png

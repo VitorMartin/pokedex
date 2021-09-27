@@ -1,0 +1,4 @@
+id:653
+name:fennekin
+types:fire
+sprite:./pokedex/data/pokemons/sprites/653.png

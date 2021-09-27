@@ -1,0 +1,4 @@
+id:371
+name:bagon
+types:dragon
+sprite:./pokedex/data/pokemons/sprites/371.png

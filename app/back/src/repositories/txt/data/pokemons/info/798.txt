@@ -1,0 +1,4 @@
+id:798
+name:kartana
+types:grass,steel
+sprite:./pokedex/data/pokemons/sprites/798.png

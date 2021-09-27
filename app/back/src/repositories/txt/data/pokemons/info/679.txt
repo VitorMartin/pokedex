@@ -1,0 +1,4 @@
+id:679
+name:honedge
+types:steel,ghost
+sprite:./pokedex/data/pokemons/sprites/679.png

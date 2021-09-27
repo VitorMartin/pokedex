@@ -1,0 +1,4 @@
+id:546
+name:cottonee
+types:grass,fairy
+sprite:./pokedex/data/pokemons/sprites/546.png

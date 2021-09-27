@@ -1,0 +1,4 @@
+id:698
+name:amaura
+types:rock,ice
+sprite:./pokedex/data/pokemons/sprites/698.png

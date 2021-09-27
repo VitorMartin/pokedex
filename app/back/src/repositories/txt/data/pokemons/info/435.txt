@@ -1,0 +1,4 @@
+id:435
+name:skuntank
+types:poison,dark
+sprite:./pokedex/data/pokemons/sprites/435.png

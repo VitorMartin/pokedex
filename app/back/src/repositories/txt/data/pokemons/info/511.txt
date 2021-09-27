@@ -1,0 +1,4 @@
+id:511
+name:pansage
+types:grass
+sprite:./pokedex/data/pokemons/sprites/511.png

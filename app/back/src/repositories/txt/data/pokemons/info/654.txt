@@ -1,0 +1,4 @@
+id:654
+name:braixen
+types:fire
+sprite:./pokedex/data/pokemons/sprites/654.png

@@ -1,0 +1,4 @@
+id:334
+name:altaria
+types:dragon,flying
+sprite:./pokedex/data/pokemons/sprites/334.png

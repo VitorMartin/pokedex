@@ -1,0 +1,4 @@
+id:378
+name:regice
+types:ice
+sprite:./pokedex/data/pokemons/sprites/378.png

@@ -1,0 +1,4 @@
+id:794
+name:buzzwole
+types:bug,fighting
+sprite:./pokedex/data/pokemons/sprites/794.png

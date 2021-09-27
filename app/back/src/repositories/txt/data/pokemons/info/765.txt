@@ -1,0 +1,4 @@
+id:765
+name:oranguru
+types:normal,psychic
+sprite:./pokedex/data/pokemons/sprites/765.png

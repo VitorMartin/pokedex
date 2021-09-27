@@ -1,0 +1,4 @@
+id:845
+name:cramorant
+types:flying,water
+sprite:./pokedex/data/pokemons/sprites/845.png

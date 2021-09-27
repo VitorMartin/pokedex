@@ -1,0 +1,4 @@
+id:443
+name:gible
+types:dragon,ground
+sprite:./pokedex/data/pokemons/sprites/443.png

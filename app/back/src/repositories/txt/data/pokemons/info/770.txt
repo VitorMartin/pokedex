@@ -1,0 +1,4 @@
+id:770
+name:palossand
+types:ghost,ground
+sprite:./pokedex/data/pokemons/sprites/770.png

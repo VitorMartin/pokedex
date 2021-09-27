@@ -1,0 +1,4 @@
+id:475
+name:gallade
+types:psychic,fighting
+sprite:./pokedex/data/pokemons/sprites/475.png

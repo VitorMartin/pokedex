@@ -1,0 +1,4 @@
+id:160
+name:feraligatr
+types:water
+sprite:./pokedex/data/pokemons/sprites/160.png

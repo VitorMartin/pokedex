@@ -1,0 +1,4 @@
+id:799
+name:guzzlord
+types:dark,dragon
+sprite:./pokedex/data/pokemons/sprites/799.png

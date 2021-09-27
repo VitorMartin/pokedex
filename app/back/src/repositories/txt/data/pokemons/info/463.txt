@@ -1,0 +1,4 @@
+id:463
+name:lickilicky
+types:normal
+sprite:./pokedex/data/pokemons/sprites/463.png

@@ -1,0 +1,4 @@
+id:365
+name:walrein
+types:ice,water
+sprite:./pokedex/data/pokemons/sprites/365.png

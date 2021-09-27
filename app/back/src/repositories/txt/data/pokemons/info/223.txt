@@ -1,0 +1,4 @@
+id:223
+name:remoraid
+types:water
+sprite:./pokedex/data/pokemons/sprites/223.png

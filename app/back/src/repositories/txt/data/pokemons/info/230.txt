@@ -1,0 +1,4 @@
+id:230
+name:kingdra
+types:water,dragon
+sprite:./pokedex/data/pokemons/sprites/230.png

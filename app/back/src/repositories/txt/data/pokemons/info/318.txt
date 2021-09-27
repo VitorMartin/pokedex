@@ -1,0 +1,4 @@
+id:318
+name:carvanha
+types:water,dark
+sprite:./pokedex/data/pokemons/sprites/318.png

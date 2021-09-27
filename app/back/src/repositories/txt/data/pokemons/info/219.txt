@@ -1,0 +1,4 @@
+id:219
+name:magcargo
+types:fire,rock
+sprite:./pokedex/data/pokemons/sprites/219.png

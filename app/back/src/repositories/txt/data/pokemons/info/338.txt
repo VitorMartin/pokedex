@@ -1,0 +1,4 @@
+id:338
+name:solrock
+types:rock,psychic
+sprite:./pokedex/data/pokemons/sprites/338.png

@@ -1,0 +1,4 @@
+id:688
+name:binacle
+types:rock,water
+sprite:./pokedex/data/pokemons/sprites/688.png

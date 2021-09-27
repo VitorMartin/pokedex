@@ -1,0 +1,4 @@
+id:259
+name:marshtomp
+types:water,ground
+sprite:./pokedex/data/pokemons/sprites/259.png

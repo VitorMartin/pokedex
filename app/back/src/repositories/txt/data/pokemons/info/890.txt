@@ -1,0 +1,4 @@
+id:890
+name:eternatus
+types:poison,dragon
+sprite:./pokedex/data/pokemons/sprites/890.png

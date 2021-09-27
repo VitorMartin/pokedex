@@ -1,0 +1,4 @@
+id:612
+name:haxorus
+types:dragon
+sprite:./pokedex/data/pokemons/sprites/612.png

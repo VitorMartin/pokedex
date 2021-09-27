@@ -1,0 +1,4 @@
+id:559
+name:scraggy
+types:dark,fighting
+sprite:./pokedex/data/pokemons/sprites/559.png

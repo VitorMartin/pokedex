@@ -1,0 +1,4 @@
+id:500
+name:emboar
+types:fire,fighting
+sprite:./pokedex/data/pokemons/sprites/500.png

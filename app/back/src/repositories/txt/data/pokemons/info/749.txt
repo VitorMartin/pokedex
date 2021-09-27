@@ -1,0 +1,4 @@
+id:749
+name:mudbray
+types:ground
+sprite:./pokedex/data/pokemons/sprites/749.png

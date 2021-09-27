@@ -1,0 +1,4 @@
+id:596
+name:galvantula
+types:bug,electric
+sprite:./pokedex/data/pokemons/sprites/596.png

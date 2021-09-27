@@ -1,0 +1,4 @@
+id:204
+name:pineco
+types:bug
+sprite:./pokedex/data/pokemons/sprites/204.png

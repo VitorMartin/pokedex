@@ -1,0 +1,4 @@
+id:182
+name:bellossom
+types:grass
+sprite:./pokedex/data/pokemons/sprites/182.png

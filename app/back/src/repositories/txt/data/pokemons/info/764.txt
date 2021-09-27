@@ -1,0 +1,4 @@
+id:764
+name:comfey
+types:fairy
+sprite:./pokedex/data/pokemons/sprites/764.png

@@ -1,0 +1,4 @@
+id:199
+name:slowking
+types:water,psychic
+sprite:./pokedex/data/pokemons/sprites/199.png

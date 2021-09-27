@@ -1,0 +1,4 @@
+id:171
+name:lanturn
+types:water,electric
+sprite:./pokedex/data/pokemons/sprites/171.png

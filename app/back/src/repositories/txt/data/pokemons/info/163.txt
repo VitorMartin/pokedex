@@ -1,0 +1,4 @@
+id:163
+name:hoothoot
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/163.png

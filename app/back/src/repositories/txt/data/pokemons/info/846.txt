@@ -1,0 +1,4 @@
+id:846
+name:arrokuda
+types:water
+sprite:./pokedex/data/pokemons/sprites/846.png

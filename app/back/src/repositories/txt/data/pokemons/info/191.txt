@@ -1,0 +1,4 @@
+id:191
+name:sunkern
+types:grass
+sprite:./pokedex/data/pokemons/sprites/191.png

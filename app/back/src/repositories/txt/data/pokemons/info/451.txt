@@ -1,0 +1,4 @@
+id:451
+name:skorupi
+types:poison,bug
+sprite:./pokedex/data/pokemons/sprites/451.png

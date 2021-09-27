@@ -1,0 +1,4 @@
+id:860
+name:morgrem
+types:dark,fairy
+sprite:./pokedex/data/pokemons/sprites/860.png

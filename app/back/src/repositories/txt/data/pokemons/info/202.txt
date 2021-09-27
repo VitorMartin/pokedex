@@ -1,0 +1,4 @@
+id:202
+name:wobbuffet
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/202.png

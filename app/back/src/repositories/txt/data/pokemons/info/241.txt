@@ -1,0 +1,4 @@
+id:241
+name:miltank
+types:normal
+sprite:./pokedex/data/pokemons/sprites/241.png

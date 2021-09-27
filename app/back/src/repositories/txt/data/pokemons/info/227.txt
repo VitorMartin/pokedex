@@ -1,0 +1,4 @@
+id:227
+name:skarmory
+types:steel,flying
+sprite:./pokedex/data/pokemons/sprites/227.png

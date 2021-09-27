@@ -1,0 +1,4 @@
+id:619
+name:mienfoo
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/619.png

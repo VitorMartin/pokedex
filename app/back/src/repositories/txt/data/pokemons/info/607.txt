@@ -1,0 +1,4 @@
+id:607
+name:litwick
+types:ghost,fire
+sprite:./pokedex/data/pokemons/sprites/607.png

@@ -1,0 +1,4 @@
+id:209
+name:snubbull
+types:fairy
+sprite:./pokedex/data/pokemons/sprites/209.png

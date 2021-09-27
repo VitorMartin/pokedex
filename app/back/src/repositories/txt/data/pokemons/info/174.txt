@@ -1,0 +1,4 @@
+id:174
+name:igglybuff
+types:normal,fairy
+sprite:./pokedex/data/pokemons/sprites/174.png

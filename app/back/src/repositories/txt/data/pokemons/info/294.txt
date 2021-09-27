@@ -1,0 +1,4 @@
+id:294
+name:loudred
+types:normal
+sprite:./pokedex/data/pokemons/sprites/294.png

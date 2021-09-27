@@ -1,0 +1,4 @@
+id:818
+name:inteleon
+types:water
+sprite:./pokedex/data/pokemons/sprites/818.png

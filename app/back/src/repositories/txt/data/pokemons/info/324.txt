@@ -1,0 +1,4 @@
+id:324
+name:torkoal
+types:fire
+sprite:./pokedex/data/pokemons/sprites/324.png

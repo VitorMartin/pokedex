@@ -1,0 +1,4 @@
+id:517
+name:munna
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/517.png

@@ -1,0 +1,4 @@
+id:879
+name:copperajah
+types:steel
+sprite:./pokedex/data/pokemons/sprites/879.png

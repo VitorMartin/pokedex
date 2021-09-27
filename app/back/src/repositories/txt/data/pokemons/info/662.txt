@@ -1,0 +1,4 @@
+id:662
+name:fletchinder
+types:fire,flying
+sprite:./pokedex/data/pokemons/sprites/662.png

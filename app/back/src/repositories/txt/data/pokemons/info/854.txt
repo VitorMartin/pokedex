@@ -1,0 +1,4 @@
+id:854
+name:sinistea
+types:ghost
+sprite:./pokedex/data/pokemons/sprites/854.png

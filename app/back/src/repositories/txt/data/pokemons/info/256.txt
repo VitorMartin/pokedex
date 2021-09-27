@@ -1,0 +1,4 @@
+id:256
+name:combusken
+types:fire,fighting
+sprite:./pokedex/data/pokemons/sprites/256.png

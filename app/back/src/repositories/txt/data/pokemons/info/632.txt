@@ -1,0 +1,4 @@
+id:632
+name:durant
+types:bug,steel
+sprite:./pokedex/data/pokemons/sprites/632.png

@@ -1,0 +1,4 @@
+id:164
+name:noctowl
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/164.png

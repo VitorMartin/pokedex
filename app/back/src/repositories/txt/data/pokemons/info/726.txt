@@ -1,0 +1,4 @@
+id:726
+name:torracat
+types:fire
+sprite:./pokedex/data/pokemons/sprites/726.png

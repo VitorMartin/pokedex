@@ -1,0 +1,4 @@
+id:289
+name:slaking
+types:normal
+sprite:./pokedex/data/pokemons/sprites/289.png

@@ -1,0 +1,4 @@
+id:682
+name:spritzee
+types:fairy
+sprite:./pokedex/data/pokemons/sprites/682.png

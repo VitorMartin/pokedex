@@ -1,0 +1,4 @@
+id:629
+name:vullaby
+types:dark,flying
+sprite:./pokedex/data/pokemons/sprites/629.png

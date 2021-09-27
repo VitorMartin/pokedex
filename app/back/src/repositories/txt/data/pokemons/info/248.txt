@@ -1,0 +1,4 @@
+id:248
+name:tyranitar
+types:rock,dark
+sprite:./pokedex/data/pokemons/sprites/248.png

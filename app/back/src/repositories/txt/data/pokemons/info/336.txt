@@ -1,0 +1,4 @@
+id:336
+name:seviper
+types:poison
+sprite:./pokedex/data/pokemons/sprites/336.png

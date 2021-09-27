@@ -1,0 +1,4 @@
+id:781
+name:dhelmise
+types:ghost,grass
+sprite:./pokedex/data/pokemons/sprites/781.png

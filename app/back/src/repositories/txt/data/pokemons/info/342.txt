@@ -1,0 +1,4 @@
+id:342
+name:crawdaunt
+types:water,dark
+sprite:./pokedex/data/pokemons/sprites/342.png

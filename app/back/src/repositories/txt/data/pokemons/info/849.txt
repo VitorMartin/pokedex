@@ -1,0 +1,4 @@
+id:849
+name:toxtricity-amped
+types:electric,poison
+sprite:./pokedex/data/pokemons/sprites/849.png

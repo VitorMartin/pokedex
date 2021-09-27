@@ -1,0 +1,4 @@
+id:807
+name:zeraora
+types:electric
+sprite:./pokedex/data/pokemons/sprites/807.png

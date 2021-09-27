@@ -1,0 +1,4 @@
+id:519
+name:pidove
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/519.png

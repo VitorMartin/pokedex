@@ -1,0 +1,4 @@
+id:274
+name:nuzleaf
+types:grass,dark
+sprite:./pokedex/data/pokemons/sprites/274.png

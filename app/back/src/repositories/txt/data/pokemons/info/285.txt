@@ -1,0 +1,4 @@
+id:285
+name:shroomish
+types:grass
+sprite:./pokedex/data/pokemons/sprites/285.png

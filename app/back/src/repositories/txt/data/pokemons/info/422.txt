@@ -1,0 +1,4 @@
+id:422
+name:shellos
+types:water
+sprite:./pokedex/data/pokemons/sprites/422.png

@@ -1,0 +1,4 @@
+id:836
+name:boltund
+types:electric
+sprite:./pokedex/data/pokemons/sprites/836.png

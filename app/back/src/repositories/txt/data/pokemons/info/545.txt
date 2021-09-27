@@ -1,0 +1,4 @@
+id:545
+name:scolipede
+types:bug,poison
+sprite:./pokedex/data/pokemons/sprites/545.png

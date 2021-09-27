@@ -1,0 +1,4 @@
+id:624
+name:pawniard
+types:dark,steel
+sprite:./pokedex/data/pokemons/sprites/624.png

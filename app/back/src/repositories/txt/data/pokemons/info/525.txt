@@ -1,0 +1,4 @@
+id:525
+name:boldore
+types:rock
+sprite:./pokedex/data/pokemons/sprites/525.png

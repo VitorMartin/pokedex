@@ -1,0 +1,4 @@
+id:446
+name:munchlax
+types:normal
+sprite:./pokedex/data/pokemons/sprites/446.png

@@ -1,0 +1,4 @@
+id:489
+name:phione
+types:water
+sprite:./pokedex/data/pokemons/sprites/489.png

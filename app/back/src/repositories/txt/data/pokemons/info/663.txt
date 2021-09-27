@@ -1,0 +1,4 @@
+id:663
+name:talonflame
+types:fire,flying
+sprite:./pokedex/data/pokemons/sprites/663.png

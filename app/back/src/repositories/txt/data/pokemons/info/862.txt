@@ -1,0 +1,4 @@
+id:862
+name:obstagoon
+types:dark,normal
+sprite:./pokedex/data/pokemons/sprites/862.png

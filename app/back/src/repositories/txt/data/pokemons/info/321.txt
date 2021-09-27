@@ -1,0 +1,4 @@
+id:321
+name:wailord
+types:water
+sprite:./pokedex/data/pokemons/sprites/321.png

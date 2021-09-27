@@ -1,0 +1,4 @@
+id:487
+name:giratina-altered
+types:ghost,dragon
+sprite:./pokedex/data/pokemons/sprites/487.png

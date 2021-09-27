@@ -1,0 +1,4 @@
+id:510
+name:liepard
+types:dark
+sprite:./pokedex/data/pokemons/sprites/510.png

@@ -1,0 +1,4 @@
+id:586
+name:sawsbuck
+types:normal,grass
+sprite:./pokedex/data/pokemons/sprites/586.png

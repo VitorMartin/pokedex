@@ -1,0 +1,4 @@
+id:759
+name:stufful
+types:normal,fighting
+sprite:./pokedex/data/pokemons/sprites/759.png

@@ -1,0 +1,4 @@
+id:804
+name:naganadel
+types:poison,dragon
+sprite:./pokedex/data/pokemons/sprites/804.png

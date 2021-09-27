@@ -1,0 +1,4 @@
+id:801
+name:magearna
+types:steel,fairy
+sprite:./pokedex/data/pokemons/sprites/801.png

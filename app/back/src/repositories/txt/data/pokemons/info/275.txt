@@ -1,0 +1,4 @@
+id:275
+name:shiftry
+types:grass,dark
+sprite:./pokedex/data/pokemons/sprites/275.png

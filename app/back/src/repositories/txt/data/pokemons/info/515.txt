@@ -1,0 +1,4 @@
+id:515
+name:panpour
+types:water
+sprite:./pokedex/data/pokemons/sprites/515.png

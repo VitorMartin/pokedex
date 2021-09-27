@@ -1,0 +1,4 @@
+id:494
+name:victini
+types:psychic,fire
+sprite:./pokedex/data/pokemons/sprites/494.png

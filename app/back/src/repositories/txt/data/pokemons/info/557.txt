@@ -1,0 +1,4 @@
+id:557
+name:dwebble
+types:bug,rock
+sprite:./pokedex/data/pokemons/sprites/557.png

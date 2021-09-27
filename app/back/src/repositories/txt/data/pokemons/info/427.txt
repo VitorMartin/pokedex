@@ -1,0 +1,4 @@
+id:427
+name:buneary
+types:normal
+sprite:./pokedex/data/pokemons/sprites/427.png

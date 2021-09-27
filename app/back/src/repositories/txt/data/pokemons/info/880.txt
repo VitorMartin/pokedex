@@ -1,0 +1,4 @@
+id:880
+name:dracozolt
+types:electric,dragon
+sprite:./pokedex/data/pokemons/sprites/880.png

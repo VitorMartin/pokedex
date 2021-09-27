@@ -1,0 +1,4 @@
+id:810
+name:grookey
+types:grass
+sprite:./pokedex/data/pokemons/sprites/810.png

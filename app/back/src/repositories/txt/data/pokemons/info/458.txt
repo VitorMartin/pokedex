@@ -1,0 +1,4 @@
+id:458
+name:mantyke
+types:water,flying
+sprite:./pokedex/data/pokemons/sprites/458.png

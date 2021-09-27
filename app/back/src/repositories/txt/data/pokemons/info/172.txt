@@ -1,0 +1,4 @@
+id:172
+name:pichu
+types:electric
+sprite:./pokedex/data/pokemons/sprites/172.png

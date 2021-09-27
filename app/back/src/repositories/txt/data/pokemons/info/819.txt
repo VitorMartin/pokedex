@@ -1,0 +1,4 @@
+id:819
+name:skwovet
+types:normal
+sprite:./pokedex/data/pokemons/sprites/819.png

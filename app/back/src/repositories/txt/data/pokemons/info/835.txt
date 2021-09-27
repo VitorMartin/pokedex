@@ -1,0 +1,4 @@
+id:835
+name:yamper
+types:electric
+sprite:./pokedex/data/pokemons/sprites/835.png

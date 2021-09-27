@@ -1,0 +1,4 @@
+id:543
+name:venipede
+types:bug,poison
+sprite:./pokedex/data/pokemons/sprites/543.png

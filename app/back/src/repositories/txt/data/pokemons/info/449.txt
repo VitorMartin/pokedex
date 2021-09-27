@@ -1,0 +1,4 @@
+id:449
+name:hippopotas
+types:ground
+sprite:./pokedex/data/pokemons/sprites/449.png

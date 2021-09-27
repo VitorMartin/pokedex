@@ -1,0 +1,4 @@
+id:750
+name:mudsdale
+types:ground
+sprite:./pokedex/data/pokemons/sprites/750.png

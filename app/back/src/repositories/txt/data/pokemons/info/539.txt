@@ -1,0 +1,4 @@
+id:539
+name:sawk
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/539.png

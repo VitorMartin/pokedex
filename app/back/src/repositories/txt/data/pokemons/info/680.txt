@@ -1,0 +1,4 @@
+id:680
+name:doublade
+types:steel,ghost
+sprite:./pokedex/data/pokemons/sprites/680.png

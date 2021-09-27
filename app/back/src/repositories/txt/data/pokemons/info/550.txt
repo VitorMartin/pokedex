@@ -1,0 +1,4 @@
+id:550
+name:basculin-red-striped
+types:water
+sprite:./pokedex/data/pokemons/sprites/550.png

@@ -1,0 +1,4 @@
+id:528
+name:swoobat
+types:psychic,flying
+sprite:./pokedex/data/pokemons/sprites/528.png

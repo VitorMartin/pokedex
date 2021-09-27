@@ -1,0 +1,4 @@
+id:159
+name:croconaw
+types:water
+sprite:./pokedex/data/pokemons/sprites/159.png

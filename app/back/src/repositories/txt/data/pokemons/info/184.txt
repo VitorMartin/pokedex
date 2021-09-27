@@ -1,0 +1,4 @@
+id:184
+name:azumarill
+types:water,fairy
+sprite:./pokedex/data/pokemons/sprites/184.png

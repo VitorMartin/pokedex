@@ -1,0 +1,4 @@
+id:581
+name:swanna
+types:water,flying
+sprite:./pokedex/data/pokemons/sprites/581.png

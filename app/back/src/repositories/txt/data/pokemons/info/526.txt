@@ -1,0 +1,4 @@
+id:526
+name:gigalith
+types:rock
+sprite:./pokedex/data/pokemons/sprites/526.png

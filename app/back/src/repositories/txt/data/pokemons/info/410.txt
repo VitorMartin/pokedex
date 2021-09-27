@@ -1,0 +1,4 @@
+id:410
+name:shieldon
+types:rock,steel
+sprite:./pokedex/data/pokemons/sprites/410.png

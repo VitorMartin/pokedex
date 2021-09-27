@@ -1,0 +1,4 @@
+id:713
+name:avalugg
+types:ice
+sprite:./pokedex/data/pokemons/sprites/713.png

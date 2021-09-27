@@ -1,0 +1,4 @@
+id:893
+name:zarude
+types:dark,grass
+sprite:./pokedex/data/pokemons/sprites/893.png

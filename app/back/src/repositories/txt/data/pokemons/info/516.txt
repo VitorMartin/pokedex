@@ -1,0 +1,4 @@
+id:516
+name:simipour
+types:water
+sprite:./pokedex/data/pokemons/sprites/516.png

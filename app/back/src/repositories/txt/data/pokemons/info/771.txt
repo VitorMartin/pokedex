@@ -1,0 +1,4 @@
+id:771
+name:pyukumuku
+types:water
+sprite:./pokedex/data/pokemons/sprites/771.png

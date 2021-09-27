@@ -1,0 +1,4 @@
+id:729
+name:brionne
+types:water
+sprite:./pokedex/data/pokemons/sprites/729.png

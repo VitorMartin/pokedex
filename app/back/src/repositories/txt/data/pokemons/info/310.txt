@@ -1,0 +1,4 @@
+id:310
+name:manectric
+types:electric
+sprite:./pokedex/data/pokemons/sprites/310.png

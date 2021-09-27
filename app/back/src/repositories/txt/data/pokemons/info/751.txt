@@ -1,0 +1,4 @@
+id:751
+name:dewpider
+types:water,bug
+sprite:./pokedex/data/pokemons/sprites/751.png

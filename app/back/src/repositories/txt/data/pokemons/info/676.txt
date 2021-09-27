@@ -1,0 +1,4 @@
+id:676
+name:furfrou
+types:normal
+sprite:./pokedex/data/pokemons/sprites/676.png

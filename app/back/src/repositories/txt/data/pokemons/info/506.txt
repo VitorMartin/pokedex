@@ -1,0 +1,4 @@
+id:506
+name:lillipup
+types:normal
+sprite:./pokedex/data/pokemons/sprites/506.png

@@ -1,0 +1,4 @@
+id:737
+name:charjabug
+types:bug,electric
+sprite:./pokedex/data/pokemons/sprites/737.png

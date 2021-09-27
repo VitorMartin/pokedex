@@ -1,0 +1,4 @@
+id:594
+name:alomomola
+types:water
+sprite:./pokedex/data/pokemons/sprites/594.png

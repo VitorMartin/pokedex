@@ -1,0 +1,4 @@
+id:347
+name:anorith
+types:rock,bug
+sprite:./pokedex/data/pokemons/sprites/347.png

@@ -1,0 +1,4 @@
+id:206
+name:dunsparce
+types:normal
+sprite:./pokedex/data/pokemons/sprites/206.png

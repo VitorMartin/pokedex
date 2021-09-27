@@ -1,0 +1,4 @@
+id:154
+name:meganium
+types:grass
+sprite:./pokedex/data/pokemons/sprites/154.png

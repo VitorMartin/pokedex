@@ -1,0 +1,4 @@
+id:376
+name:metagross
+types:steel,psychic
+sprite:./pokedex/data/pokemons/sprites/376.png

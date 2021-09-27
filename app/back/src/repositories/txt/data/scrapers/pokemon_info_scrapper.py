@@ -3,7 +3,7 @@ import requests
 base_url_all_pkms = 'https://pokeapi.co/api/v2/pokemon/'
 
 if __name__ == '__main__':
-    for i in range(1, 152):
+    for i in range(667, 899):
         url = base_url_all_pkms + str(i)
         pkm = requests.get(url=url).json()
         pkm_id = pkm['id']

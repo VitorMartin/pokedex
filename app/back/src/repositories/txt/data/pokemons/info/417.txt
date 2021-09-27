@@ -1,0 +1,4 @@
+id:417
+name:pachirisu
+types:electric
+sprite:./pokedex/data/pokemons/sprites/417.png

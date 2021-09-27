@@ -1,0 +1,4 @@
+id:563
+name:cofagrigus
+types:ghost
+sprite:./pokedex/data/pokemons/sprites/563.png

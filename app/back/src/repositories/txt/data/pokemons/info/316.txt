@@ -1,0 +1,4 @@
+id:316
+name:gulpin
+types:poison
+sprite:./pokedex/data/pokemons/sprites/316.png

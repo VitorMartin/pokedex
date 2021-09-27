@@ -1,0 +1,4 @@
+id:853
+name:grapploct
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/853.png

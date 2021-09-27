@@ -1,0 +1,4 @@
+id:843
+name:silicobra
+types:ground
+sprite:./pokedex/data/pokemons/sprites/843.png

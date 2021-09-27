@@ -1,0 +1,4 @@
+id:337
+name:lunatone
+types:rock,psychic
+sprite:./pokedex/data/pokemons/sprites/337.png

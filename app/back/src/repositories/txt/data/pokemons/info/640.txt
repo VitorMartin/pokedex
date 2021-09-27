@@ -1,0 +1,4 @@
+id:640
+name:virizion
+types:grass,fighting
+sprite:./pokedex/data/pokemons/sprites/640.png

@@ -1,0 +1,4 @@
+id:238
+name:smoochum
+types:ice,psychic
+sprite:./pokedex/data/pokemons/sprites/238.png

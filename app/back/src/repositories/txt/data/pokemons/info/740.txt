@@ -1,0 +1,4 @@
+id:740
+name:crabominable
+types:fighting,ice
+sprite:./pokedex/data/pokemons/sprites/740.png

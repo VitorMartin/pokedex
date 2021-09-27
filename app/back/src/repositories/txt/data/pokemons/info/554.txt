@@ -1,0 +1,4 @@
+id:554
+name:darumaka
+types:fire
+sprite:./pokedex/data/pokemons/sprites/554.png

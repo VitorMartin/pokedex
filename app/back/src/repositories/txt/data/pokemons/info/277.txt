@@ -1,0 +1,4 @@
+id:277
+name:swellow
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/277.png

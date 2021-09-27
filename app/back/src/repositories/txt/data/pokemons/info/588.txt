@@ -1,0 +1,4 @@
+id:588
+name:karrablast
+types:bug
+sprite:./pokedex/data/pokemons/sprites/588.png

@@ -1,0 +1,4 @@
+id:472
+name:gliscor
+types:ground,flying
+sprite:./pokedex/data/pokemons/sprites/472.png

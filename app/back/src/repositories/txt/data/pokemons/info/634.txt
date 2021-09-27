@@ -1,0 +1,4 @@
+id:634
+name:zweilous
+types:dark,dragon
+sprite:./pokedex/data/pokemons/sprites/634.png

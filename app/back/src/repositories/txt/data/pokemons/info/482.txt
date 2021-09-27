@@ -1,0 +1,4 @@
+id:482
+name:azelf
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/482.png

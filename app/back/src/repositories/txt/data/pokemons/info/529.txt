@@ -1,0 +1,4 @@
+id:529
+name:drilbur
+types:ground
+sprite:./pokedex/data/pokemons/sprites/529.png

@@ -1,0 +1,4 @@
+id:549
+name:lilligant
+types:grass
+sprite:./pokedex/data/pokemons/sprites/549.png

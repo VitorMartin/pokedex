@@ -1,0 +1,4 @@
+id:530
+name:excadrill
+types:ground,steel
+sprite:./pokedex/data/pokemons/sprites/530.png

@@ -1,0 +1,4 @@
+id:723
+name:dartrix
+types:grass,flying
+sprite:./pokedex/data/pokemons/sprites/723.png

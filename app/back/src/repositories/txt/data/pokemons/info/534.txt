@@ -1,0 +1,4 @@
+id:534
+name:conkeldurr
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/534.png

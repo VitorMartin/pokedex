@@ -1,0 +1,4 @@
+id:401
+name:kricketot
+types:bug
+sprite:./pokedex/data/pokemons/sprites/401.png

@@ -1,0 +1,4 @@
+id:585
+name:deerling
+types:normal,grass
+sprite:./pokedex/data/pokemons/sprites/585.png

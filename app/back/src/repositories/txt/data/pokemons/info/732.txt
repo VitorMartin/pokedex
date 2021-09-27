@@ -1,0 +1,4 @@
+id:732
+name:trumbeak
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/732.png

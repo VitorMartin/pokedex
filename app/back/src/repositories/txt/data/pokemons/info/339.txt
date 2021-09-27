@@ -1,0 +1,4 @@
+id:339
+name:barboach
+types:water,ground
+sprite:./pokedex/data/pokemons/sprites/339.png

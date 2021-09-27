@@ -1,0 +1,4 @@
+id:552
+name:krokorok
+types:ground,dark
+sprite:./pokedex/data/pokemons/sprites/552.png

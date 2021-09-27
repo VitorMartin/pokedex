@@ -1,0 +1,4 @@
+id:832
+name:dubwool
+types:normal
+sprite:./pokedex/data/pokemons/sprites/832.png

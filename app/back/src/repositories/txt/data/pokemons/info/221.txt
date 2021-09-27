@@ -1,0 +1,4 @@
+id:221
+name:piloswine
+types:ice,ground
+sprite:./pokedex/data/pokemons/sprites/221.png

@@ -1,0 +1,4 @@
+id:579
+name:reuniclus
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/579.png

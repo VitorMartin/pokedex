@@ -1,0 +1,4 @@
+id:621
+name:druddigon
+types:dragon
+sprite:./pokedex/data/pokemons/sprites/621.png

@@ -1,0 +1,4 @@
+id:724
+name:decidueye
+types:grass,ghost
+sprite:./pokedex/data/pokemons/sprites/724.png

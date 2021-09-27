@@ -1,0 +1,4 @@
+id:471
+name:glaceon
+types:ice
+sprite:./pokedex/data/pokemons/sprites/471.png

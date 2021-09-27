@@ -1,0 +1,4 @@
+id:512
+name:simisage
+types:grass
+sprite:./pokedex/data/pokemons/sprites/512.png

@@ -1,0 +1,4 @@
+id:301
+name:delcatty
+types:normal
+sprite:./pokedex/data/pokemons/sprites/301.png

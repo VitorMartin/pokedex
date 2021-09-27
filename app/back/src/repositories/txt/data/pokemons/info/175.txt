@@ -1,0 +1,4 @@
+id:175
+name:togepi
+types:fairy
+sprite:./pokedex/data/pokemons/sprites/175.png

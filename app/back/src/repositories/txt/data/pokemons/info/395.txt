@@ -1,0 +1,4 @@
+id:395
+name:empoleon
+types:water,steel
+sprite:./pokedex/data/pokemons/sprites/395.png

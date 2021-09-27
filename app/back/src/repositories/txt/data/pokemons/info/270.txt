@@ -1,0 +1,4 @@
+id:270
+name:lotad
+types:water,grass
+sprite:./pokedex/data/pokemons/sprites/270.png

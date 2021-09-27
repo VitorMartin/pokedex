@@ -1,0 +1,4 @@
+id:808
+name:meltan
+types:steel
+sprite:./pokedex/data/pokemons/sprites/808.png

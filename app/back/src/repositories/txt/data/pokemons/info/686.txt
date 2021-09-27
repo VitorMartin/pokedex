@@ -1,0 +1,4 @@
+id:686
+name:inkay
+types:dark,psychic
+sprite:./pokedex/data/pokemons/sprites/686.png

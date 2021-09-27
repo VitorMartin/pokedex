@@ -1,0 +1,4 @@
+id:473
+name:mamoswine
+types:ice,ground
+sprite:./pokedex/data/pokemons/sprites/473.png

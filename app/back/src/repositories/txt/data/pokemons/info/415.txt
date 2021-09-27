@@ -1,0 +1,4 @@
+id:415
+name:combee
+types:bug,flying
+sprite:./pokedex/data/pokemons/sprites/415.png

@@ -1,0 +1,4 @@
+id:327
+name:spinda
+types:normal
+sprite:./pokedex/data/pokemons/sprites/327.png

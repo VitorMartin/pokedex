@@ -1,0 +1,4 @@
+id:253
+name:grovyle
+types:grass
+sprite:./pokedex/data/pokemons/sprites/253.png

@@ -1,0 +1,4 @@
+id:326
+name:grumpig
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/326.png

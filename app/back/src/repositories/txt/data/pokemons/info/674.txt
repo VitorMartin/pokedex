@@ -1,0 +1,4 @@
+id:674
+name:pancham
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/674.png

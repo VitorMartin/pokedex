@@ -1,0 +1,4 @@
+id:503
+name:samurott
+types:water
+sprite:./pokedex/data/pokemons/sprites/503.png

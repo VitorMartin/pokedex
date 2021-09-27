@@ -1,0 +1,4 @@
+id:814
+name:raboot
+types:fire
+sprite:./pokedex/data/pokemons/sprites/814.png

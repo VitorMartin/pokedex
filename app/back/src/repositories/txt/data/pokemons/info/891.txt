@@ -1,0 +1,4 @@
+id:891
+name:kubfu
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/891.png

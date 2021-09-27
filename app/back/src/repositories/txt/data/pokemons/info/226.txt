@@ -1,0 +1,4 @@
+id:226
+name:mantine
+types:water,flying
+sprite:./pokedex/data/pokemons/sprites/226.png

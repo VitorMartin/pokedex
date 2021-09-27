@@ -1,0 +1,4 @@
+id:848
+name:toxel
+types:electric,poison
+sprite:./pokedex/data/pokemons/sprites/848.png

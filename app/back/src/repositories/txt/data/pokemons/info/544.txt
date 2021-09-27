@@ -1,0 +1,4 @@
+id:544
+name:whirlipede
+types:bug,poison
+sprite:./pokedex/data/pokemons/sprites/544.png

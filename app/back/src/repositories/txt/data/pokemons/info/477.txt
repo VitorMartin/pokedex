@@ -1,0 +1,4 @@
+id:477
+name:dusknoir
+types:ghost
+sprite:./pokedex/data/pokemons/sprites/477.png

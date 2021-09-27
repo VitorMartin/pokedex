@@ -1,0 +1,4 @@
+id:678
+name:meowstic-male
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/678.png

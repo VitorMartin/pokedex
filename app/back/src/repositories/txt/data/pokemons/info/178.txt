@@ -1,0 +1,4 @@
+id:178
+name:xatu
+types:psychic,flying
+sprite:./pokedex/data/pokemons/sprites/178.png

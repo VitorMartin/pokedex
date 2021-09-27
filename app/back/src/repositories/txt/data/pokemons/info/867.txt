@@ -1,0 +1,4 @@
+id:867
+name:runerigus
+types:ground,ghost
+sprite:./pokedex/data/pokemons/sprites/867.png

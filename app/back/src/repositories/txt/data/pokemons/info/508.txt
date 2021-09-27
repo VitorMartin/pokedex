@@ -1,0 +1,4 @@
+id:508
+name:stoutland
+types:normal
+sprite:./pokedex/data/pokemons/sprites/508.png

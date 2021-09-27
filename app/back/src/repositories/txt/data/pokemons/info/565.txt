@@ -1,0 +1,4 @@
+id:565
+name:carracosta
+types:water,rock
+sprite:./pokedex/data/pokemons/sprites/565.png

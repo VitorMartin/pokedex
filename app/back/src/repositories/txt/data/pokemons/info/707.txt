@@ -1,0 +1,4 @@
+id:707
+name:klefki
+types:steel,fairy
+sprite:./pokedex/data/pokemons/sprites/707.png

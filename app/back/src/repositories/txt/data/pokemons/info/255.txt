@@ -1,0 +1,4 @@
+id:255
+name:torchic
+types:fire
+sprite:./pokedex/data/pokemons/sprites/255.png

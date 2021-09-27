@@ -1,0 +1,4 @@
+id:490
+name:manaphy
+types:water
+sprite:./pokedex/data/pokemons/sprites/490.png

@@ -1,0 +1,4 @@
+id:861
+name:grimmsnarl
+types:dark,fairy
+sprite:./pokedex/data/pokemons/sprites/861.png

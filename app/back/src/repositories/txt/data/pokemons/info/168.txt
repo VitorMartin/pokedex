@@ -1,0 +1,4 @@
+id:168
+name:ariados
+types:bug,poison
+sprite:./pokedex/data/pokemons/sprites/168.png

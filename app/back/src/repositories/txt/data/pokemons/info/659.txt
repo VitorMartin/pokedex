@@ -1,0 +1,4 @@
+id:659
+name:bunnelby
+types:normal
+sprite:./pokedex/data/pokemons/sprites/659.png

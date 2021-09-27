@@ -1,0 +1,4 @@
+id:611
+name:fraxure
+types:dragon
+sprite:./pokedex/data/pokemons/sprites/611.png

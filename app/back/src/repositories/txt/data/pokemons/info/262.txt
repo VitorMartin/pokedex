@@ -1,0 +1,4 @@
+id:262
+name:mightyena
+types:dark
+sprite:./pokedex/data/pokemons/sprites/262.png

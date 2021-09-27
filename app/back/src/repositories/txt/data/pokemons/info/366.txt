@@ -1,0 +1,4 @@
+id:366
+name:clamperl
+types:water
+sprite:./pokedex/data/pokemons/sprites/366.png

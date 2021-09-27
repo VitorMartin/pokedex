@@ -1,0 +1,4 @@
+id:760
+name:bewear
+types:normal,fighting
+sprite:./pokedex/data/pokemons/sprites/760.png

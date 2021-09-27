@@ -1,0 +1,4 @@
+id:531
+name:audino
+types:normal
+sprite:./pokedex/data/pokemons/sprites/531.png

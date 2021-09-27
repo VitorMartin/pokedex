@@ -1,0 +1,4 @@
+id:314
+name:illumise
+types:bug
+sprite:./pokedex/data/pokemons/sprites/314.png

@@ -1,0 +1,4 @@
+id:386
+name:deoxys-normal
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/386.png

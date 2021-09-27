@@ -1,0 +1,4 @@
+id:709
+name:trevenant
+types:ghost,grass
+sprite:./pokedex/data/pokemons/sprites/709.png

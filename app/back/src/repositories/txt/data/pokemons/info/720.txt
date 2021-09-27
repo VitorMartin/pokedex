@@ -1,0 +1,4 @@
+id:720
+name:hoopa
+types:psychic,ghost
+sprite:./pokedex/data/pokemons/sprites/720.png

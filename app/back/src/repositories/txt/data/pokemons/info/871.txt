@@ -1,0 +1,4 @@
+id:871
+name:pincurchin
+types:electric
+sprite:./pokedex/data/pokemons/sprites/871.png

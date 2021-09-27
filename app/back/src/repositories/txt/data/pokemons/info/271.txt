@@ -1,0 +1,4 @@
+id:271
+name:lombre
+types:water,grass
+sprite:./pokedex/data/pokemons/sprites/271.png

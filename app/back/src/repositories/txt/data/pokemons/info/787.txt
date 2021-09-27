@@ -1,0 +1,4 @@
+id:787
+name:tapu-bulu
+types:grass,fairy
+sprite:./pokedex/data/pokemons/sprites/787.png

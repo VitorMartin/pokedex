@@ -1,0 +1,4 @@
+id:497
+name:serperior
+types:grass
+sprite:./pokedex/data/pokemons/sprites/497.png

@@ -1,0 +1,4 @@
+id:269
+name:dustox
+types:bug,poison
+sprite:./pokedex/data/pokemons/sprites/269.png

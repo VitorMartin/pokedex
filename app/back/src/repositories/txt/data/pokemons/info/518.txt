@@ -1,0 +1,4 @@
+id:518
+name:musharna
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/518.png

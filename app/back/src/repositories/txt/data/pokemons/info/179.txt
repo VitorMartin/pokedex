@@ -1,0 +1,4 @@
+id:179
+name:mareep
+types:electric
+sprite:./pokedex/data/pokemons/sprites/179.png

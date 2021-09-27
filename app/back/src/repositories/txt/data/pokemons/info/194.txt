@@ -1,0 +1,4 @@
+id:194
+name:wooper
+types:water,ground
+sprite:./pokedex/data/pokemons/sprites/194.png

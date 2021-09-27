@@ -1,0 +1,4 @@
+id:167
+name:spinarak
+types:bug,poison
+sprite:./pokedex/data/pokemons/sprites/167.png

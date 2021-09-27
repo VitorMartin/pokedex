@@ -1,0 +1,4 @@
+id:312
+name:minun
+types:electric
+sprite:./pokedex/data/pokemons/sprites/312.png

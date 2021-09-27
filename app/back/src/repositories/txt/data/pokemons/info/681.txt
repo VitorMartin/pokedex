@@ -1,0 +1,4 @@
+id:681
+name:aegislash-shield
+types:steel,ghost
+sprite:./pokedex/data/pokemons/sprites/681.png

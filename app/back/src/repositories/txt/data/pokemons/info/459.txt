@@ -1,0 +1,4 @@
+id:459
+name:snover
+types:grass,ice
+sprite:./pokedex/data/pokemons/sprites/459.png

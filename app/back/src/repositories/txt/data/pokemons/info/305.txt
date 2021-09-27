@@ -1,0 +1,4 @@
+id:305
+name:lairon
+types:steel,rock
+sprite:./pokedex/data/pokemons/sprites/305.png

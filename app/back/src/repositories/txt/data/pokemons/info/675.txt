@@ -1,0 +1,4 @@
+id:675
+name:pangoro
+types:fighting,dark
+sprite:./pokedex/data/pokemons/sprites/675.png

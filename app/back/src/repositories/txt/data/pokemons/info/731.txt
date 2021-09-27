@@ -1,0 +1,4 @@
+id:731
+name:pikipek
+types:normal,flying
+sprite:./pokedex/data/pokemons/sprites/731.png

@@ -1,0 +1,4 @@
+id:302
+name:sableye
+types:dark,ghost
+sprite:./pokedex/data/pokemons/sprites/302.png

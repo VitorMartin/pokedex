@@ -1,0 +1,4 @@
+id:332
+name:cacturne
+types:grass,dark
+sprite:./pokedex/data/pokemons/sprites/332.png

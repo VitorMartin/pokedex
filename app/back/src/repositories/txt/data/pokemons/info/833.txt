@@ -1,0 +1,4 @@
+id:833
+name:chewtle
+types:water
+sprite:./pokedex/data/pokemons/sprites/833.png

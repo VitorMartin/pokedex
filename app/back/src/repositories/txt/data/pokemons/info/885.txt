@@ -1,0 +1,4 @@
+id:885
+name:dreepy
+types:dragon,ghost
+sprite:./pokedex/data/pokemons/sprites/885.png

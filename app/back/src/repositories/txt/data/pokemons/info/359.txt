@@ -1,0 +1,4 @@
+id:359
+name:absol
+types:dark
+sprite:./pokedex/data/pokemons/sprites/359.png

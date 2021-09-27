@@ -1,0 +1,4 @@
+id:812
+name:rillaboom
+types:grass
+sprite:./pokedex/data/pokemons/sprites/812.png

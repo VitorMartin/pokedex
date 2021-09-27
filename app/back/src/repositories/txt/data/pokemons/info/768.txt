@@ -1,0 +1,4 @@
+id:768
+name:golisopod
+types:bug,water
+sprite:./pokedex/data/pokemons/sprites/768.png

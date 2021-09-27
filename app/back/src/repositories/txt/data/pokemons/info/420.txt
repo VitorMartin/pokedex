@@ -1,0 +1,4 @@
+id:420
+name:cherubi
+types:grass
+sprite:./pokedex/data/pokemons/sprites/420.png

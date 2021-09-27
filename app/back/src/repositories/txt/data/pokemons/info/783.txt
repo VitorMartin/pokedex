@@ -1,0 +1,4 @@
+id:783
+name:hakamo-o
+types:dragon,fighting
+sprite:./pokedex/data/pokemons/sprites/783.png

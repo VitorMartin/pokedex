@@ -1,0 +1,4 @@
+id:454
+name:toxicroak
+types:poison,fighting
+sprite:./pokedex/data/pokemons/sprites/454.png

@@ -1,0 +1,4 @@
+id:576
+name:gothitelle
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/576.png

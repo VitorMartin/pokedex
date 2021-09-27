@@ -1,0 +1,4 @@
+id:695
+name:heliolisk
+types:electric,normal
+sprite:./pokedex/data/pokemons/sprites/695.png

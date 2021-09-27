@@ -1,0 +1,4 @@
+id:719
+name:diancie
+types:rock,fairy
+sprite:./pokedex/data/pokemons/sprites/719.png

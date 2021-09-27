@@ -1,0 +1,4 @@
+id:418
+name:buizel
+types:water
+sprite:./pokedex/data/pokemons/sprites/418.png

@@ -1,0 +1,4 @@
+id:361
+name:snorunt
+types:ice
+sprite:./pokedex/data/pokemons/sprites/361.png

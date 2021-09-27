@@ -1,0 +1,4 @@
+id:769
+name:sandygast
+types:ghost,ground
+sprite:./pokedex/data/pokemons/sprites/769.png

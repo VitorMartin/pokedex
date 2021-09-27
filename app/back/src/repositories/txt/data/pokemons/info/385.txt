@@ -1,0 +1,4 @@
+id:385
+name:jirachi
+types:steel,psychic
+sprite:./pokedex/data/pokemons/sprites/385.png

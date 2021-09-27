@@ -1,0 +1,4 @@
+id:251
+name:celebi
+types:psychic,grass
+sprite:./pokedex/data/pokemons/sprites/251.png

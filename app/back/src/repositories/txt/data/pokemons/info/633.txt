@@ -1,0 +1,4 @@
+id:633
+name:deino
+types:dark,dragon
+sprite:./pokedex/data/pokemons/sprites/633.png

@@ -1,0 +1,4 @@
+id:573
+name:cinccino
+types:normal
+sprite:./pokedex/data/pokemons/sprites/573.png

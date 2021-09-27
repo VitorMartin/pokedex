@@ -1,0 +1,4 @@
+id:231
+name:phanpy
+types:ground
+sprite:./pokedex/data/pokemons/sprites/231.png

@@ -1,0 +1,4 @@
+id:786
+name:tapu-lele
+types:psychic,fairy
+sprite:./pokedex/data/pokemons/sprites/786.png

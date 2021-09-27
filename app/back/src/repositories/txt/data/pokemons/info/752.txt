@@ -1,0 +1,4 @@
+id:752
+name:araquanid
+types:water,bug
+sprite:./pokedex/data/pokemons/sprites/752.png

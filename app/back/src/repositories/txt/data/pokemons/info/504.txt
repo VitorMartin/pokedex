@@ -1,0 +1,4 @@
+id:504
+name:patrat
+types:normal
+sprite:./pokedex/data/pokemons/sprites/504.png

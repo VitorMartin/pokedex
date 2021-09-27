@@ -1,0 +1,4 @@
+id:215
+name:sneasel
+types:dark,ice
+sprite:./pokedex/data/pokemons/sprites/215.png

@@ -1,0 +1,4 @@
+id:614
+name:beartic
+types:ice
+sprite:./pokedex/data/pokemons/sprites/614.png

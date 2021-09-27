@@ -1,0 +1,4 @@
+id:878
+name:cufant
+types:steel
+sprite:./pokedex/data/pokemons/sprites/878.png

@@ -1,0 +1,4 @@
+id:311
+name:plusle
+types:electric
+sprite:./pokedex/data/pokemons/sprites/311.png

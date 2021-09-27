@@ -1,0 +1,4 @@
+id:815
+name:cinderace
+types:fire
+sprite:./pokedex/data/pokemons/sprites/815.png

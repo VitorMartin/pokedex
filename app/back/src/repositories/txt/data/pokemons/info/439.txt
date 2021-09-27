@@ -1,0 +1,4 @@
+id:439
+name:mime-jr
+types:psychic,fairy
+sprite:./pokedex/data/pokemons/sprites/439.png

@@ -1,0 +1,4 @@
+id:644
+name:zekrom
+types:dragon,electric
+sprite:./pokedex/data/pokemons/sprites/644.png

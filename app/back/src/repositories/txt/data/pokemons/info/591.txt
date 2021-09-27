@@ -1,0 +1,4 @@
+id:591
+name:amoonguss
+types:grass,poison
+sprite:./pokedex/data/pokemons/sprites/591.png

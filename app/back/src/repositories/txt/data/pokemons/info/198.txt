@@ -1,0 +1,4 @@
+id:198
+name:murkrow
+types:dark,flying
+sprite:./pokedex/data/pokemons/sprites/198.png

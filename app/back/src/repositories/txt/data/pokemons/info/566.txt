@@ -1,0 +1,4 @@
+id:566
+name:archen
+types:rock,flying
+sprite:./pokedex/data/pokemons/sprites/566.png

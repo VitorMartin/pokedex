@@ -1,0 +1,4 @@
+id:820
+name:greedent
+types:normal
+sprite:./pokedex/data/pokemons/sprites/820.png

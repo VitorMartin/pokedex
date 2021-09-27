@@ -1,0 +1,4 @@
+id:170
+name:chinchou
+types:water,electric
+sprite:./pokedex/data/pokemons/sprites/170.png

@@ -1,0 +1,4 @@
+id:375
+name:metang
+types:steel,psychic
+sprite:./pokedex/data/pokemons/sprites/375.png

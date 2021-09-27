@@ -1,0 +1,4 @@
+id:402
+name:kricketune
+types:bug
+sprite:./pokedex/data/pokemons/sprites/402.png

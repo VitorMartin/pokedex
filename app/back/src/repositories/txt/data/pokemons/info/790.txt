@@ -1,0 +1,4 @@
+id:790
+name:cosmoem
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/790.png

@@ -1,0 +1,4 @@
+id:767
+name:wimpod
+types:bug,water
+sprite:./pokedex/data/pokemons/sprites/767.png

@@ -1,0 +1,4 @@
+id:373
+name:salamence
+types:dragon,flying
+sprite:./pokedex/data/pokemons/sprites/373.png

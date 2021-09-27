@@ -1,0 +1,4 @@
+id:593
+name:jellicent
+types:water,ghost
+sprite:./pokedex/data/pokemons/sprites/593.png

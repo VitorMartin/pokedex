@@ -1,0 +1,4 @@
+id:870
+name:falinks
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/870.png

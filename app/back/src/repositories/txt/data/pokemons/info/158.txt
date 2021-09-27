@@ -1,0 +1,4 @@
+id:158
+name:totodile
+types:water
+sprite:./pokedex/data/pokemons/sprites/158.png

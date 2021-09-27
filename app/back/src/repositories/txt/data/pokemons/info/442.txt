@@ -1,0 +1,4 @@
+id:442
+name:spiritomb
+types:ghost,dark
+sprite:./pokedex/data/pokemons/sprites/442.png

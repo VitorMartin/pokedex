@@ -1,0 +1,4 @@
+id:884
+name:duraludon
+types:steel,dragon
+sprite:./pokedex/data/pokemons/sprites/884.png

@@ -1,0 +1,4 @@
+id:354
+name:banette
+types:ghost
+sprite:./pokedex/data/pokemons/sprites/354.png

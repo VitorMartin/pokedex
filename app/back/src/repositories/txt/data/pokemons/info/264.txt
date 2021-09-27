@@ -1,0 +1,4 @@
+id:264
+name:linoone
+types:normal
+sprite:./pokedex/data/pokemons/sprites/264.png

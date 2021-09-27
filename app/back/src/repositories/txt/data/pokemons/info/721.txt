@@ -1,0 +1,4 @@
+id:721
+name:volcanion
+types:fire,water
+sprite:./pokedex/data/pokemons/sprites/721.png

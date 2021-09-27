@@ -1,0 +1,4 @@
+id:797
+name:celesteela
+types:steel,flying
+sprite:./pokedex/data/pokemons/sprites/797.png

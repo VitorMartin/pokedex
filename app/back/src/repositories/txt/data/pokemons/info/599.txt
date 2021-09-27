@@ -1,0 +1,4 @@
+id:599
+name:klink
+types:steel
+sprite:./pokedex/data/pokemons/sprites/599.png

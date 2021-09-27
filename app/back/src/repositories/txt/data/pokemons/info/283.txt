@@ -1,0 +1,4 @@
+id:283
+name:surskit
+types:bug,water
+sprite:./pokedex/data/pokemons/sprites/283.png

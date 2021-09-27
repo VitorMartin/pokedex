@@ -1,0 +1,4 @@
+id:542
+name:leavanny
+types:bug,grass
+sprite:./pokedex/data/pokemons/sprites/542.png

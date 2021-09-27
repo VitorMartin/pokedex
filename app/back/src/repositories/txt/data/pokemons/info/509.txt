@@ -1,0 +1,4 @@
+id:509
+name:purrloin
+types:dark
+sprite:./pokedex/data/pokemons/sprites/509.png

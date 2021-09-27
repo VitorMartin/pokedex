@@ -1,0 +1,4 @@
+id:268
+name:cascoon
+types:bug
+sprite:./pokedex/data/pokemons/sprites/268.png

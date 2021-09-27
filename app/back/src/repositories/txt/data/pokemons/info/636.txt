@@ -1,0 +1,4 @@
+id:636
+name:larvesta
+types:bug,fire
+sprite:./pokedex/data/pokemons/sprites/636.png

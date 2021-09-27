@@ -1,0 +1,4 @@
+id:652
+name:chesnaught
+types:grass,fighting
+sprite:./pokedex/data/pokemons/sprites/652.png

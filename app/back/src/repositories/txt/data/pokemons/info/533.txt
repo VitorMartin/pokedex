@@ -1,0 +1,4 @@
+id:533
+name:gurdurr
+types:fighting
+sprite:./pokedex/data/pokemons/sprites/533.png

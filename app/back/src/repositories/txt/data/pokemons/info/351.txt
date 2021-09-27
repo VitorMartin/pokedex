@@ -1,0 +1,4 @@
+id:351
+name:castform
+types:normal
+sprite:./pokedex/data/pokemons/sprites/351.png

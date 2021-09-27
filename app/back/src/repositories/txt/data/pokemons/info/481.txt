@@ -1,0 +1,4 @@
+id:481
+name:mesprit
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/481.png

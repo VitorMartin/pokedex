@@ -1,0 +1,4 @@
+id:213
+name:shuckle
+types:bug,rock
+sprite:./pokedex/data/pokemons/sprites/213.png

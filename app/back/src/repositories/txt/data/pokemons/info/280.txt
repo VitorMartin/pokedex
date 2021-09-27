@@ -1,0 +1,4 @@
+id:280
+name:ralts
+types:psychic,fairy
+sprite:./pokedex/data/pokemons/sprites/280.png

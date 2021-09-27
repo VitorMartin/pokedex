@@ -1,0 +1,4 @@
+id:748
+name:toxapex
+types:poison,water
+sprite:./pokedex/data/pokemons/sprites/748.png

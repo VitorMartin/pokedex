@@ -1,0 +1,4 @@
+id:575
+name:gothorita
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/575.png

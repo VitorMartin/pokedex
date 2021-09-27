@@ -1,0 +1,4 @@
+id:480
+name:uxie
+types:psychic
+sprite:./pokedex/data/pokemons/sprites/480.png

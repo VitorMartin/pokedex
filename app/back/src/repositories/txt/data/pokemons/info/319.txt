@@ -1,0 +1,4 @@
+id:319
+name:sharpedo
+types:water,dark
+sprite:./pokedex/data/pokemons/sprites/319.png

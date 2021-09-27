@@ -1,0 +1,4 @@
+id:478
+name:froslass
+types:ice,ghost
+sprite:./pokedex/data/pokemons/sprites/478.png
