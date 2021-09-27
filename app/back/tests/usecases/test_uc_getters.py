@@ -13,7 +13,7 @@ class Test_UC_Getters:
 
         pkms = UC_Get_All_Pkms(repo)()
 
-        assert len(pkms) == 151
+        assert len(pkms) == 898
         assert pkms[0].toDict() == exp_pkm_1.toDict()
         assert pkms[1].toDict() == exp_pkm_2.toDict()
         assert pkms[2].toDict() == exp_pkm_3.toDict()
