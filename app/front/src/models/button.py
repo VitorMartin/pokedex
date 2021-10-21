@@ -1,10 +1,7 @@
 from app.front.src.models.i_dispositivo import I_Dispositivo
 
 class Button(I_Dispositivo): 
-
-    PINO_BTN = 20
-
-    def __init__(self, resistor=gpio.PUD_DOWN, borda=gpio.RISING, pino=PINO_BTN):
+    def __init__(self, pino, resistor=gpio.PUD_DOWN, borda=gpio.RISING):
 
         self._pino = pino
         self._setup = gpio.IN
