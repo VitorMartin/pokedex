@@ -1,0 +1,19 @@
+- Codar controller para GPIO (controle de LEDs, BTNs, tela e speaker)
+- Codar usecase get image absolute path (para frontend conseguir buscar imagens)
+- Codar error handling
+
+- Cortar audios - https://www.youtube.com/watch?v=JCyUKOwp-ww
+- Encontrar splash image (assim que ligar a Pokedex, imagem enquanto o programa carrega)
+- Encontrar background image (pagina de lista e pagina do pokemon selecionado)
+
+- Escrever relatorio
+- Impressao 3D
+- Comprar materiais:
+    - 1 Raspberry Pi Pico
+    - 1 push btn direcional
+    - 2 push btn
+    - 1 switch 2 pos
+    - 1 modulo SD
+    - 1 modulo TFT LCD
+    - 1 modulo speaker
+    - 4 LEDs mini (azul, verm, amar, verde)

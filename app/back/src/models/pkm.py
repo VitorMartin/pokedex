@@ -42,3 +42,6 @@ class Pkm:
             PKM_KEY.TYPES.value: self.types,
             PKM_KEY.SPRITE_FILENAME.value: self.sprite_filename
         }
+    
+    def to_msg() -> str:
+        pass
