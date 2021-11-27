@@ -1,11 +1,5 @@
-/*
- * drawRect(int16_t x, int16_t y, int16_t w, int16_t h, uint16_t color) 
- * fillRect(int16_t x, int16_t y, int16_t w, int16_t h, uint16_t color) 
-*/
-
 #include <MCUFRIEND_kbv.h>
 #include <SPI.h>
-#include <SD.h>
 MCUFRIEND_kbv tft;
 #define BLACK 0x0000
 #define NAVY 0x000F
@@ -27,11 +21,15 @@ MCUFRIEND_kbv tft;
 #define GREENYELLOW 0xAFE5
 #define PINK 0xF81F
 
-extern uint8_t* pkmBmpAllArray[9];
+#define pinBtnEsq 11
+#define pinBtnDir 10
+
+int idCounter = 1;
+
+extern uint8_t* pkmMsgAllArray[10];
+//extern uint8_t* pkmBmpAllArray[9];
 extern uint8_t pokemon_logo[];
 extern uint8_t pokeball[];
-//const unsigned char sprite[] PROGMEM;
-
 
 int ApertureDiameter = 12;
 int delayMS = 400;
@@ -46,47 +44,13 @@ int NA_radius = 50;
 
 unsigned short *line = 0;
 
-int16_t x_rect1 = 8;
-int16_t y_rect1 = 36;
-int16_t h_rect1 = 96;
-int16_t w_rect1 = 96;
-int16_t color_rect1 = WHITE;
-
-int16_t x_rect2 = 112;
-int16_t y_rect2 = 72+40;
-int16_t h_rect2 = 18;
-int16_t w_rect2 = 200;
-int16_t color_rect2 = WHITE;
-
-int16_t x_rect3 = 112;
-int16_t y_rect3 = 111+40;
-int16_t h_rect3 = 18;
-int16_t w_rect3 = 200;
-int16_t color_rect3 = WHITE;
-
-int16_t x_rect4 = 112;
-int16_t y_rect4 = 150+40;
-int16_t h_rect4 = 18;
-int16_t w_rect4 = 200;
-int16_t color_rect4 = WHITE;
-
-
-int16_t x_logo = 120;
-int16_t y_logo = 10;
-int16_t h_logo = 50;
-int16_t w_logo = 180;
-int16_t color_logo = WHITE;
-
 void setup() {
-  Serial.begin(9600);
-  uint16_t ID = tft.readID(); // Lê o ID do display e armazena na variável
-  Serial.print ("Identificador do driver: ");
-  Serial.println(ID,HEX);
-  tft.begin(ID); // Pega o ID que foi salvo e deixa o LCD pronto para começar
+  pinMode(pinBtnEsq, INPUT);
+  pinMode(pinBtnDir, INPUT);
+  uint16_t ID = tft.readID();
+  tft.begin(ID);
   tft.setRotation(1);
-
-  refreshScreen();
-  delay(1000);
+  drawPkm(pkmMsgAllArray[idCounter]);
 }
 
 void loop() {
@@ -101,24 +65,31 @@ void loop() {
   drawPkm(pk3);
   delay(1000);
   */
-  if (Serial.available() > 0) {
-    String data = Serial.readStringUntil('\n');
-    Serial.println(data); //1;Bulbasaur;Poison, grass
-    drawPkm(data);
+  
+  if (digitalRead(pinBtnEsq)){
+    if (idCounter == 1) idCounter = 9;
+    else idCounter--;
+    drawPkm(pkmMsgAllArray[idCounter]);
   }
+  else if (digitalRead(pinBtnDir)){
+    if (idCounter == 9) idCounter = 1;
+    else idCounter++;
+    drawPkm(pkmMsgAllArray[idCounter]);
+  }
+  
 }
 
 void refreshScreen(){
   tft.fillScreen(BLACK);
   tft.setCursor(10, 100);
-  tft.drawRect(x_rect1, y_rect1, w_rect1, h_rect1, color_rect1);
-  tft.drawRect(x_rect2, y_rect2, w_rect2, h_rect2, color_rect2);
-  tft.fillRect(x_rect2, y_rect2, w_rect2, h_rect2, color_rect2);
-  tft.drawRect(x_rect3, y_rect3, w_rect3, h_rect3, color_rect3);
-  tft.fillRect(x_rect3, y_rect3, w_rect3, h_rect3, color_rect3);
-  tft.drawRect(x_rect4, y_rect4, w_rect4, h_rect4, color_rect4);
-  tft.fillRect(x_rect4, y_rect4, w_rect4, h_rect4, color_rect4);
-  drawBitmap(x_logo, y_logo, pokemon_logo, 180, 101, WHITE);
+  tft.drawRect(8, 36, 96, 96, WHITE);
+  tft.drawRect(112, 112, 200, 18, WHITE);
+  tft.fillRect(112, 112, 200, 18, WHITE);
+  tft.drawRect(112, 151, 200, 18, WHITE);
+  tft.fillRect(112, 151, 200, 18, WHITE);
+  tft.drawRect(112, 190, 200, 18, WHITE);
+  tft.fillRect(112, 190, 200, 18, WHITE);
+  drawBitmap(120, 10, pokemon_logo, 180, 101, WHITE);
   drawBitmap(18, 150, pokeball, 75, 75, WHITE);
 }
 
