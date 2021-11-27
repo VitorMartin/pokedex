@@ -1,6 +1,8 @@
 #include <MCUFRIEND_kbv.h>
 #include <SPI.h>
+
 MCUFRIEND_kbv tft;
+
 #define BLACK 0x0000
 #define NAVY 0x000F
 #define DARKGREEN 0x03E0
@@ -26,58 +28,35 @@ MCUFRIEND_kbv tft;
 
 int idCounter = 1;
 
-extern uint8_t* pkmNameArr[10];
-extern uint8_t* pkmTypeArr[10];
-//extern uint8_t* pkmBmpAllArray[9];
+extern int pkmLen;
 extern uint8_t pokemon_logo[];
 extern uint8_t pokeball[];
-
-int ApertureDiameter = 12;
-int delayMS = 400;
-
-int x_size = 320;
-int y_size = 240;
-
-int x_centre = x_size/2;
-int y_centre = y_size/2;
-
-int NA_radius = 50;
-
-unsigned short *line = 0;
+extern uint8_t* pkmBmpArr[10];
+extern uint8_t* pkmNameArr[10];
+extern uint8_t* pkmTypeArr[10];
 
 void setup() {
   pinMode(pinBtnEsq, INPUT);
   pinMode(pinBtnDir, INPUT);
+  
   uint16_t ID = tft.readID();
   tft.begin(ID);
   tft.setRotation(1);
+  
   drawPkm(idCounter, pkmNameArr[idCounter], pkmTypeArr[idCounter]);
 }
 
 void loop() {
-  /*
-  char pk1[] = "1;Bulbasaur;Grass, Poison";
-  char pk2[] = "4;Charmander;Fire";
-  char pk3[] = "7;Squirtle;Water";
-  drawPkm(pk1);
-  delay(1000);
-  drawPkm(pk2);
-  delay(1000);
-  drawPkm(pk3);
-  delay(1000);
-  */
-  
   if (digitalRead(pinBtnEsq)){
-    if (idCounter == 1) idCounter = 9;
+    if (idCounter == 1) idCounter = pkmLen - 1;
     else idCounter--;
     drawPkm(idCounter, pkmNameArr[idCounter], pkmTypeArr[idCounter]);
   }
   else if (digitalRead(pinBtnDir)){
-    if (idCounter == 9) idCounter = 1;
+    if (idCounter == pkmLen - 1) idCounter = 1;
     else idCounter++;
     drawPkm(idCounter, pkmNameArr[idCounter], pkmTypeArr[idCounter]);
   }
-  
 }
 
 void refreshScreen(){
@@ -95,49 +74,11 @@ void refreshScreen(){
 }
 
 void drawPkm(int id, char* nome, char* type) {
-
   refreshScreen();
+
   // SPRITE
-  switch (id){
-    case 1:
-      extern uint8_t pkmBmp1[];
-      drawBitmap(8, 36, pkmBmp1, 96, 96, WHITE);
-      break;
-    case 2:
-      extern uint8_t pkmBmp2[];
-      drawBitmap(8, 36, pkmBmp2, 96, 96, WHITE);
-      break;
-    case 3:
-      extern uint8_t pkmBmp3[];
-      drawBitmap(8, 36, pkmBmp3, 96, 96, WHITE);
-      break;
-    case 4:
-      extern uint8_t pkmBmp4[];
-      drawBitmap(8, 36, pkmBmp4, 96, 96, WHITE);
-      break;
-    case 5:
-      extern uint8_t pkmBmp5[];
-      drawBitmap(8, 36, pkmBmp5, 96, 96, WHITE);
-      break;
-    case 6:
-      extern uint8_t pkmBmp6[];
-      drawBitmap(8, 36, pkmBmp6, 96, 96, WHITE);
-      break;
-    case 7:
-      extern uint8_t pkmBmp7[];
-      drawBitmap(8, 36, pkmBmp7, 96, 96, WHITE);
-      break;
-    case 8:
-      extern uint8_t pkmBmp8[];
-      drawBitmap(8, 36, pkmBmp8, 96, 96, WHITE);
-      break;
-    case 9:
-      extern uint8_t pkmBmp9[];
-      drawBitmap(8, 36, pkmBmp9, 96, 96, WHITE);
-      break;
-    default:
-      break;
-  }
+  drawBitmap(8, 36, pkmBmpArr[id], 96, 96, WHITE);
+  
   // ID
   tft.setCursor(190, 114);
   tft.setTextColor(BLACK);

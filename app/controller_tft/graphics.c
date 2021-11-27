@@ -1,30 +1,6 @@
 #include <avr/pgmspace.h>
 
 const int pkmLen = 10;
-const unsigned char* pkmNameArr[10] = {
-  "No name",
-  "Bulbasaur",
-  "Ivysaur",
-  "Venusaur",
-  "Charmander",
-  "Charmeleon",
-  "Charizard",
-  "Squirtle",
-  "Wartortle",
-  "Blastoise"
-};
-const unsigned char* pkmTypeArr[10] = {
-  "No type",
-  "Grass, poison",
-  "Grass, poison",
-  "Grass, poison",
-  "Fire",
-  "Fire",
-  "Fire, flying",
-  "Water",
-  "Water",
-  "Water"
-};
 
 const unsigned char pokeball [] PROGMEM = {
   0xff, 0xff, 0xff, 0xfc, 0x00, 0x0f, 0xff, 0xff, 0xff, 0xe0, 0xff, 0xff, 0xff, 0xc0, 0x00, 0x00, 
@@ -901,10 +877,8 @@ const unsigned char pkmBmp9 [] PROGMEM = {
   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff
 };
 
-// Array of all bitmaps for convenience. (Total bytes used to store images in PROGMEM = 10512)
-const int pkmBmpAllArray_LEN = 9;
-const unsigned char* pkmBmpAllArray[9] = {
-  pkmBmp1, //ID 0
+const unsigned char* pkmBmpArr[10] = {
+  pkmBmp1, //ID 0 - invalid pkm
   pkmBmp1,
   pkmBmp2,
   pkmBmp3,
@@ -914,4 +888,30 @@ const unsigned char* pkmBmpAllArray[9] = {
   pkmBmp7,
   pkmBmp8,
   pkmBmp9
+};
+
+const unsigned char* pkmNameArr[10] = {
+  "No name",
+  "Bulbasaur",
+  "Ivysaur",
+  "Venusaur",
+  "Charmander",
+  "Charmeleon",
+  "Charizard",
+  "Squirtle",
+  "Wartortle",
+  "Blastoise"
+};
+
+const unsigned char* pkmTypeArr[10] = {
+  "No type",
+  "Grass, poison",
+  "Grass, poison",
+  "Grass, poison",
+  "Fire",
+  "Fire",
+  "Fire, flying",
+  "Water",
+  "Water",
+  "Water"
 };
