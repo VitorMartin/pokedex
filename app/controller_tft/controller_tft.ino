@@ -26,7 +26,8 @@ MCUFRIEND_kbv tft;
 
 int idCounter = 1;
 
-extern uint8_t* pkmMsgAllArray[10];
+extern uint8_t* pkmNameArr[10];
+extern uint8_t* pkmTypeArr[10];
 //extern uint8_t* pkmBmpAllArray[9];
 extern uint8_t pokemon_logo[];
 extern uint8_t pokeball[];
@@ -50,7 +51,7 @@ void setup() {
   uint16_t ID = tft.readID();
   tft.begin(ID);
   tft.setRotation(1);
-  drawPkm(pkmMsgAllArray[idCounter]);
+  drawPkm(idCounter, pkmNameArr[idCounter], pkmTypeArr[idCounter]);
 }
 
 void loop() {
@@ -69,12 +70,12 @@ void loop() {
   if (digitalRead(pinBtnEsq)){
     if (idCounter == 1) idCounter = 9;
     else idCounter--;
-    drawPkm(pkmMsgAllArray[idCounter]);
+    drawPkm(idCounter, pkmNameArr[idCounter], pkmTypeArr[idCounter]);
   }
   else if (digitalRead(pinBtnDir)){
     if (idCounter == 9) idCounter = 1;
     else idCounter++;
-    drawPkm(pkmMsgAllArray[idCounter]);
+    drawPkm(idCounter, pkmNameArr[idCounter], pkmTypeArr[idCounter]);
   }
   
 }
@@ -93,47 +94,44 @@ void refreshScreen(){
   drawBitmap(18, 150, pokeball, 75, 75, WHITE);
 }
 
-void drawPkm(char msg[]) {
-  char* id = strtok(msg, ";");
-  char* nome = strtok(NULL, ";");
-  char* tipos = strtok(NULL, ";");
+void drawPkm(int id, char* nome, char* type) {
 
   refreshScreen();
   // SPRITE
-  switch (*id){
-    case '1':
+  switch (id){
+    case 1:
       extern uint8_t pkmBmp1[];
       drawBitmap(8, 36, pkmBmp1, 96, 96, WHITE);
       break;
-    case '2':
+    case 2:
       extern uint8_t pkmBmp2[];
       drawBitmap(8, 36, pkmBmp2, 96, 96, WHITE);
       break;
-    case '3':
+    case 3:
       extern uint8_t pkmBmp3[];
       drawBitmap(8, 36, pkmBmp3, 96, 96, WHITE);
       break;
-    case '4':
+    case 4:
       extern uint8_t pkmBmp4[];
       drawBitmap(8, 36, pkmBmp4, 96, 96, WHITE);
       break;
-    case '5':
+    case 5:
       extern uint8_t pkmBmp5[];
       drawBitmap(8, 36, pkmBmp5, 96, 96, WHITE);
       break;
-    case '6':
+    case 6:
       extern uint8_t pkmBmp6[];
       drawBitmap(8, 36, pkmBmp6, 96, 96, WHITE);
       break;
-    case '7':
+    case 7:
       extern uint8_t pkmBmp7[];
       drawBitmap(8, 36, pkmBmp7, 96, 96, WHITE);
       break;
-    case '8':
+    case 8:
       extern uint8_t pkmBmp8[];
       drawBitmap(8, 36, pkmBmp8, 96, 96, WHITE);
       break;
-    case '9':
+    case 9:
       extern uint8_t pkmBmp9[];
       drawBitmap(8, 36, pkmBmp9, 96, 96, WHITE);
       break;
@@ -156,7 +154,7 @@ void drawPkm(char msg[]) {
   tft.setCursor(120,192);
   tft.setTextColor(BLACK);
   tft.setTextSize(2);
-  tft.print(tipos);
+  tft.print(type);
 }
 
 void drawBitmap(int16_t x, int16_t y, uint8_t *bitmap, int16_t w, int16_t h, uint16_t color) {

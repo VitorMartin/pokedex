@@ -1,17 +1,29 @@
 #include <avr/pgmspace.h>
 
-const int pkmMsgAllArray_LEN = 10;
-const unsigned char* pkmMsgAllArray[10] = {
-  "0;No name;No type",
-  "1;Bulbasaur;Grass, poison",
-  "2;Ivysaur;Grass, poison",
-  "3;Venusaur;Grass, poison",
-  "4;Charmander;Fire",
-  "5;Charmeleon;Fire",
-  "6;Charizard;Fire, flying",
-  "7;Squirtle;Water",
-  "8;Wartortle;Water",
-  "9;Blastoise;Water"
+const int pkmLen = 10;
+const unsigned char* pkmNameArr[10] = {
+  "No name",
+  "Bulbasaur",
+  "Ivysaur",
+  "Venusaur",
+  "Charmander",
+  "Charmeleon",
+  "Charizard",
+  "Squirtle",
+  "Wartortle",
+  "Blastoise"
+};
+const unsigned char* pkmTypeArr[10] = {
+  "No type",
+  "Grass, poison",
+  "Grass, poison",
+  "Grass, poison",
+  "Fire",
+  "Fire",
+  "Fire, flying",
+  "Water",
+  "Water",
+  "Water"
 };
 
 const unsigned char pokeball [] PROGMEM = {
