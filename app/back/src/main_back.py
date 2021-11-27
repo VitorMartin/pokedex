@@ -5,6 +5,8 @@ from app.back.src.test_mcc_connection.blink import Blink
 
 class Main_Back:
     def __init__(self, test_ctrl: bool = False, test_pico_connection: bool = False):
+        print('Back iniciando...')
+        
         if test_ctrl:
             self.repo = Repo_Txt()
             self.ctrl = Fact_Ctrl_Func(self.repo)

@@ -90,6 +90,7 @@ void setup() {
 }
 
 void loop() {
+  /*
   char pk1[] = "1;Bulbasaur;Grass, Poison";
   char pk2[] = "4;Charmander;Fire";
   char pk3[] = "7;Squirtle;Water";
@@ -99,14 +100,12 @@ void loop() {
   delay(1000);
   drawPkm(pk3);
   delay(1000);
-  
-  /*
+  */
   if (Serial.available() > 0) {
     String data = Serial.readStringUntil('\n');
     Serial.println(data); //1;Bulbasaur;Poison, grass
-    drawPkm(data)
+    drawPkm(data);
   }
-  */
 }
 
 void refreshScreen(){
